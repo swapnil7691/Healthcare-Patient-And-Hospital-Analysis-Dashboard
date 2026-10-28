@@ -1,0 +1,1801 @@
+appointment_id,patient_id,appointment_date,doctor_name,department,appointment_type,status,consultation_fee,city
+50001,1401,2026-05-13,Dr. R. Shah,Orthopedics,Emergency,No-show,1464.99,Nagpur
+50002,1276,2026-05-22,Dr. T. More,Ophthalmology,Consultation,No-show,936.34,Solapur
+50003,1303,2026-07-09,Dr. A. Kulkarni,General Medicine,Diagnostic,Completed,530.91,Nagpur
+50004,1101,2025-03-06,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1159.84,Navi Mumbai
+50005,1424,2025-04-12,Dr. V. Rao,General Medicine,Diagnostic,Scheduled,791.74,Mumbai
+50006,1466,2026-08-19,Dr. S. Patil,Pediatrics,Consultation,Completed,917.38,Mumbai
+50007,1204,2026-09-07,Dr. T. More,Dentistry,Emergency,Completed,1223.41,Satara
+50008,1047,2026-04-26,Dr. I. Gupta,Cardiology,Follow-up,Completed,2396.19,Solapur
+50009,1425,2025-03-12,Dr. R. Shah,Gynecology,Consultation,Completed,888.86,Mumbai
+50010,1444,2025-02-15,Dr. S. Patil,Gynecology,Follow-up,Completed,943.01,Satara
+50011,1254,2025-02-06,Dr. A. Kulkarni,Cardiology,Follow-up,Scheduled,2046.39,Nashik
+50012,1290,2026-04-04,Dr. K. Singh,Orthopedics,Consultation,No-show,917.54,Aurangabad
+50013,1112,2026-07-15,Dr. T. More,Dermatology,Consultation,Scheduled,983.46,Satara
+50014,1034,2026-02-23,Dr. V. Rao,Ophthalmology,Follow-up,Completed,988.17,Thane
+50015,1473,2025-06-23,Dr. R. Shah,General Medicine,Follow-up,Completed,669.76,Nashik
+50016,1242,2026-05-17,Dr. R. Shah,General Medicine,Consultation,Completed,556.34,Nashik
+50017,1138,2025-02-09,Dr. A. Kulkarni,ENT,Diagnostic,Completed,829.12,Thane
+50018,1347,2026-07-03,Dr. N. Joshi,ENT,Consultation,Completed,586.33,Nagpur
+50019,1014,2026-08-14,Dr. K. Singh,Neurology,Consultation,Cancelled,2058.98,Thane
+50020,1040,2026-04-21,Dr. R. Shah,Neurology,Follow-up,Scheduled,1296.88,Mumbai
+50021,1122,2026-08-06,Dr. T. More,Gynecology,Consultation,Completed,1268.09,Nagpur
+50022,1226,2026-01-24,Dr. S. Patil,Pediatrics,Consultation,Completed,838.95,Mumbai
+50023,1184,2025-11-07,Dr. P. Mehta,Ophthalmology,Follow-up,Completed,805.75,Pune
+50024,1094,2025-08-02,Dr. V. Rao,Cardiology,Consultation,Completed,1890.71,Nashik
+50025,1176,2026-09-03,Dr. P. Mehta,Orthopedics,Consultation,Completed,1044.15,Kolhapur
+50026,1167,2026-04-07,Dr. N. Joshi,ENT,Follow-up,Completed,717.23,Mumbai
+50027,1263,2025-05-07,Dr. M. Deshmukh,Dermatology,Follow-up,Completed,1133.85,Pune
+50028,1282,2026-09-26,Dr. N. Joshi,Orthopedics,Diagnostic,Completed,1476.69,Solapur
+50029,1442,2025-02-09,Dr. S. Patil,Orthopedics,Follow-up,No-show,1017.39,Satara
+50030,1404,2026-01-24,Dr. S. Patil,General Medicine,Follow-up,Completed,692.43,Aurangabad
+50031,1147,2025-05-07,Dr. K. Singh,ENT,Consultation,Completed,884.87,Aurangabad
+50032,1452,2026-03-16,Dr. T. More,Cardiology,Diagnostic,Completed,2235.35,Mumbai
+50033,1261,2025-10-01,Dr. T. More,Cardiology,Consultation,Completed,1809.68,Thane
+50034,1094,2025-10-17,Dr. M. Deshmukh,Neurology,Consultation,Completed,1246.17,Solapur
+50035,1171,2026-03-21,Dr. M. Deshmukh,Dentistry,Diagnostic,No-show,1308.7,Kolhapur
+50036,1371,2026-05-16,Dr. A. Kulkarni,Pediatrics,Follow-up,Scheduled,790.02,Solapur
+50037,1411,2026-10-23,Dr. S. Patil,Dentistry,Follow-up,Completed,966.59,Navi Mumbai
+50038,1188,2025-11-26,Dr. P. Mehta,Ophthalmology,Consultation,Completed,964.57,Satara
+50039,1079,2025-04-17,Dr. S. Patil,Pediatrics,Consultation,Completed,726.71,Mumbai
+50040,1096,2025-01-05,Dr. K. Singh,ENT,Follow-up,Completed,875.59,Thane
+50041,1052,2025-05-14,Dr. A. Kulkarni,General Medicine,Follow-up,Completed,477.38,Solapur
+50042,1350,2026-04-03,Dr. N. Joshi,General Medicine,Consultation,No-show,716.66,Satara
+50043,1252,2025-12-24,Dr. S. Patil,Dermatology,Consultation,Completed,1196.53,Solapur
+50044,1226,2025-08-12,Dr. N. Joshi,ENT,Consultation,Completed,943.22,Satara
+50045,1336,2025-11-15,Dr. A. Kulkarni,ENT,Follow-up,Completed,913.0,Kolhapur
+50046,1415,2026-07-09,Dr. N. Joshi,Gynecology,Follow-up,Completed,1272.46,Navi Mumbai
+50047,1398,2026-01-14,Dr. K. Singh,Dentistry,Consultation,Scheduled,917.33,Mumbai
+50048,1069,2025-02-08,Dr. T. More,Neurology,Consultation,Completed,2127.98,Kolhapur
+50049,1295,2025-02-02,Dr. S. Patil,ENT,Consultation,Completed,914.72,Mumbai
+50050,1442,2025-11-16,Dr. N. Joshi,Ophthalmology,Consultation,Completed,856.5,Thane
+50051,1387,2025-09-25,Dr. V. Rao,Orthopedics,Follow-up,No-show,1189.5,Navi Mumbai
+50052,1165,2026-07-18,Dr. N. Joshi,Cardiology,Consultation,Completed,1468.01,Navi Mumbai
+50053,1197,2026-01-21,Dr. P. Mehta,Dermatology,Follow-up,Completed,993.94,Nashik
+50054,1446,2026-05-17,Dr. M. Deshmukh,Ophthalmology,Diagnostic,Completed,936.26,Aurangabad
+50055,1017,2026-01-23,Dr. T. More,Pediatrics,Emergency,Completed,793.92,Solapur
+50056,1263,2025-08-17,Dr. V. Rao,Gynecology,Emergency,No-show,993.62,Solapur
+50057,1059,2026-03-12,Dr. I. Gupta,Cardiology,Consultation,Completed,1969.18,Satara
+50058,1448,2026-02-16,Dr. K. Singh,Dermatology,Consultation,Completed,690.0,Mumbai
+50059,1020,2026-04-22,Dr. M. Deshmukh,General Medicine,Consultation,Completed,794.83,Kolhapur
+50060,1012,2025-05-06,Dr. M. Deshmukh,Orthopedics,Follow-up,Completed,1108.73,Aurangabad
+50061,1165,2026-03-01,Dr. A. Kulkarni,Ophthalmology,Consultation,Completed,667.63,Thane
+50062,1101,2025-07-08,Dr. V. Rao,Orthopedics,Consultation,No-show,903.95,Nagpur
+50063,1248,2026-06-08,Dr. K. Singh,Ophthalmology,Consultation,Completed,1011.31,Nashik
+50064,1150,2026-06-13,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1521.51,Thane
+50065,1179,2026-02-18,Dr. A. Kulkarni,Dentistry,Follow-up,Completed,807.18,Kolhapur
+50066,1283,2026-09-19,Dr. T. More,General Medicine,Follow-up,Cancelled,504.81,Kolhapur
+50067,1281,2025-12-22,Dr. S. Patil,Cardiology,Follow-up,Completed,1833.73,Navi Mumbai
+50068,1468,2025-01-17,Dr. P. Mehta,Cardiology,Diagnostic,Completed,1550.56,Pune
+50069,1241,2026-02-06,Dr. A. Kulkarni,Cardiology,Consultation,Completed,2144.69,Nashik
+50070,1283,2026-05-30,Dr. A. Kulkarni,General Medicine,Consultation,Completed,470.89,Navi Mumbai
+50071,1339,2025-03-08,Dr. T. More,ENT,Consultation,Scheduled,755.88,Navi Mumbai
+50072,1088,2025-03-11,Dr. V. Rao,Dermatology,Follow-up,Completed,881.71,Nagpur
+50073,1334,2025-06-30,Dr. A. Kulkarni,Neurology,Follow-up,Completed,1646.35,Navi Mumbai
+50074,1431,2026-07-13,Dr. R. Shah,General Medicine,Consultation,Completed,602.91,Nashik
+50075,1160,2025-12-16,Dr. N. Joshi,General Medicine,Emergency,Completed,505.14,Pune
+50076,1090,2026-10-09,Dr. V. Rao,General Medicine,Consultation,Completed,529.3,Nagpur
+50077,1174,2026-08-01,Dr. N. Joshi,Neurology,Consultation,Completed,1262.22,Satara
+50078,1138,2026-01-03,Dr. T. More,Gynecology,Follow-up,Completed,819.17,Pune
+50079,1293,2026-03-26,Dr. V. Rao,Dentistry,Emergency,No-show,1336.74,Mumbai
+50080,1432,2025-08-08,Dr. V. Rao,Dermatology,Follow-up,No-show,826.08,Aurangabad
+50081,1299,2025-03-01,Dr. S. Patil,Cardiology,Emergency,Completed,1681.59,Thane
+50082,1063,2025-09-21,Dr. V. Rao,Orthopedics,Consultation,Scheduled,991.52,Thane
+50083,1158,2026-01-28,Dr. T. More,General Medicine,Follow-up,Scheduled,721.86,Navi Mumbai
+50084,1345,2025-05-01,Dr. A. Kulkarni,Dermatology,Diagnostic,Completed,1174.04,Nashik
+50085,1166,2025-05-27,Dr. K. Singh,Dentistry,Follow-up,Completed,1223.85,Solapur
+50086,1294,2025-01-10,Dr. T. More,General Medicine,Consultation,Completed,670.54,Nagpur
+50087,1348,2026-05-01,Dr. N. Joshi,General Medicine,Emergency,Completed,742.76,Navi Mumbai
+50088,1165,2026-08-19,Dr. K. Singh,ENT,Consultation,Completed,694.78,Aurangabad
+50089,1324,2026-07-02,Dr. M. Deshmukh,Pediatrics,Consultation,Completed,1012.56,Nashik
+50090,1200,2025-09-09,Dr. R. Shah,ENT,Diagnostic,Scheduled,860.38,Nashik
+50091,1068,2026-01-28,Dr. T. More,Cardiology,Diagnostic,Completed,1351.86,Satara
+50092,1187,2026-09-29,Dr. M. Deshmukh,General Medicine,Emergency,Cancelled,625.61,Satara
+50093,1221,2026-01-27,Dr. K. Singh,Dentistry,Diagnostic,Completed,908.77,Nashik
+50094,1002,2025-07-15,Dr. M. Deshmukh,ENT,Consultation,Completed,561.22,Nashik
+50095,1447,2025-08-13,Dr. M. Deshmukh,Ophthalmology,Diagnostic,No-show,1006.17,Solapur
+50096,1264,2026-04-27,Dr. V. Rao,Dermatology,Consultation,Completed,679.29,Aurangabad
+50097,1019,2025-10-23,Dr. M. Deshmukh,ENT,Follow-up,Completed,831.67,Mumbai
+50098,1434,2026-07-09,Dr. T. More,General Medicine,Consultation,Completed,805.75,Aurangabad
+50099,1428,2026-07-27,Dr. A. Kulkarni,General Medicine,Diagnostic,Completed,623.53,Mumbai
+50100,1007,2025-01-24,Dr. A. Kulkarni,Cardiology,Follow-up,Completed,1750.94,Kolhapur
+50101,1082,2026-04-24,Dr. A. Kulkarni,Orthopedics,Diagnostic,Completed,1336.2,Pune
+50102,1182,2025-09-02,Dr. S. Patil,General Medicine,Consultation,Completed,739.69,Thane
+50103,1254,2025-12-11,Dr. A. Kulkarni,Cardiology,Consultation,Completed,1609.47,Mumbai
+50104,1363,2025-06-25,Dr. M. Deshmukh,Gynecology,Consultation,Completed,900.42,Nashik
+50105,1213,2025-09-01,Dr. A. Kulkarni,ENT,Consultation,Completed,780.01,Mumbai
+50106,1306,2025-08-07,Dr. K. Singh,Dentistry,Follow-up,Completed,1313.93,Mumbai
+50107,1006,2025-02-03,Dr. R. Shah,Orthopedics,Consultation,Completed,1114.88,Pune
+50108,1330,2026-06-03,Dr. I. Gupta,Dentistry,Follow-up,Completed,976.05,Satara
+50109,1458,2025-04-05,Dr. T. More,Cardiology,Consultation,Cancelled,2422.8,Solapur
+50110,1264,2025-09-06,Dr. V. Rao,Neurology,Consultation,Completed,1369.17,Nagpur
+50111,1228,2025-05-08,Dr. K. Singh,ENT,Follow-up,Completed,557.33,Aurangabad
+50112,1149,2025-04-17,Dr. K. Singh,Cardiology,Consultation,Completed,1986.94,Satara
+50113,1478,2025-09-05,Dr. T. More,Cardiology,Consultation,Scheduled,1376.21,Nashik
+50114,1017,2026-09-01,Dr. P. Mehta,Cardiology,Consultation,Completed,1544.87,Pune
+50115,1144,2026-09-18,Dr. V. Rao,General Medicine,Consultation,Completed,674.0,Aurangabad
+50116,1070,2025-09-10,Dr. N. Joshi,ENT,Follow-up,Completed,802.0,Pune
+50117,1434,2025-12-01,Dr. V. Rao,Orthopedics,Consultation,Completed,1267.51,Kolhapur
+50118,1242,2026-10-15,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1176.3,Pune
+50119,1462,2025-06-05,Dr. R. Shah,General Medicine,Follow-up,Completed,657.43,Aurangabad
+50120,1333,2026-09-18,Dr. I. Gupta,Pediatrics,Follow-up,Completed,908.83,Navi Mumbai
+50121,1279,2025-03-12,Dr. V. Rao,Gynecology,Follow-up,Completed,1232.09,Nagpur
+50122,1259,2025-05-30,Dr. K. Singh,Dentistry,Consultation,Completed,1225.65,Nagpur
+50123,1102,2025-08-12,Dr. S. Patil,Gynecology,Diagnostic,Cancelled,1148.88,Satara
+50124,1282,2025-01-25,Dr. K. Singh,Ophthalmology,Consultation,Completed,1029.23,Satara
+50125,1343,2026-06-25,Dr. P. Mehta,General Medicine,Consultation,Scheduled,751.69,Nagpur
+50126,1483,2026-07-21,Dr. A. Kulkarni,ENT,Diagnostic,Cancelled,580.96,Nagpur
+50127,1275,2025-09-11,Dr. I. Gupta,Orthopedics,Follow-up,No-show,1588.81,Mumbai
+50128,1470,2026-07-08,Dr. I. Gupta,Cardiology,Follow-up,Cancelled,2313.08,Nashik
+50129,1473,2026-05-27,Dr. T. More,General Medicine,Diagnostic,Completed,565.53,Satara
+50130,1262,2026-06-15,Dr. N. Joshi,Cardiology,Consultation,Completed,1371.8,Aurangabad
+50131,1220,2026-06-16,Dr. S. Patil,Ophthalmology,Diagnostic,Completed,889.91,Aurangabad
+50132,1072,2025-03-15,Dr. A. Kulkarni,Gynecology,Follow-up,Completed,1013.05,Satara
+50133,1135,2026-09-04,Dr. K. Singh,Dentistry,Consultation,Completed,1199.74,Aurangabad
+50134,1440,2026-02-07,Dr. T. More,Pediatrics,Consultation,Completed,851.81,Satara
+50135,1070,2026-08-20,Dr. R. Shah,Neurology,Consultation,Completed,1273.43,Nagpur
+50136,1199,2026-09-27,Dr. V. Rao,Gynecology,Emergency,Scheduled,896.81,Nagpur
+50137,1350,2025-05-04,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,1023.61,Satara
+50138,1121,2025-09-24,Dr. K. Singh,General Medicine,Consultation,Completed,463.57,Nagpur
+50139,1488,2025-05-08,Dr. A. Kulkarni,General Medicine,Follow-up,Completed,715.2,Aurangabad
+50140,1325,2025-02-03,Dr. I. Gupta,Dentistry,Follow-up,Completed,925.17,Mumbai
+50141,1015,2026-10-02,Dr. R. Shah,Gynecology,Consultation,Scheduled,1021.58,Pune
+50142,1124,2026-09-04,Dr. N. Joshi,Orthopedics,Diagnostic,Completed,1282.32,Kolhapur
+50143,1371,2026-09-09,Dr. V. Rao,Neurology,Follow-up,Completed,1440.08,Pune
+50144,1432,2026-08-08,Dr. T. More,General Medicine,Diagnostic,Completed,684.71,Mumbai
+50145,1464,2026-03-06,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1399.28,Nagpur
+50146,1426,2025-12-12,Dr. I. Gupta,Dermatology,Consultation,Completed,720.93,Pune
+50147,1038,2026-10-19,Dr. A. Kulkarni,Pediatrics,Follow-up,Scheduled,779.48,Nashik
+50148,1365,2026-01-01,Dr. N. Joshi,Orthopedics,Consultation,Completed,1435.95,Satara
+50149,1056,2026-03-02,Dr. I. Gupta,General Medicine,Follow-up,Completed,709.79,Nagpur
+50150,1039,2025-05-21,Dr. S. Patil,Orthopedics,Consultation,Completed,1292.11,Solapur
+50151,1346,2026-05-10,Dr. P. Mehta,General Medicine,Diagnostic,Completed,729.96,Pune
+50152,1240,2026-06-27,Dr. N. Joshi,Orthopedics,Diagnostic,Scheduled,977.5,Aurangabad
+50153,1324,2026-03-26,Dr. M. Deshmukh,Gynecology,Diagnostic,Cancelled,820.93,Satara
+50154,1426,2025-11-27,Dr. K. Singh,Orthopedics,Emergency,Completed,1373.39,Thane
+50155,1035,2025-05-11,Dr. P. Mehta,Ophthalmology,Diagnostic,Completed,932.8,Thane
+50156,1264,2025-01-23,Dr. K. Singh,Cardiology,Consultation,Completed,2229.69,Pune
+50157,1418,2026-02-20,Dr. P. Mehta,General Medicine,Consultation,Completed,515.17,Aurangabad
+50158,1221,2026-03-29,Dr. I. Gupta,Pediatrics,Diagnostic,Completed,848.05,Nagpur
+50159,1262,2026-05-27,Dr. N. Joshi,Pediatrics,Diagnostic,No-show,917.2,Thane
+50160,1249,2026-09-22,Dr. K. Singh,Neurology,Emergency,Completed,1414.75,Nashik
+50161,1454,2025-11-26,Dr. V. Rao,ENT,Diagnostic,Completed,742.11,Nagpur
+50162,1025,2026-07-03,Dr. T. More,Ophthalmology,Consultation,Cancelled,906.45,Aurangabad
+50163,1439,2026-04-20,Dr. T. More,Pediatrics,Emergency,Cancelled,702.94,Navi Mumbai
+50164,1409,2025-07-03,Dr. S. Patil,Orthopedics,Emergency,Completed,1170.41,Solapur
+50165,1407,2026-07-14,Dr. M. Deshmukh,Gynecology,Follow-up,Completed,879.8,Aurangabad
+50166,1207,2025-02-05,Dr. M. Deshmukh,General Medicine,Diagnostic,Completed,775.06,Satara
+50167,1258,2026-02-01,Dr. N. Joshi,Orthopedics,Follow-up,No-show,1070.5,Satara
+50168,1185,2026-09-15,Dr. N. Joshi,Gynecology,Emergency,Completed,822.5,Navi Mumbai
+50169,1126,2026-03-13,Dr. A. Kulkarni,General Medicine,Consultation,Completed,462.66,Nashik
+50170,1438,2026-09-13,Dr. T. More,General Medicine,Diagnostic,Completed,466.18,Navi Mumbai
+50171,1253,2025-02-07,Dr. T. More,Dermatology,Consultation,Completed,778.46,Thane
+50172,1362,2025-12-19,Dr. V. Rao,Dermatology,Consultation,Completed,1003.43,Thane
+50173,1051,2026-06-01,Dr. M. Deshmukh,Orthopedics,Consultation,Cancelled,912.71,Satara
+50174,1395,2026-03-02,Dr. T. More,Gynecology,Consultation,Completed,922.05,Solapur
+50175,1330,2026-08-06,Dr. S. Patil,Orthopedics,Consultation,Completed,941.88,Thane
+50176,1499,2025-11-03,Dr. M. Deshmukh,Gynecology,Emergency,Scheduled,992.2,Pune
+50177,1067,2026-03-28,Dr. I. Gupta,ENT,Follow-up,Completed,545.4,Aurangabad
+50178,1271,2025-10-05,Dr. I. Gupta,Gynecology,Diagnostic,Completed,1114.53,Aurangabad
+50179,1256,2026-08-01,Dr. P. Mehta,Cardiology,Consultation,Completed,2093.5,Navi Mumbai
+50180,1270,2025-03-21,Dr. R. Shah,Pediatrics,Consultation,Completed,951.04,Navi Mumbai
+50181,1028,2025-06-18,Dr. R. Shah,Neurology,Diagnostic,Completed,1415.37,Navi Mumbai
+50182,1237,2025-03-06,Dr. I. Gupta,General Medicine,Follow-up,Completed,762.66,Pune
+50183,1150,2026-04-10,Dr. S. Patil,Ophthalmology,Follow-up,Completed,931.34,Thane
+50184,1309,2025-06-04,Dr. V. Rao,Dermatology,Diagnostic,Completed,705.59,Navi Mumbai
+50185,1117,2025-07-29,Dr. M. Deshmukh,Ophthalmology,Diagnostic,Completed,811.57,Navi Mumbai
+50186,1218,2026-07-08,Dr. N. Joshi,Orthopedics,Follow-up,No-show,1452.78,Satara
+50187,1311,2025-08-27,Dr. I. Gupta,Dermatology,Emergency,Completed,842.88,Navi Mumbai
+50188,1033,2025-04-07,Dr. P. Mehta,Cardiology,Follow-up,Cancelled,1762.08,Solapur
+50189,1394,2025-01-14,Dr. N. Joshi,Gynecology,Follow-up,Completed,1127.76,Pune
+50190,1358,2025-05-31,Dr. N. Joshi,Orthopedics,Consultation,Completed,939.95,Solapur
+50191,1029,2026-08-29,Dr. S. Patil,Pediatrics,Consultation,Completed,1064.13,Thane
+50192,1033,2025-12-30,Dr. P. Mehta,Gynecology,Consultation,Completed,854.69,Satara
+50193,1426,2026-10-21,Dr. P. Mehta,General Medicine,Diagnostic,Completed,459.6,Mumbai
+50194,1142,2025-05-23,Dr. A. Kulkarni,Cardiology,Follow-up,Completed,1355.75,Navi Mumbai
+50195,1431,2025-08-21,Dr. N. Joshi,Cardiology,Consultation,Completed,1781.52,Nashik
+50196,1250,2025-04-19,Dr. V. Rao,General Medicine,Follow-up,Completed,768.33,Kolhapur
+50197,1172,2025-09-21,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,993.49,Nashik
+50198,1137,2026-01-08,Dr. I. Gupta,Orthopedics,Consultation,Completed,1556.67,Navi Mumbai
+50199,1330,2026-06-19,Dr. T. More,General Medicine,Emergency,Completed,642.16,Kolhapur
+50200,1055,2025-09-01,Dr. V. Rao,Pediatrics,Consultation,Completed,815.4,Mumbai
+50201,1202,2026-05-26,Dr. A. Kulkarni,General Medicine,Consultation,Completed,588.91,Pune
+50202,1173,2026-02-19,Dr. P. Mehta,Dermatology,Follow-up,Completed,700.07,Navi Mumbai
+50203,1078,2025-07-13,Dr. T. More,Orthopedics,Consultation,Completed,1554.86,Nashik
+50204,1177,2026-08-27,Dr. A. Kulkarni,Orthopedics,Follow-up,Completed,1257.25,Aurangabad
+50205,1265,2025-10-15,Dr. K. Singh,Pediatrics,Emergency,Completed,818.43,Pune
+50206,1339,2025-04-10,Dr. T. More,Cardiology,Follow-up,Completed,1906.38,Solapur
+50207,1044,2026-09-30,Dr. A. Kulkarni,Pediatrics,Follow-up,Scheduled,981.19,Thane
+50208,1437,2026-08-28,Dr. S. Patil,Ophthalmology,Consultation,Completed,707.75,Nashik
+50209,1440,2025-02-02,Dr. K. Singh,ENT,Follow-up,No-show,823.16,Solapur
+50210,1346,2026-08-21,Dr. I. Gupta,Dermatology,Consultation,Completed,1058.82,Nashik
+50211,1463,2026-09-20,Dr. K. Singh,General Medicine,Consultation,Completed,755.84,Navi Mumbai
+50212,1214,2026-07-03,Dr. P. Mehta,General Medicine,Diagnostic,Completed,453.13,Satara
+50213,1411,2025-06-18,Dr. V. Rao,ENT,Consultation,Completed,596.57,Kolhapur
+50214,1364,2026-02-22,Dr. P. Mehta,Pediatrics,Follow-up,Completed,826.1,Pune
+50215,1282,2025-12-23,Dr. P. Mehta,Pediatrics,Consultation,No-show,1008.26,Nashik
+50216,1090,2026-02-15,Dr. K. Singh,Pediatrics,Diagnostic,Completed,1063.26,Pune
+50217,1279,2026-02-13,Dr. A. Kulkarni,Cardiology,Consultation,Completed,1992.46,Solapur
+50218,1451,2026-02-28,Dr. S. Patil,Pediatrics,Consultation,Completed,701.82,Mumbai
+50219,1493,2025-12-07,Dr. A. Kulkarni,Ophthalmology,Diagnostic,Completed,688.6,Mumbai
+50220,1225,2026-04-03,Dr. K. Singh,Ophthalmology,Consultation,Cancelled,906.93,Mumbai
+50221,1124,2025-12-15,Dr. K. Singh,Orthopedics,Diagnostic,Completed,1051.25,Navi Mumbai
+50222,1374,2025-01-11,Dr. A. Kulkarni,Neurology,Consultation,Completed,1730.96,Navi Mumbai
+50223,1038,2025-01-24,Dr. R. Shah,Dermatology,Follow-up,Scheduled,1125.8,Aurangabad
+50224,1076,2026-09-27,Dr. S. Patil,Neurology,Emergency,Scheduled,1574.23,Pune
+50225,1281,2026-08-25,Dr. S. Patil,General Medicine,Follow-up,Completed,586.25,Satara
+50226,1496,2026-01-23,Dr. P. Mehta,Cardiology,Follow-up,Completed,1389.03,Navi Mumbai
+50227,1165,2025-04-26,Dr. N. Joshi,ENT,Consultation,No-show,631.72,Pune
+50228,1222,2026-06-02,Dr. M. Deshmukh,Dentistry,Follow-up,Completed,1168.91,Aurangabad
+50229,1162,2025-04-05,Dr. R. Shah,General Medicine,Diagnostic,Completed,579.74,Pune
+50230,1221,2025-09-07,Dr. V. Rao,General Medicine,Follow-up,Completed,506.99,Solapur
+50231,1004,2025-08-07,Dr. K. Singh,General Medicine,Diagnostic,Scheduled,488.08,Satara
+50232,1298,2025-01-09,Dr. V. Rao,Pediatrics,Follow-up,Scheduled,645.63,Solapur
+50233,1299,2026-06-19,Dr. T. More,Orthopedics,Follow-up,Completed,1374.58,Kolhapur
+50234,1158,2025-12-04,Dr. I. Gupta,General Medicine,Consultation,Completed,670.54,Aurangabad
+50235,1133,2025-07-29,Dr. T. More,Cardiology,Follow-up,Completed,1910.0,Solapur
+50236,1381,2025-12-02,Dr. V. Rao,ENT,Diagnostic,Completed,735.14,Nagpur
+50237,1094,2025-01-01,Dr. A. Kulkarni,Dermatology,Follow-up,Scheduled,757.69,Thane
+50238,1024,2025-10-17,Dr. M. Deshmukh,Dermatology,Consultation,Completed,945.33,Kolhapur
+50239,1021,2025-12-10,Dr. N. Joshi,Pediatrics,Follow-up,Completed,628.77,Kolhapur
+50240,1441,2025-08-13,Dr. K. Singh,Dentistry,Follow-up,Cancelled,1305.52,Aurangabad
+50241,1183,2026-07-04,Dr. T. More,Orthopedics,Diagnostic,Completed,941.78,Nashik
+50242,1051,2025-06-15,Dr. V. Rao,Orthopedics,Consultation,No-show,1204.94,Mumbai
+50243,1440,2025-04-02,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,900.41,Kolhapur
+50244,1075,2025-12-16,Dr. K. Singh,General Medicine,Consultation,No-show,733.01,Solapur
+50245,1169,2026-08-11,Dr. V. Rao,Dentistry,Consultation,Completed,849.7,Mumbai
+50246,1011,2025-09-06,Dr. K. Singh,Pediatrics,Emergency,Completed,1043.96,Nagpur
+50247,1340,2025-01-31,Dr. P. Mehta,Ophthalmology,Consultation,Completed,621.11,Thane
+50248,1350,2026-10-05,Dr. V. Rao,Pediatrics,Follow-up,Completed,993.98,Kolhapur
+50249,1379,2025-10-22,Dr. M. Deshmukh,General Medicine,Consultation,Completed,686.39,Thane
+50250,1132,2025-04-25,Dr. M. Deshmukh,Cardiology,Consultation,Completed,1619.71,Satara
+50251,1165,2026-02-12,Dr. S. Patil,Neurology,Emergency,Completed,1394.32,Solapur
+50252,1470,2025-07-31,Dr. S. Patil,General Medicine,Follow-up,Cancelled,578.76,Solapur
+50253,1411,2026-09-13,Dr. V. Rao,General Medicine,Consultation,Completed,748.23,Kolhapur
+50254,1019,2025-07-14,Dr. M. Deshmukh,Pediatrics,Consultation,Completed,1013.74,Kolhapur
+50255,1346,2025-12-31,Dr. R. Shah,ENT,Emergency,Cancelled,598.62,Nashik
+50256,1407,2025-12-26,Dr. A. Kulkarni,Dentistry,Emergency,Completed,962.07,Kolhapur
+50257,1280,2025-06-10,Dr. T. More,Neurology,Consultation,Cancelled,1427.99,Solapur
+50258,1320,2025-11-27,Dr. N. Joshi,General Medicine,Follow-up,Completed,494.15,Satara
+50259,1001,2025-03-14,Dr. P. Mehta,ENT,Consultation,Completed,796.51,Thane
+50260,1016,2026-03-03,Dr. I. Gupta,Pediatrics,Follow-up,Completed,766.02,Kolhapur
+50261,1018,2026-05-18,Dr. R. Shah,Ophthalmology,Consultation,No-show,708.18,Aurangabad
+50262,1080,2026-09-21,Dr. I. Gupta,Pediatrics,Diagnostic,Completed,1015.68,Aurangabad
+50263,1496,2025-08-04,Dr. K. Singh,Gynecology,Diagnostic,Completed,1198.99,Satara
+50264,1318,2025-07-08,Dr. V. Rao,Orthopedics,Consultation,Scheduled,1457.11,Navi Mumbai
+50265,1392,2025-12-30,Dr. N. Joshi,Pediatrics,Consultation,Completed,618.81,Solapur
+50266,1148,2026-04-04,Dr. K. Singh,General Medicine,Consultation,Scheduled,779.45,Mumbai
+50267,1469,2026-10-20,Dr. S. Patil,General Medicine,Consultation,Cancelled,656.91,Nashik
+50268,1100,2025-01-17,Dr. M. Deshmukh,Ophthalmology,Consultation,Scheduled,841.83,Navi Mumbai
+50269,1452,2025-06-07,Dr. I. Gupta,Dentistry,Consultation,Scheduled,756.35,Kolhapur
+50270,1016,2025-06-23,Dr. S. Patil,Orthopedics,Emergency,Scheduled,1546.32,Nagpur
+50271,1011,2025-06-19,Dr. K. Singh,Pediatrics,Consultation,Completed,861.07,Aurangabad
+50272,1040,2025-11-03,Dr. I. Gupta,Dermatology,Diagnostic,Cancelled,1120.58,Thane
+50273,1396,2026-08-01,Dr. P. Mehta,Neurology,Consultation,No-show,1829.29,Mumbai
+50274,1129,2025-01-21,Dr. S. Patil,Neurology,Follow-up,Completed,1964.83,Pune
+50275,1226,2026-06-25,Dr. T. More,Ophthalmology,Consultation,Completed,932.61,Solapur
+50276,1236,2026-02-13,Dr. T. More,Gynecology,Diagnostic,Scheduled,1302.58,Aurangabad
+50277,1395,2026-02-12,Dr. P. Mehta,Cardiology,Consultation,Completed,1593.52,Nagpur
+50278,1175,2026-03-26,Dr. R. Shah,Neurology,Consultation,Completed,1394.02,Solapur
+50279,1004,2025-03-18,Dr. N. Joshi,General Medicine,Follow-up,Completed,706.51,Mumbai
+50280,1194,2026-05-10,Dr. N. Joshi,Neurology,Follow-up,Completed,1681.34,Solapur
+50281,1145,2025-06-14,Dr. R. Shah,Orthopedics,Follow-up,Cancelled,1331.4,Pune
+50282,1366,2025-12-08,Dr. N. Joshi,Dermatology,Consultation,Completed,1057.61,Thane
+50283,1376,2026-03-25,Dr. R. Shah,Dermatology,Consultation,Completed,970.61,Solapur
+50284,1046,2026-02-04,Dr. V. Rao,Orthopedics,Diagnostic,No-show,1467.14,Thane
+50285,1397,2025-08-02,Dr. N. Joshi,Gynecology,Follow-up,Completed,941.32,Aurangabad
+50286,1036,2025-09-20,Dr. K. Singh,Pediatrics,Follow-up,Cancelled,1012.32,Nagpur
+50287,1310,2025-11-12,Dr. N. Joshi,General Medicine,Consultation,Completed,488.76,Nashik
+50288,1195,2025-01-28,Dr. K. Singh,General Medicine,Consultation,No-show,678.24,Nashik
+50289,1151,2026-04-26,Dr. K. Singh,Ophthalmology,Emergency,Scheduled,1027.26,Mumbai
+50290,1242,2025-03-08,Dr. R. Shah,Orthopedics,Follow-up,Completed,1081.94,Nashik
+50291,1156,2025-10-31,Dr. N. Joshi,Orthopedics,Consultation,Completed,1135.32,Nashik
+50292,1397,2026-03-10,Dr. K. Singh,Pediatrics,Diagnostic,Completed,746.61,Aurangabad
+50293,1484,2025-02-23,Dr. P. Mehta,Dermatology,Follow-up,Completed,979.7,Nashik
+50294,1408,2026-10-22,Dr. S. Patil,Pediatrics,Consultation,Cancelled,798.18,Mumbai
+50295,1220,2025-09-07,Dr. T. More,Gynecology,Consultation,Completed,814.78,Aurangabad
+50296,1252,2025-01-11,Dr. R. Shah,Pediatrics,Follow-up,Completed,1027.82,Satara
+50297,1224,2026-03-13,Dr. I. Gupta,Cardiology,Consultation,Completed,1571.05,Nashik
+50298,1397,2026-01-05,Dr. K. Singh,Dermatology,Follow-up,Completed,963.4,Aurangabad
+50299,1277,2026-02-28,Dr. M. Deshmukh,Gynecology,Follow-up,No-show,1106.88,Nashik
+50300,1235,2026-05-13,Dr. R. Shah,Ophthalmology,Consultation,Completed,619.56,Aurangabad
+50301,1205,2025-11-11,Dr. I. Gupta,Gynecology,Emergency,Completed,807.43,Pune
+50302,1188,2026-07-02,Dr. P. Mehta,General Medicine,Consultation,Completed,799.81,Satara
+50303,1277,2025-09-03,Dr. T. More,Gynecology,Consultation,No-show,1148.71,Satara
+50304,1345,2025-12-27,Dr. T. More,General Medicine,Follow-up,Completed,462.08,Nagpur
+50305,1217,2025-04-15,Dr. A. Kulkarni,Pediatrics,Follow-up,Completed,981.22,Thane
+50306,1404,2026-02-15,Dr. V. Rao,General Medicine,Consultation,Completed,633.08,Nagpur
+50307,1414,2025-06-23,Dr. M. Deshmukh,Gynecology,Follow-up,Completed,795.12,Thane
+50308,1215,2026-04-07,Dr. I. Gupta,Pediatrics,Diagnostic,Scheduled,926.76,Nashik
+50309,1455,2026-06-15,Dr. S. Patil,General Medicine,Diagnostic,Completed,629.77,Satara
+50310,1087,2026-07-23,Dr. A. Kulkarni,Neurology,Diagnostic,Completed,1396.72,Aurangabad
+50311,1467,2026-09-08,Dr. V. Rao,Neurology,Consultation,Cancelled,2042.59,Navi Mumbai
+50312,1148,2025-03-22,Dr. P. Mehta,Cardiology,Consultation,Completed,1664.69,Nagpur
+50313,1283,2025-04-02,Dr. P. Mehta,General Medicine,Follow-up,Completed,552.44,Kolhapur
+50314,1142,2026-09-06,Dr. S. Patil,Ophthalmology,Consultation,Completed,730.93,Kolhapur
+50315,1222,2025-09-10,Dr. N. Joshi,Orthopedics,Diagnostic,Completed,1452.57,Solapur
+50316,1171,2025-01-18,Dr. I. Gupta,Dermatology,Consultation,Cancelled,1056.3,Navi Mumbai
+50317,1353,2025-07-09,Dr. K. Singh,Cardiology,Consultation,No-show,2325.4,Thane
+50318,1041,2026-07-08,Dr. I. Gupta,Cardiology,Consultation,Scheduled,1597.69,Solapur
+50319,1420,2025-08-24,Dr. M. Deshmukh,Dentistry,Consultation,Scheduled,1221.82,Pune
+50320,1452,2025-02-20,Dr. T. More,Neurology,Consultation,Completed,1750.12,Aurangabad
+50321,1282,2026-04-24,Dr. M. Deshmukh,Dermatology,Follow-up,Completed,841.69,Solapur
+50322,1274,2025-05-09,Dr. I. Gupta,Pediatrics,Follow-up,Completed,617.02,Aurangabad
+50323,1350,2025-08-22,Dr. T. More,Dentistry,Consultation,Scheduled,1241.37,Satara
+50324,1100,2025-01-03,Dr. R. Shah,Pediatrics,Consultation,Cancelled,715.71,Solapur
+50325,1375,2026-02-03,Dr. I. Gupta,Gynecology,Diagnostic,Completed,1129.05,Thane
+50326,1110,2025-10-22,Dr. V. Rao,Pediatrics,Consultation,Completed,863.46,Solapur
+50327,1339,2026-07-28,Dr. K. Singh,Cardiology,Follow-up,Cancelled,1354.81,Mumbai
+50328,1153,2025-08-10,Dr. P. Mehta,General Medicine,Follow-up,Scheduled,807.96,Thane
+50329,1374,2025-05-16,Dr. S. Patil,Cardiology,Follow-up,Cancelled,2229.48,Kolhapur
+50330,1396,2025-04-20,Dr. I. Gupta,General Medicine,Diagnostic,Completed,625.13,Solapur
+50331,1105,2025-05-13,Dr. R. Shah,Pediatrics,Follow-up,Completed,926.56,Solapur
+50332,1309,2025-10-26,Dr. T. More,Gynecology,Emergency,Completed,1035.96,Solapur
+50333,1250,2025-02-27,Dr. S. Patil,Gynecology,Diagnostic,Completed,1196.75,Nashik
+50334,1148,2025-09-24,Dr. K. Singh,Gynecology,Consultation,Scheduled,830.6,Kolhapur
+50335,1295,2026-07-20,Dr. N. Joshi,Cardiology,Consultation,Completed,1832.06,Pune
+50336,1497,2026-05-24,Dr. S. Patil,Gynecology,Consultation,Completed,951.32,Navi Mumbai
+50337,1002,2026-02-26,Dr. S. Patil,Dentistry,Consultation,Completed,1025.79,Nashik
+50338,1479,2026-08-15,Dr. M. Deshmukh,Pediatrics,Follow-up,Completed,816.23,Thane
+50339,1428,2026-06-01,Dr. I. Gupta,Pediatrics,Consultation,Completed,668.69,Kolhapur
+50340,1265,2026-03-08,Dr. K. Singh,ENT,Consultation,Completed,935.13,Navi Mumbai
+50341,1306,2026-07-26,Dr. V. Rao,Orthopedics,Consultation,No-show,911.15,Solapur
+50342,1185,2025-03-24,Dr. V. Rao,General Medicine,Follow-up,Completed,453.63,Aurangabad
+50343,1065,2026-06-26,Dr. N. Joshi,Gynecology,Follow-up,Completed,974.06,Thane
+50344,1286,2025-07-15,Dr. I. Gupta,Cardiology,Emergency,Completed,2020.01,Mumbai
+50345,1409,2026-05-01,Dr. S. Patil,General Medicine,Consultation,Completed,514.68,Navi Mumbai
+50346,1116,2026-08-28,Dr. I. Gupta,General Medicine,Consultation,Cancelled,641.95,Pune
+50347,1359,2025-11-25,Dr. M. Deshmukh,Pediatrics,Emergency,Scheduled,946.93,Kolhapur
+50348,1375,2025-02-28,Dr. M. Deshmukh,Ophthalmology,Follow-up,Completed,645.15,Nagpur
+50349,1380,2025-09-03,Dr. N. Joshi,Orthopedics,Follow-up,Scheduled,1608.78,Nagpur
+50350,1171,2025-09-27,Dr. K. Singh,Dermatology,Follow-up,Cancelled,856.82,Navi Mumbai
+50351,1197,2026-09-13,Dr. K. Singh,ENT,Consultation,Completed,794.81,Nashik
+50352,1209,2026-09-16,Dr. K. Singh,Orthopedics,Diagnostic,Completed,979.72,Satara
+50353,1428,2026-01-12,Dr. A. Kulkarni,ENT,Follow-up,Completed,822.98,Nashik
+50354,1451,2026-09-22,Dr. R. Shah,Cardiology,Follow-up,No-show,2257.69,Navi Mumbai
+50355,1208,2025-10-16,Dr. T. More,Neurology,Follow-up,Completed,1301.07,Aurangabad
+50356,1485,2025-09-30,Dr. I. Gupta,Cardiology,Consultation,Completed,1485.93,Kolhapur
+50357,1286,2026-07-08,Dr. R. Shah,General Medicine,Consultation,Cancelled,551.18,Pune
+50358,1193,2026-03-18,Dr. I. Gupta,ENT,Follow-up,No-show,530.01,Mumbai
+50359,1001,2025-12-12,Dr. S. Patil,ENT,Follow-up,Completed,939.14,Nashik
+50360,1306,2025-10-30,Dr. I. Gupta,Dentistry,Consultation,Cancelled,1109.03,Kolhapur
+50361,1323,2026-04-13,Dr. I. Gupta,General Medicine,Consultation,Completed,668.73,Solapur
+50362,1485,2026-05-14,Dr. V. Rao,Gynecology,Diagnostic,No-show,1325.38,Mumbai
+50363,1360,2025-11-21,Dr. R. Shah,Neurology,Consultation,Completed,1998.75,Satara
+50364,1015,2025-01-21,Dr. K. Singh,Ophthalmology,Consultation,Completed,990.84,Nagpur
+50365,1284,2025-03-09,Dr. R. Shah,General Medicine,Follow-up,Scheduled,572.22,Pune
+50366,1372,2025-04-06,Dr. M. Deshmukh,Ophthalmology,Diagnostic,Completed,760.73,Thane
+50367,1249,2025-11-02,Dr. V. Rao,Pediatrics,Follow-up,Completed,740.03,Aurangabad
+50368,1215,2026-02-11,Dr. A. Kulkarni,Neurology,Diagnostic,Completed,1532.83,Navi Mumbai
+50369,1405,2026-06-17,Dr. M. Deshmukh,Gynecology,Consultation,Completed,971.71,Satara
+50370,1306,2025-06-03,Dr. K. Singh,Orthopedics,Diagnostic,Completed,1000.8,Nagpur
+50371,1341,2026-06-05,Dr. A. Kulkarni,Orthopedics,Diagnostic,Completed,1156.28,Solapur
+50372,1233,2026-03-17,Dr. M. Deshmukh,Dentistry,Follow-up,Cancelled,1018.05,Nashik
+50373,1140,2025-02-04,Dr. A. Kulkarni,Dermatology,Follow-up,Cancelled,842.05,Thane
+50374,1260,2025-08-21,Dr. V. Rao,Orthopedics,Consultation,Completed,1019.05,Navi Mumbai
+50375,1480,2025-07-20,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,779.24,Pune
+50376,1302,2026-08-10,Dr. S. Patil,Dermatology,Consultation,No-show,934.69,Navi Mumbai
+50377,1354,2026-09-02,Dr. P. Mehta,General Medicine,Consultation,Completed,709.46,Nashik
+50378,1063,2026-06-27,Dr. S. Patil,Dentistry,Emergency,Completed,1176.74,Kolhapur
+50379,1494,2025-12-16,Dr. S. Patil,Dentistry,Consultation,Completed,871.62,Nashik
+50380,1123,2025-11-23,Dr. T. More,General Medicine,Follow-up,Completed,463.2,Mumbai
+50381,1486,2025-07-26,Dr. K. Singh,Gynecology,Consultation,Completed,932.28,Aurangabad
+50382,1223,2026-05-27,Dr. A. Kulkarni,Pediatrics,Consultation,Cancelled,675.43,Kolhapur
+50383,1460,2025-02-27,Dr. T. More,Ophthalmology,Consultation,Scheduled,789.98,Satara
+50384,1446,2025-06-29,Dr. N. Joshi,Orthopedics,Consultation,Completed,1605.13,Kolhapur
+50385,1378,2025-03-31,Dr. R. Shah,Orthopedics,Follow-up,Completed,1030.37,Aurangabad
+50386,1459,2025-11-24,Dr. I. Gupta,Dentistry,Emergency,Completed,941.32,Navi Mumbai
+50387,1305,2025-07-18,Dr. M. Deshmukh,Ophthalmology,Consultation,Completed,948.05,Satara
+50388,1425,2025-05-11,Dr. M. Deshmukh,Pediatrics,Emergency,Cancelled,844.41,Mumbai
+50389,1087,2025-09-07,Dr. R. Shah,General Medicine,Follow-up,Completed,465.81,Nagpur
+50390,1036,2026-07-24,Dr. T. More,Neurology,Follow-up,Scheduled,1355.22,Kolhapur
+50391,1272,2026-01-05,Dr. S. Patil,Pediatrics,Consultation,Completed,1048.92,Mumbai
+50392,1405,2026-06-29,Dr. P. Mehta,Pediatrics,Consultation,Completed,649.52,Nashik
+50393,1383,2026-08-29,Dr. S. Patil,Orthopedics,Diagnostic,Completed,1357.27,Nashik
+50394,1264,2026-08-21,Dr. T. More,General Medicine,Follow-up,Completed,735.24,Navi Mumbai
+50395,1261,2025-08-21,Dr. K. Singh,Neurology,Consultation,No-show,1454.82,Kolhapur
+50396,1305,2026-08-04,Dr. P. Mehta,General Medicine,Diagnostic,Completed,711.03,Solapur
+50397,1435,2026-08-26,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1022.32,Satara
+50398,1421,2026-09-28,Dr. V. Rao,Dentistry,Diagnostic,Completed,920.85,Satara
+50399,1055,2025-08-21,Dr. N. Joshi,General Medicine,Consultation,Completed,562.26,Navi Mumbai
+50400,1298,2025-06-01,Dr. I. Gupta,Ophthalmology,Diagnostic,Cancelled,1078.29,Thane
+50401,1191,2026-01-22,Dr. V. Rao,Orthopedics,Consultation,Completed,1054.49,Nashik
+50402,1400,2026-09-09,Dr. A. Kulkarni,General Medicine,Consultation,Completed,496.51,Nashik
+50403,1253,2026-08-20,Dr. T. More,ENT,Follow-up,Completed,913.79,Thane
+50404,1496,2026-01-14,Dr. R. Shah,Pediatrics,Consultation,Completed,677.73,Pune
+50405,1217,2025-04-09,Dr. M. Deshmukh,Orthopedics,Emergency,Completed,1533.08,Mumbai
+50406,1340,2025-10-07,Dr. N. Joshi,Pediatrics,Follow-up,Completed,912.22,Pune
+50407,1055,2026-04-18,Dr. S. Patil,Pediatrics,Consultation,Completed,876.89,Aurangabad
+50408,1467,2026-01-06,Dr. I. Gupta,Neurology,Consultation,Completed,1921.29,Kolhapur
+50409,1077,2025-08-17,Dr. I. Gupta,Pediatrics,Diagnostic,Completed,948.48,Pune
+50410,1190,2025-08-15,Dr. R. Shah,Pediatrics,Follow-up,Scheduled,653.05,Aurangabad
+50411,1419,2025-02-09,Dr. M. Deshmukh,General Medicine,Diagnostic,Completed,809.81,Thane
+50412,1484,2025-07-11,Dr. M. Deshmukh,Cardiology,Consultation,Completed,2367.24,Aurangabad
+50413,1243,2026-03-20,Dr. V. Rao,Dermatology,Diagnostic,Completed,1159.16,Mumbai
+50414,1243,2025-06-09,Dr. P. Mehta,General Medicine,Follow-up,Completed,674.02,Solapur
+50415,1025,2026-10-20,Dr. V. Rao,Orthopedics,Follow-up,No-show,1276.41,Mumbai
+50416,1490,2025-02-24,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,857.41,Satara
+50417,1009,2026-01-25,Dr. P. Mehta,Orthopedics,Consultation,Completed,910.75,Satara
+50418,1014,2025-11-25,Dr. S. Patil,Cardiology,Emergency,Scheduled,1889.43,Nashik
+50419,1237,2026-07-06,Dr. S. Patil,Neurology,Emergency,No-show,1798.82,Nagpur
+50420,1002,2026-08-11,Dr. K. Singh,Cardiology,Consultation,No-show,2061.4,Pune
+50421,1083,2025-12-26,Dr. R. Shah,Pediatrics,Emergency,Completed,759.43,Kolhapur
+50422,1314,2026-02-22,Dr. A. Kulkarni,Dentistry,Consultation,Completed,1032.77,Thane
+50423,1353,2026-04-08,Dr. N. Joshi,Ophthalmology,Consultation,Completed,905.43,Nagpur
+50424,1150,2025-12-11,Dr. K. Singh,Orthopedics,Consultation,Completed,1208.38,Satara
+50425,1398,2025-05-03,Dr. P. Mehta,Pediatrics,Consultation,Completed,1061.82,Navi Mumbai
+50426,1304,2025-10-11,Dr. R. Shah,Neurology,Consultation,Cancelled,1877.22,Nashik
+50427,1115,2025-06-09,Dr. K. Singh,ENT,Consultation,Completed,525.53,Nashik
+50428,1357,2025-11-04,Dr. M. Deshmukh,ENT,Consultation,Completed,534.78,Mumbai
+50429,1297,2026-02-12,Dr. K. Singh,Orthopedics,Follow-up,Completed,1397.02,Satara
+50430,1407,2025-05-19,Dr. S. Patil,Orthopedics,Diagnostic,Completed,1197.1,Nashik
+50431,1078,2025-06-15,Dr. I. Gupta,Dermatology,Follow-up,Completed,1128.31,Solapur
+50432,1116,2026-06-29,Dr. S. Patil,Ophthalmology,Consultation,Cancelled,683.05,Nashik
+50433,1152,2025-09-08,Dr. I. Gupta,Ophthalmology,Diagnostic,Completed,606.64,Thane
+50434,1171,2025-05-12,Dr. M. Deshmukh,Orthopedics,Consultation,Cancelled,1179.42,Mumbai
+50435,1445,2026-04-18,Dr. K. Singh,General Medicine,Follow-up,Completed,714.98,Nagpur
+50436,1367,2026-04-20,Dr. P. Mehta,Orthopedics,Follow-up,Cancelled,1599.64,Mumbai
+50437,1273,2026-07-01,Dr. A. Kulkarni,General Medicine,Consultation,Completed,768.12,Satara
+50438,1271,2026-05-19,Dr. A. Kulkarni,Ophthalmology,Consultation,Cancelled,832.36,Pune
+50439,1443,2026-10-19,Dr. N. Joshi,Neurology,Diagnostic,Cancelled,1980.3,Pune
+50440,1224,2026-01-16,Dr. R. Shah,Cardiology,Diagnostic,Completed,1425.96,Satara
+50441,1113,2025-07-09,Dr. V. Rao,General Medicine,Follow-up,Completed,656.02,Satara
+50442,1069,2026-07-26,Dr. R. Shah,Dermatology,Emergency,No-show,1174.12,Nagpur
+50443,1166,2025-06-25,Dr. P. Mehta,ENT,Diagnostic,Completed,691.48,Kolhapur
+50444,1327,2025-07-12,Dr. S. Patil,Dermatology,Consultation,Cancelled,1193.45,Kolhapur
+50445,1236,2026-07-03,Dr. R. Shah,Ophthalmology,Follow-up,Scheduled,705.93,Aurangabad
+50446,1211,2026-08-07,Dr. M. Deshmukh,Pediatrics,Consultation,No-show,650.7,Kolhapur
+50447,1241,2025-08-13,Dr. P. Mehta,Orthopedics,Follow-up,Completed,1277.83,Solapur
+50448,1488,2026-04-28,Dr. M. Deshmukh,Pediatrics,Consultation,Completed,1035.48,Nashik
+50449,1499,2026-09-03,Dr. M. Deshmukh,Cardiology,Emergency,Scheduled,1686.18,Mumbai
+50450,1081,2026-06-13,Dr. M. Deshmukh,Pediatrics,Follow-up,Completed,984.08,Kolhapur
+50451,1058,2025-01-04,Dr. M. Deshmukh,General Medicine,Consultation,Completed,510.91,Pune
+50452,1123,2026-03-16,Dr. N. Joshi,Orthopedics,Consultation,Completed,1436.81,Thane
+50453,1426,2025-04-23,Dr. T. More,Orthopedics,Consultation,Cancelled,1301.06,Nagpur
+50454,1230,2026-07-15,Dr. P. Mehta,Orthopedics,Follow-up,Completed,1026.01,Nagpur
+50455,1432,2025-02-14,Dr. N. Joshi,Cardiology,Diagnostic,Completed,2125.53,Satara
+50456,1324,2026-10-20,Dr. K. Singh,Ophthalmology,Consultation,Completed,942.6,Pune
+50457,1277,2025-04-28,Dr. P. Mehta,Dentistry,Consultation,Cancelled,1059.26,Nagpur
+50458,1141,2025-10-06,Dr. I. Gupta,Cardiology,Follow-up,Completed,1593.51,Navi Mumbai
+50459,1173,2025-06-04,Dr. P. Mehta,Gynecology,Consultation,No-show,829.38,Thane
+50460,1074,2026-06-23,Dr. S. Patil,Gynecology,Follow-up,Cancelled,1324.35,Satara
+50461,1260,2025-09-18,Dr. P. Mehta,Dentistry,Consultation,Scheduled,1143.49,Satara
+50462,1141,2026-05-08,Dr. K. Singh,Dermatology,Consultation,Scheduled,1111.99,Kolhapur
+50463,1147,2025-02-14,Dr. S. Patil,Pediatrics,Consultation,Completed,934.55,Navi Mumbai
+50464,1020,2025-10-27,Dr. S. Patil,Neurology,Diagnostic,Completed,1996.29,Navi Mumbai
+50465,1400,2026-08-27,Dr. P. Mehta,Ophthalmology,Consultation,Completed,678.0,Kolhapur
+50466,1470,2026-09-06,Dr. T. More,Gynecology,Consultation,Scheduled,1048.17,Navi Mumbai
+50467,1250,2025-05-19,Dr. M. Deshmukh,Neurology,Follow-up,Completed,1840.44,Pune
+50468,1269,2025-09-19,Dr. P. Mehta,Pediatrics,Emergency,Completed,649.63,Nagpur
+50469,1463,2025-09-28,Dr. V. Rao,Gynecology,Consultation,No-show,839.97,Nagpur
+50470,1256,2026-01-10,Dr. V. Rao,Ophthalmology,Consultation,Completed,904.31,Thane
+50471,1312,2025-12-22,Dr. R. Shah,Dermatology,Follow-up,No-show,1144.1,Thane
+50472,1215,2025-03-12,Dr. M. Deshmukh,General Medicine,Consultation,Completed,687.75,Kolhapur
+50473,1258,2026-05-20,Dr. I. Gupta,Dermatology,Follow-up,Completed,694.55,Nashik
+50474,1261,2025-05-30,Dr. T. More,Neurology,Consultation,Completed,2131.62,Satara
+50475,1356,2025-07-28,Dr. K. Singh,General Medicine,Consultation,Completed,500.22,Nashik
+50476,1303,2026-07-11,Dr. A. Kulkarni,Gynecology,Consultation,Completed,889.54,Kolhapur
+50477,1252,2026-04-02,Dr. N. Joshi,Dentistry,Follow-up,Scheduled,1334.98,Nagpur
+50478,1038,2025-09-20,Dr. A. Kulkarni,Neurology,Consultation,Completed,1940.19,Solapur
+50479,1453,2026-08-28,Dr. M. Deshmukh,Dermatology,Consultation,Completed,1180.75,Aurangabad
+50480,1445,2025-09-18,Dr. T. More,Dermatology,Consultation,No-show,1110.57,Mumbai
+50481,1093,2026-01-10,Dr. M. Deshmukh,Orthopedics,Follow-up,Cancelled,1369.25,Navi Mumbai
+50482,1147,2025-06-12,Dr. R. Shah,Pediatrics,Consultation,Completed,736.59,Thane
+50483,1487,2025-05-02,Dr. K. Singh,Cardiology,Follow-up,Scheduled,1703.03,Nagpur
+50484,1161,2025-11-22,Dr. K. Singh,Dermatology,Follow-up,Completed,1186.53,Satara
+50485,1407,2026-01-08,Dr. V. Rao,Orthopedics,Consultation,Completed,1519.65,Mumbai
+50486,1393,2026-06-18,Dr. T. More,Dermatology,Emergency,Completed,869.12,Pune
+50487,1431,2025-09-16,Dr. K. Singh,ENT,Diagnostic,Cancelled,681.77,Kolhapur
+50488,1009,2026-08-16,Dr. V. Rao,Pediatrics,Consultation,Completed,742.89,Aurangabad
+50489,1242,2026-02-07,Dr. T. More,General Medicine,Consultation,Completed,567.41,Nagpur
+50490,1283,2025-02-16,Dr. M. Deshmukh,Ophthalmology,Consultation,Cancelled,1013.12,Nagpur
+50491,1419,2026-05-05,Dr. N. Joshi,General Medicine,Consultation,Completed,453.78,Navi Mumbai
+50492,1113,2026-01-16,Dr. P. Mehta,Orthopedics,Follow-up,Completed,1213.96,Navi Mumbai
+50493,1154,2025-09-15,Dr. V. Rao,Dermatology,Diagnostic,Cancelled,1184.13,Kolhapur
+50494,1090,2025-11-06,Dr. N. Joshi,General Medicine,Diagnostic,Completed,645.35,Pune
+50495,1381,2025-07-19,Dr. N. Joshi,Neurology,Consultation,Completed,1632.43,Thane
+50496,1500,2026-02-11,Dr. R. Shah,Orthopedics,Consultation,Completed,1124.91,Aurangabad
+50497,1071,2026-01-11,Dr. V. Rao,Neurology,Consultation,Scheduled,1270.96,Navi Mumbai
+50498,1117,2025-10-24,Dr. R. Shah,General Medicine,Follow-up,Completed,530.82,Navi Mumbai
+50499,1154,2025-07-08,Dr. N. Joshi,Pediatrics,Consultation,Completed,643.42,Thane
+50500,1445,2025-09-21,Dr. N. Joshi,General Medicine,Diagnostic,Completed,495.61,Mumbai
+50501,1223,2025-11-26,Dr. K. Singh,Cardiology,Diagnostic,Completed,1526.6,Nashik
+50502,1141,2025-11-09,Dr. N. Joshi,Pediatrics,Consultation,Scheduled,744.97,Aurangabad
+50503,1162,2025-07-24,Dr. A. Kulkarni,ENT,Follow-up,Completed,529.63,Thane
+50504,1300,2026-01-21,Dr. P. Mehta,Pediatrics,Follow-up,Completed,1056.07,Kolhapur
+50505,1194,2025-05-30,Dr. S. Patil,General Medicine,Diagnostic,Completed,494.57,Kolhapur
+50506,1071,2025-11-28,Dr. M. Deshmukh,Dermatology,Consultation,Completed,881.9,Aurangabad
+50507,1411,2025-03-22,Dr. S. Patil,Pediatrics,Consultation,Completed,1022.17,Kolhapur
+50508,1212,2025-11-09,Dr. R. Shah,Ophthalmology,Follow-up,Scheduled,651.15,Mumbai
+50509,1129,2026-06-03,Dr. I. Gupta,Dermatology,Consultation,Cancelled,936.15,Navi Mumbai
+50510,1365,2026-06-26,Dr. S. Patil,Pediatrics,Follow-up,Completed,1005.5,Nagpur
+50511,1373,2026-04-05,Dr. P. Mehta,Ophthalmology,Consultation,Completed,867.34,Nashik
+50512,1078,2026-05-09,Dr. T. More,Gynecology,Follow-up,Completed,876.21,Pune
+50513,1037,2025-02-13,Dr. M. Deshmukh,General Medicine,Diagnostic,Completed,714.78,Kolhapur
+50514,1023,2025-08-14,Dr. I. Gupta,Cardiology,Consultation,Completed,2085.85,Navi Mumbai
+50515,1383,2026-03-10,Dr. N. Joshi,Orthopedics,Consultation,Completed,1160.77,Mumbai
+50516,1313,2026-06-14,Dr. I. Gupta,General Medicine,Follow-up,Cancelled,466.67,Nashik
+50517,1397,2026-01-21,Dr. N. Joshi,Orthopedics,Consultation,Scheduled,905.66,Mumbai
+50518,1314,2026-07-20,Dr. A. Kulkarni,Pediatrics,Follow-up,Completed,996.19,Pune
+50519,1201,2025-06-30,Dr. T. More,Gynecology,Follow-up,Scheduled,942.93,Thane
+50520,1295,2025-04-12,Dr. T. More,Pediatrics,Consultation,Completed,666.13,Nashik
+50521,1362,2025-02-27,Dr. I. Gupta,Cardiology,Diagnostic,Completed,1910.04,Aurangabad
+50522,1200,2026-01-21,Dr. R. Shah,Cardiology,Follow-up,No-show,2344.5,Kolhapur
+50523,1458,2026-03-17,Dr. T. More,Neurology,Follow-up,Completed,1208.14,Thane
+50524,1450,2025-07-08,Dr. M. Deshmukh,General Medicine,Consultation,Completed,470.21,Pune
+50525,1401,2026-06-03,Dr. T. More,Ophthalmology,Consultation,Cancelled,800.18,Nagpur
+50526,1497,2026-05-05,Dr. I. Gupta,Orthopedics,Consultation,Completed,1386.7,Kolhapur
+50527,1196,2025-08-27,Dr. R. Shah,Orthopedics,Diagnostic,No-show,1242.79,Pune
+50528,1058,2025-06-08,Dr. M. Deshmukh,General Medicine,Diagnostic,Completed,773.12,Kolhapur
+50529,1243,2026-05-07,Dr. S. Patil,Dermatology,Diagnostic,No-show,698.81,Kolhapur
+50530,1373,2026-03-21,Dr. M. Deshmukh,Neurology,Consultation,Completed,1526.54,Kolhapur
+50531,1390,2025-04-24,Dr. P. Mehta,Dentistry,Follow-up,Completed,960.81,Satara
+50532,1195,2025-06-18,Dr. N. Joshi,General Medicine,Diagnostic,Completed,572.45,Aurangabad
+50533,1147,2025-11-18,Dr. V. Rao,Dermatology,Follow-up,No-show,938.35,Aurangabad
+50534,1223,2025-12-05,Dr. V. Rao,Dentistry,Consultation,Completed,1224.35,Pune
+50535,1402,2025-04-20,Dr. S. Patil,Cardiology,Diagnostic,No-show,1693.31,Thane
+50536,1031,2026-09-21,Dr. A. Kulkarni,Dentistry,Consultation,Completed,1196.69,Navi Mumbai
+50537,1165,2025-09-15,Dr. K. Singh,Neurology,Consultation,Completed,1340.61,Solapur
+50538,1115,2025-09-10,Dr. R. Shah,Neurology,Diagnostic,Completed,1738.3,Nagpur
+50539,1403,2025-02-10,Dr. R. Shah,Dentistry,Follow-up,Completed,975.05,Aurangabad
+50540,1235,2026-08-03,Dr. V. Rao,Neurology,Consultation,Scheduled,1717.64,Solapur
+50541,1044,2025-06-05,Dr. S. Patil,Dermatology,Follow-up,Completed,733.18,Nagpur
+50542,1131,2026-10-16,Dr. R. Shah,Pediatrics,Emergency,Completed,1057.66,Solapur
+50543,1023,2025-11-25,Dr. M. Deshmukh,General Medicine,Consultation,Completed,776.24,Thane
+50544,1238,2026-08-03,Dr. P. Mehta,General Medicine,Follow-up,Completed,747.5,Aurangabad
+50545,1499,2025-04-29,Dr. T. More,Orthopedics,Consultation,Completed,1542.8,Aurangabad
+50546,1284,2025-04-20,Dr. I. Gupta,Gynecology,Consultation,Scheduled,838.01,Aurangabad
+50547,1435,2026-06-15,Dr. K. Singh,General Medicine,Consultation,Completed,631.34,Navi Mumbai
+50548,1372,2026-06-27,Dr. T. More,Dermatology,Follow-up,Completed,846.67,Solapur
+50549,1442,2025-12-26,Dr. P. Mehta,Cardiology,Consultation,Completed,2308.38,Kolhapur
+50550,1156,2025-01-22,Dr. N. Joshi,Neurology,Consultation,Completed,1381.86,Satara
+50551,1476,2026-09-17,Dr. T. More,Cardiology,Follow-up,Completed,1587.54,Thane
+50552,1120,2025-09-18,Dr. M. Deshmukh,Cardiology,Follow-up,Completed,2091.65,Solapur
+50553,1220,2026-09-12,Dr. T. More,Dermatology,Follow-up,Completed,723.01,Nagpur
+50554,1341,2026-07-31,Dr. I. Gupta,Cardiology,Diagnostic,Cancelled,2140.96,Nagpur
+50555,1144,2026-07-18,Dr. M. Deshmukh,Pediatrics,Consultation,Scheduled,728.7,Aurangabad
+50556,1133,2026-04-01,Dr. V. Rao,General Medicine,Consultation,Scheduled,687.94,Navi Mumbai
+50557,1066,2026-03-22,Dr. K. Singh,Pediatrics,Follow-up,No-show,1019.06,Navi Mumbai
+50558,1003,2025-12-19,Dr. K. Singh,Dentistry,Follow-up,Completed,1115.77,Mumbai
+50559,1251,2025-01-17,Dr. S. Patil,Ophthalmology,Consultation,Cancelled,702.09,Navi Mumbai
+50560,1494,2025-09-14,Dr. I. Gupta,General Medicine,Consultation,Completed,467.7,Aurangabad
+50561,1111,2026-04-29,Dr. P. Mehta,Dentistry,Consultation,Completed,776.77,Mumbai
+50562,1221,2026-06-22,Dr. A. Kulkarni,Ophthalmology,Consultation,Completed,642.63,Pune
+50563,1468,2026-01-06,Dr. R. Shah,Pediatrics,Emergency,Completed,878.31,Nashik
+50564,1387,2026-04-15,Dr. K. Singh,Gynecology,Follow-up,Scheduled,958.93,Navi Mumbai
+50565,1003,2025-01-15,Dr. N. Joshi,Orthopedics,Consultation,No-show,1075.04,Aurangabad
+50566,1251,2025-11-07,Dr. R. Shah,General Medicine,Follow-up,Completed,528.95,Satara
+50567,1072,2025-12-03,Dr. P. Mehta,Neurology,Follow-up,Completed,2110.64,Thane
+50568,1124,2026-08-14,Dr. P. Mehta,Cardiology,Consultation,Completed,1478.32,Kolhapur
+50569,1124,2025-07-25,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,746.31,Navi Mumbai
+50570,1307,2025-06-02,Dr. M. Deshmukh,Dentistry,Follow-up,No-show,1032.89,Mumbai
+50571,1100,2025-08-22,Dr. N. Joshi,Pediatrics,Consultation,Scheduled,600.22,Nagpur
+50572,1126,2025-04-23,Dr. K. Singh,Orthopedics,Follow-up,Completed,1563.09,Nashik
+50573,1113,2026-01-05,Dr. V. Rao,Orthopedics,Follow-up,Completed,971.35,Solapur
+50574,1179,2026-03-02,Dr. A. Kulkarni,Neurology,Follow-up,Completed,1855.17,Satara
+50575,1329,2026-06-15,Dr. V. Rao,ENT,Emergency,Completed,789.12,Thane
+50576,1200,2026-10-06,Dr. I. Gupta,Gynecology,Diagnostic,Completed,1235.44,Navi Mumbai
+50577,1164,2025-02-18,Dr. A. Kulkarni,Dermatology,Follow-up,Completed,1026.75,Mumbai
+50578,1259,2025-06-13,Dr. I. Gupta,Orthopedics,Consultation,Completed,1453.96,Navi Mumbai
+50579,1308,2025-07-19,Dr. A. Kulkarni,Cardiology,Follow-up,Completed,1804.95,Mumbai
+50580,1008,2025-06-15,Dr. V. Rao,Neurology,Diagnostic,Completed,1669.16,Aurangabad
+50581,1446,2026-07-02,Dr. M. Deshmukh,ENT,Diagnostic,Cancelled,819.7,Aurangabad
+50582,1459,2025-04-03,Dr. K. Singh,Gynecology,Diagnostic,Completed,1091.06,Solapur
+50583,1302,2025-01-20,Dr. T. More,Dermatology,Consultation,No-show,951.23,Mumbai
+50584,1288,2026-07-24,Dr. T. More,General Medicine,Follow-up,Completed,524.0,Navi Mumbai
+50585,1348,2026-09-29,Dr. T. More,Dermatology,Diagnostic,Completed,814.38,Aurangabad
+50586,1221,2025-05-30,Dr. T. More,General Medicine,Follow-up,Completed,579.06,Mumbai
+50587,1183,2025-08-09,Dr. M. Deshmukh,General Medicine,Follow-up,Cancelled,453.34,Satara
+50588,1177,2025-11-30,Dr. N. Joshi,General Medicine,Follow-up,Completed,600.25,Solapur
+50589,1080,2025-12-15,Dr. K. Singh,Neurology,Follow-up,Completed,1202.66,Kolhapur
+50590,1421,2026-10-18,Dr. R. Shah,Dentistry,Consultation,Completed,1089.01,Nagpur
+50591,1161,2025-09-25,Dr. P. Mehta,Dermatology,Consultation,Scheduled,1055.18,Nashik
+50592,1143,2025-01-09,Dr. P. Mehta,Cardiology,Diagnostic,Completed,1957.12,Satara
+50593,1483,2025-10-07,Dr. I. Gupta,Pediatrics,Emergency,Completed,932.89,Navi Mumbai
+50594,1254,2026-01-04,Dr. A. Kulkarni,Neurology,Diagnostic,No-show,1200.01,Thane
+50595,1311,2025-12-09,Dr. A. Kulkarni,General Medicine,Consultation,Completed,471.4,Aurangabad
+50596,1123,2025-12-06,Dr. A. Kulkarni,General Medicine,Consultation,Completed,701.45,Aurangabad
+50597,1139,2026-09-03,Dr. P. Mehta,Gynecology,Consultation,No-show,1231.74,Aurangabad
+50598,1365,2026-06-19,Dr. P. Mehta,Pediatrics,Diagnostic,Completed,944.5,Kolhapur
+50599,1226,2025-06-16,Dr. P. Mehta,General Medicine,Follow-up,Completed,688.68,Aurangabad
+50600,1074,2025-08-24,Dr. S. Patil,Gynecology,Emergency,Completed,1174.43,Nagpur
+50601,1418,2026-03-18,Dr. M. Deshmukh,Dermatology,Consultation,Completed,1074.38,Satara
+50602,1202,2025-09-29,Dr. N. Joshi,Dermatology,Follow-up,Scheduled,1066.16,Nagpur
+50603,1335,2025-10-11,Dr. A. Kulkarni,Orthopedics,Diagnostic,Completed,1431.37,Navi Mumbai
+50604,1171,2025-04-22,Dr. K. Singh,Dermatology,Consultation,Completed,714.97,Aurangabad
+50605,1281,2025-06-18,Dr. A. Kulkarni,ENT,Emergency,Completed,551.57,Satara
+50606,1388,2026-05-06,Dr. V. Rao,Ophthalmology,Follow-up,Completed,773.34,Kolhapur
+50607,1443,2026-07-13,Dr. N. Joshi,General Medicine,Consultation,Completed,639.93,Satara
+50608,1104,2026-06-04,Dr. I. Gupta,Pediatrics,Consultation,Completed,966.06,Aurangabad
+50609,1337,2025-07-23,Dr. V. Rao,General Medicine,Diagnostic,Scheduled,570.49,Nashik
+50610,1458,2025-04-01,Dr. N. Joshi,Gynecology,Follow-up,Completed,915.07,Solapur
+50611,1322,2025-04-16,Dr. K. Singh,Pediatrics,Diagnostic,Cancelled,975.1,Nashik
+50612,1072,2025-09-18,Dr. R. Shah,ENT,Diagnostic,Completed,629.72,Mumbai
+50613,1095,2025-12-09,Dr. R. Shah,Cardiology,Consultation,Completed,2236.51,Aurangabad
+50614,1102,2026-08-15,Dr. N. Joshi,Cardiology,Diagnostic,Cancelled,1541.3,Aurangabad
+50615,1054,2026-08-19,Dr. T. More,Orthopedics,Diagnostic,Cancelled,1158.82,Nagpur
+50616,1377,2025-01-02,Dr. T. More,Orthopedics,Consultation,Completed,1188.77,Thane
+50617,1483,2026-04-14,Dr. M. Deshmukh,Ophthalmology,Diagnostic,Completed,743.77,Aurangabad
+50618,1259,2025-07-17,Dr. S. Patil,Dermatology,Consultation,No-show,676.81,Aurangabad
+50619,1300,2025-05-11,Dr. I. Gupta,Pediatrics,Consultation,Completed,713.04,Navi Mumbai
+50620,1387,2026-01-03,Dr. P. Mehta,Dermatology,Consultation,Completed,857.33,Solapur
+50621,1208,2025-01-23,Dr. R. Shah,Dermatology,Diagnostic,Completed,844.36,Kolhapur
+50622,1237,2025-08-10,Dr. S. Patil,Pediatrics,Consultation,Completed,977.07,Nashik
+50623,1295,2026-01-01,Dr. T. More,Orthopedics,Consultation,Completed,934.1,Pune
+50624,1153,2025-06-30,Dr. T. More,General Medicine,Follow-up,Completed,590.02,Satara
+50625,1031,2026-01-28,Dr. I. Gupta,Orthopedics,Consultation,Scheduled,927.01,Thane
+50626,1284,2025-11-01,Dr. A. Kulkarni,Gynecology,Diagnostic,Completed,1308.39,Thane
+50627,1412,2026-06-14,Dr. T. More,Orthopedics,Emergency,Completed,1468.95,Pune
+50628,1037,2025-05-01,Dr. R. Shah,Gynecology,Consultation,Scheduled,1339.3,Aurangabad
+50629,1109,2025-02-07,Dr. T. More,ENT,Consultation,Completed,907.27,Aurangabad
+50630,1132,2025-12-17,Dr. T. More,Orthopedics,Emergency,Completed,1127.39,Aurangabad
+50631,1403,2025-06-20,Dr. M. Deshmukh,Cardiology,Consultation,Completed,2096.91,Satara
+50632,1253,2026-04-13,Dr. R. Shah,Dentistry,Consultation,Completed,933.93,Pune
+50633,1268,2025-03-03,Dr. K. Singh,Neurology,Emergency,Completed,2052.68,Kolhapur
+50634,1323,2026-01-16,Dr. A. Kulkarni,General Medicine,Diagnostic,Scheduled,597.87,Thane
+50635,1139,2026-10-18,Dr. P. Mehta,Cardiology,Follow-up,Cancelled,1755.96,Satara
+50636,1357,2025-03-03,Dr. M. Deshmukh,Pediatrics,Follow-up,Completed,1038.75,Satara
+50637,1016,2025-07-19,Dr. N. Joshi,Neurology,Diagnostic,Completed,2003.27,Satara
+50638,1057,2026-07-13,Dr. T. More,Ophthalmology,Follow-up,Scheduled,1063.88,Satara
+50639,1408,2025-12-20,Dr. I. Gupta,Pediatrics,Follow-up,Completed,631.91,Nagpur
+50640,1330,2025-04-26,Dr. N. Joshi,Gynecology,Diagnostic,No-show,896.0,Thane
+50641,1089,2025-05-22,Dr. S. Patil,General Medicine,Follow-up,Completed,558.31,Nashik
+50642,1220,2026-05-22,Dr. T. More,Orthopedics,Follow-up,Cancelled,1205.53,Kolhapur
+50643,1026,2026-07-24,Dr. N. Joshi,Pediatrics,Consultation,No-show,827.1,Kolhapur
+50644,1336,2025-08-27,Dr. R. Shah,Pediatrics,Follow-up,Completed,739.91,Aurangabad
+50645,1378,2025-11-10,Dr. I. Gupta,Neurology,Follow-up,Completed,1958.83,Solapur
+50646,1140,2026-06-03,Dr. I. Gupta,General Medicine,Consultation,No-show,530.37,Thane
+50647,1176,2025-04-28,Dr. S. Patil,Dermatology,Consultation,Completed,1051.12,Mumbai
+50648,1119,2025-05-17,Dr. R. Shah,Pediatrics,Diagnostic,Completed,1008.85,Thane
+50649,1195,2026-05-28,Dr. R. Shah,Gynecology,Consultation,Completed,1112.22,Nagpur
+50650,1137,2025-05-04,Dr. P. Mehta,General Medicine,Consultation,Completed,577.5,Pune
+50651,1124,2026-05-26,Dr. M. Deshmukh,General Medicine,Consultation,Completed,517.64,Mumbai
+50652,1216,2025-11-26,Dr. V. Rao,General Medicine,Consultation,Completed,498.36,Navi Mumbai
+50653,1430,2026-10-18,Dr. K. Singh,Pediatrics,Diagnostic,Completed,957.2,Kolhapur
+50654,1382,2025-01-22,Dr. A. Kulkarni,General Medicine,Consultation,Scheduled,618.89,Nashik
+50655,1149,2026-09-19,Dr. T. More,Dermatology,Consultation,Completed,700.01,Mumbai
+50656,1472,2025-05-30,Dr. A. Kulkarni,Dermatology,Diagnostic,Completed,1206.27,Thane
+50657,1106,2025-01-24,Dr. R. Shah,Orthopedics,Consultation,Completed,1383.34,Aurangabad
+50658,1456,2026-04-25,Dr. K. Singh,General Medicine,Consultation,Scheduled,753.91,Nagpur
+50659,1155,2025-12-19,Dr. V. Rao,General Medicine,Diagnostic,Completed,607.75,Mumbai
+50660,1271,2026-07-09,Dr. I. Gupta,Dermatology,Follow-up,No-show,1190.94,Nagpur
+50661,1102,2025-03-13,Dr. P. Mehta,Ophthalmology,Diagnostic,Completed,695.77,Thane
+50662,1382,2025-02-23,Dr. N. Joshi,ENT,Diagnostic,Completed,602.76,Mumbai
+50663,1159,2026-01-11,Dr. V. Rao,Orthopedics,Emergency,Scheduled,1541.04,Nashik
+50664,1437,2026-08-07,Dr. K. Singh,Gynecology,Consultation,Scheduled,1285.03,Pune
+50665,1042,2025-09-26,Dr. V. Rao,Dermatology,Diagnostic,Completed,944.47,Kolhapur
+50666,1252,2026-06-12,Dr. M. Deshmukh,Dentistry,Follow-up,Completed,825.47,Mumbai
+50667,1080,2026-08-23,Dr. I. Gupta,Pediatrics,Consultation,Completed,746.5,Mumbai
+50668,1445,2026-07-30,Dr. M. Deshmukh,Pediatrics,Diagnostic,Completed,961.99,Mumbai
+50669,1209,2025-12-03,Dr. M. Deshmukh,Neurology,Consultation,Scheduled,2012.15,Aurangabad
+50670,1338,2026-04-08,Dr. S. Patil,Pediatrics,Diagnostic,No-show,766.87,Kolhapur
+50671,1440,2025-12-14,Dr. S. Patil,Gynecology,Follow-up,Completed,786.74,Navi Mumbai
+50672,1268,2026-03-23,Dr. S. Patil,Neurology,Follow-up,Completed,1839.1,Nagpur
+50673,1029,2026-01-11,Dr. P. Mehta,Pediatrics,Consultation,Completed,954.96,Nashik
+50674,1111,2025-12-14,Dr. K. Singh,Neurology,Diagnostic,Completed,1607.05,Nashik
+50675,1107,2025-10-17,Dr. N. Joshi,Ophthalmology,Follow-up,Cancelled,879.89,Navi Mumbai
+50676,1458,2026-03-09,Dr. I. Gupta,ENT,Consultation,Completed,939.7,Satara
+50677,1455,2026-05-13,Dr. N. Joshi,Neurology,Consultation,Completed,1435.2,Nagpur
+50678,1239,2026-09-01,Dr. N. Joshi,Pediatrics,Diagnostic,Completed,875.03,Thane
+50679,1446,2026-02-10,Dr. A. Kulkarni,Orthopedics,Consultation,Scheduled,1339.89,Satara
+50680,1124,2025-03-08,Dr. I. Gupta,Ophthalmology,Follow-up,Completed,863.57,Mumbai
+50681,1340,2026-01-24,Dr. R. Shah,Gynecology,Follow-up,Completed,1271.48,Aurangabad
+50682,1196,2025-07-29,Dr. R. Shah,General Medicine,Consultation,Completed,667.8,Mumbai
+50683,1121,2025-01-18,Dr. I. Gupta,Ophthalmology,Follow-up,Completed,843.79,Mumbai
+50684,1126,2025-02-17,Dr. P. Mehta,Orthopedics,Consultation,Completed,988.57,Aurangabad
+50685,1210,2026-01-27,Dr. A. Kulkarni,General Medicine,Emergency,Completed,703.16,Kolhapur
+50686,1170,2026-09-18,Dr. N. Joshi,Orthopedics,Diagnostic,Completed,995.12,Nashik
+50687,1106,2025-12-01,Dr. P. Mehta,Orthopedics,Consultation,Completed,919.13,Pune
+50688,1168,2025-10-22,Dr. A. Kulkarni,Neurology,Follow-up,No-show,1668.99,Satara
+50689,1065,2025-02-28,Dr. K. Singh,Dermatology,Follow-up,Completed,984.12,Thane
+50690,1485,2026-03-24,Dr. V. Rao,Dentistry,Emergency,Completed,1349.43,Nashik
+50691,1190,2025-02-06,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,941.92,Kolhapur
+50692,1054,2026-07-11,Dr. V. Rao,ENT,Follow-up,No-show,881.41,Nagpur
+50693,1288,2026-06-25,Dr. S. Patil,Gynecology,Diagnostic,Cancelled,957.83,Solapur
+50694,1442,2026-10-19,Dr. K. Singh,General Medicine,Consultation,No-show,633.21,Aurangabad
+50695,1180,2025-07-08,Dr. M. Deshmukh,Dentistry,Follow-up,Completed,1334.56,Nashik
+50696,1423,2025-04-18,Dr. S. Patil,Dermatology,Consultation,Completed,900.39,Satara
+50697,1306,2025-07-18,Dr. P. Mehta,Dermatology,Follow-up,Completed,1110.94,Navi Mumbai
+50698,1370,2026-06-14,Dr. N. Joshi,Orthopedics,Consultation,Completed,1278.71,Nagpur
+50699,1149,2025-05-25,Dr. M. Deshmukh,Pediatrics,Emergency,Completed,707.5,Mumbai
+50700,1019,2026-08-11,Dr. T. More,Ophthalmology,Consultation,Completed,878.6,Nashik
+50701,1173,2025-04-13,Dr. V. Rao,Neurology,Consultation,Completed,1409.34,Thane
+50702,1463,2025-02-02,Dr. N. Joshi,Dermatology,Diagnostic,Completed,676.63,Navi Mumbai
+50703,1396,2025-05-26,Dr. S. Patil,Orthopedics,Diagnostic,Completed,1069.85,Nagpur
+50704,1393,2026-05-15,Dr. P. Mehta,Neurology,Follow-up,Completed,1385.42,Pune
+50705,1440,2026-02-03,Dr. A. Kulkarni,Gynecology,Follow-up,Cancelled,972.55,Mumbai
+50706,1187,2025-08-23,Dr. T. More,Pediatrics,Consultation,Completed,1026.53,Kolhapur
+50707,1162,2026-03-11,Dr. A. Kulkarni,Gynecology,Follow-up,No-show,982.71,Pune
+50708,1463,2026-03-06,Dr. V. Rao,General Medicine,Consultation,Completed,754.27,Pune
+50709,1286,2026-01-03,Dr. M. Deshmukh,ENT,Consultation,No-show,758.36,Thane
+50710,1149,2025-12-07,Dr. K. Singh,Pediatrics,Diagnostic,Cancelled,603.66,Solapur
+50711,1140,2025-03-09,Dr. M. Deshmukh,General Medicine,Follow-up,Completed,517.95,Nashik
+50712,1439,2025-06-21,Dr. A. Kulkarni,Orthopedics,Consultation,Scheduled,1570.52,Satara
+50713,1027,2025-12-16,Dr. I. Gupta,Dermatology,Consultation,Completed,1001.25,Satara
+50714,1031,2025-03-31,Dr. K. Singh,Gynecology,Emergency,Completed,1307.73,Thane
+50715,1369,2025-11-12,Dr. A. Kulkarni,General Medicine,Consultation,Cancelled,561.64,Navi Mumbai
+50716,1001,2025-03-19,Dr. A. Kulkarni,Orthopedics,Consultation,Completed,1415.92,Solapur
+50717,1086,2026-06-06,Dr. P. Mehta,Ophthalmology,Consultation,Completed,970.57,Nagpur
+50718,1496,2025-03-10,Dr. I. Gupta,Cardiology,Consultation,Completed,2403.76,Navi Mumbai
+50719,1213,2025-03-03,Dr. P. Mehta,General Medicine,Consultation,Completed,456.54,Pune
+50720,1364,2026-02-27,Dr. A. Kulkarni,Dentistry,Emergency,Completed,1321.34,Navi Mumbai
+50721,1244,2025-05-26,Dr. V. Rao,General Medicine,Consultation,Completed,590.97,Mumbai
+50722,1046,2025-08-21,Dr. N. Joshi,ENT,Follow-up,Completed,876.96,Mumbai
+50723,1093,2025-07-28,Dr. V. Rao,General Medicine,Follow-up,Completed,646.1,Mumbai
+50724,1381,2025-05-24,Dr. M. Deshmukh,ENT,Follow-up,Completed,762.15,Mumbai
+50725,1048,2026-05-20,Dr. A. Kulkarni,General Medicine,Follow-up,Completed,579.38,Kolhapur
+50726,1298,2026-04-04,Dr. A. Kulkarni,Gynecology,Follow-up,Completed,1247.08,Thane
+50727,1175,2025-06-08,Dr. V. Rao,Pediatrics,Follow-up,Completed,726.73,Aurangabad
+50728,1186,2026-03-31,Dr. V. Rao,Gynecology,Follow-up,Completed,1045.34,Pune
+50729,1477,2026-04-18,Dr. M. Deshmukh,Pediatrics,Diagnostic,Cancelled,868.88,Nashik
+50730,1303,2025-12-23,Dr. A. Kulkarni,Dentistry,Follow-up,Scheduled,1195.51,Mumbai
+50731,1308,2026-01-18,Dr. K. Singh,Pediatrics,Diagnostic,Completed,826.38,Mumbai
+50732,1176,2026-09-11,Dr. R. Shah,Pediatrics,Consultation,Completed,926.54,Aurangabad
+50733,1191,2025-10-28,Dr. R. Shah,Ophthalmology,Follow-up,Cancelled,832.94,Thane
+50734,1343,2025-09-13,Dr. N. Joshi,Pediatrics,Follow-up,Scheduled,916.47,Nashik
+50735,1020,2025-12-23,Dr. K. Singh,Dermatology,Consultation,Completed,1039.04,Nagpur
+50736,1119,2026-07-08,Dr. I. Gupta,Gynecology,Diagnostic,Completed,1175.66,Navi Mumbai
+50737,1301,2026-04-15,Dr. V. Rao,Orthopedics,Consultation,Completed,1492.78,Satara
+50738,1312,2025-02-19,Dr. I. Gupta,Orthopedics,Consultation,Completed,1289.32,Nashik
+50739,1047,2025-11-01,Dr. V. Rao,Neurology,Diagnostic,Scheduled,1385.55,Navi Mumbai
+50740,1394,2026-05-05,Dr. T. More,Pediatrics,Consultation,Completed,926.23,Mumbai
+50741,1272,2025-05-29,Dr. R. Shah,Pediatrics,Consultation,Completed,637.02,Nashik
+50742,1119,2026-10-17,Dr. A. Kulkarni,Cardiology,Consultation,Completed,1586.47,Thane
+50743,1376,2026-06-19,Dr. V. Rao,Dermatology,Diagnostic,No-show,1102.77,Satara
+50744,1496,2026-07-15,Dr. I. Gupta,Pediatrics,Consultation,Completed,808.83,Pune
+50745,1212,2025-02-24,Dr. K. Singh,Cardiology,Follow-up,No-show,1887.89,Solapur
+50746,1142,2026-01-19,Dr. M. Deshmukh,General Medicine,Diagnostic,Completed,805.46,Nashik
+50747,1150,2025-12-16,Dr. N. Joshi,General Medicine,Follow-up,Completed,534.66,Thane
+50748,1297,2026-02-19,Dr. R. Shah,Cardiology,Emergency,Completed,1371.12,Nagpur
+50749,1024,2026-07-17,Dr. M. Deshmukh,Pediatrics,Diagnostic,Completed,653.46,Aurangabad
+50750,1242,2025-08-22,Dr. V. Rao,Ophthalmology,Consultation,Scheduled,717.36,Solapur
+50751,1013,2025-12-20,Dr. R. Shah,General Medicine,Emergency,Completed,711.33,Aurangabad
+50752,1020,2026-03-26,Dr. N. Joshi,Dermatology,Follow-up,Completed,1093.94,Navi Mumbai
+50753,1216,2026-05-14,Dr. S. Patil,Neurology,Consultation,Completed,1742.87,Satara
+50754,1373,2026-05-26,Dr. N. Joshi,Orthopedics,Consultation,Completed,1083.63,Pune
+50755,1442,2025-08-12,Dr. K. Singh,ENT,Follow-up,Completed,744.13,Satara
+50756,1044,2026-10-23,Dr. T. More,Ophthalmology,Consultation,Cancelled,607.18,Kolhapur
+50757,1123,2025-01-07,Dr. N. Joshi,Ophthalmology,Follow-up,Completed,927.26,Aurangabad
+50758,1211,2025-11-23,Dr. T. More,Pediatrics,Consultation,Completed,894.86,Nashik
+50759,1288,2026-02-08,Dr. K. Singh,Pediatrics,Follow-up,Completed,610.46,Thane
+50760,1494,2025-02-10,Dr. I. Gupta,Orthopedics,Consultation,Completed,1488.25,Kolhapur
+50761,1343,2025-10-26,Dr. K. Singh,Pediatrics,Diagnostic,Completed,966.44,Thane
+50762,1270,2026-01-30,Dr. P. Mehta,Pediatrics,Consultation,Completed,747.95,Kolhapur
+50763,1031,2026-02-07,Dr. V. Rao,General Medicine,Consultation,Completed,678.74,Nagpur
+50764,1041,2025-03-20,Dr. M. Deshmukh,Orthopedics,Consultation,Cancelled,1333.07,Nashik
+50765,1077,2025-07-03,Dr. V. Rao,Ophthalmology,Follow-up,Cancelled,668.73,Solapur
+50766,1331,2025-06-12,Dr. K. Singh,Orthopedics,Follow-up,No-show,1039.15,Pune
+50767,1166,2026-02-28,Dr. V. Rao,Cardiology,Follow-up,Completed,2087.86,Nashik
+50768,1121,2025-08-06,Dr. R. Shah,Ophthalmology,Consultation,Completed,1048.1,Kolhapur
+50769,1336,2026-01-14,Dr. P. Mehta,Gynecology,Diagnostic,Cancelled,1095.77,Mumbai
+50770,1408,2026-04-29,Dr. K. Singh,Dermatology,Consultation,Completed,981.62,Navi Mumbai
+50771,1220,2026-06-12,Dr. R. Shah,General Medicine,Consultation,Completed,682.81,Nagpur
+50772,1441,2025-05-02,Dr. K. Singh,Pediatrics,Diagnostic,Completed,811.48,Nashik
+50773,1368,2026-08-22,Dr. T. More,Orthopedics,Follow-up,Cancelled,939.0,Nashik
+50774,1359,2025-04-20,Dr. P. Mehta,Neurology,Follow-up,Completed,1580.64,Mumbai
+50775,1434,2025-01-15,Dr. I. Gupta,Dermatology,Consultation,Completed,1161.14,Thane
+50776,1092,2025-01-30,Dr. T. More,General Medicine,Consultation,Completed,739.78,Kolhapur
+50777,1380,2025-05-14,Dr. N. Joshi,Orthopedics,Follow-up,Completed,1567.74,Nashik
+50778,1479,2026-08-02,Dr. T. More,General Medicine,Consultation,Completed,505.02,Solapur
+50779,1497,2025-05-18,Dr. I. Gupta,Gynecology,Consultation,Completed,1053.57,Thane
+50780,1290,2026-04-05,Dr. R. Shah,Orthopedics,Emergency,Completed,1321.0,Kolhapur
+50781,1378,2025-10-05,Dr. I. Gupta,Cardiology,Follow-up,Scheduled,1576.72,Satara
+50782,1445,2025-01-27,Dr. A. Kulkarni,Dermatology,Consultation,Cancelled,783.52,Thane
+50783,1427,2025-10-22,Dr. N. Joshi,Gynecology,Consultation,Completed,1219.22,Mumbai
+50784,1449,2025-01-19,Dr. I. Gupta,General Medicine,Follow-up,Scheduled,691.87,Solapur
+50785,1417,2025-11-12,Dr. K. Singh,Gynecology,Consultation,Completed,1138.31,Nashik
+50786,1191,2026-01-05,Dr. S. Patil,Dermatology,Consultation,Cancelled,819.17,Pune
+50787,1366,2025-12-12,Dr. V. Rao,Pediatrics,Consultation,Completed,843.25,Satara
+50788,1206,2025-07-07,Dr. S. Patil,General Medicine,Follow-up,Completed,458.31,Solapur
+50789,1401,2026-05-23,Dr. S. Patil,Orthopedics,Follow-up,Completed,993.56,Aurangabad
+50790,1406,2026-01-31,Dr. I. Gupta,Gynecology,Consultation,Completed,1060.95,Nagpur
+50791,1468,2025-06-18,Dr. A. Kulkarni,Orthopedics,Consultation,Completed,1122.96,Nagpur
+50792,1295,2025-10-15,Dr. I. Gupta,Pediatrics,Follow-up,Completed,1063.52,Satara
+50793,1238,2025-03-13,Dr. N. Joshi,Neurology,Follow-up,Completed,1652.63,Nashik
+50794,1083,2026-09-04,Dr. A. Kulkarni,Neurology,Follow-up,Completed,1280.22,Solapur
+50795,1320,2026-05-14,Dr. K. Singh,General Medicine,Consultation,Completed,456.42,Nashik
+50796,1284,2025-07-10,Dr. A. Kulkarni,Dermatology,Follow-up,Scheduled,1066.64,Nashik
+50797,1258,2026-03-23,Dr. M. Deshmukh,Ophthalmology,Diagnostic,Completed,682.32,Pune
+50798,1339,2026-03-26,Dr. S. Patil,ENT,Follow-up,Scheduled,603.88,Thane
+50799,1426,2026-02-08,Dr. K. Singh,Ophthalmology,Consultation,Completed,803.43,Pune
+50800,1075,2025-02-05,Dr. M. Deshmukh,General Medicine,Follow-up,Completed,545.06,Solapur
+50801,1216,2026-08-05,Dr. V. Rao,General Medicine,Consultation,Completed,671.97,Navi Mumbai
+50802,1362,2026-09-25,Dr. A. Kulkarni,General Medicine,Consultation,Completed,624.85,Mumbai
+50803,1410,2026-10-07,Dr. V. Rao,Dermatology,Consultation,Completed,735.18,Pune
+50804,1390,2026-10-12,Dr. K. Singh,Pediatrics,Diagnostic,No-show,976.68,Navi Mumbai
+50805,1400,2026-09-07,Dr. S. Patil,General Medicine,Consultation,Completed,603.31,Mumbai
+50806,1428,2026-05-05,Dr. T. More,Cardiology,Diagnostic,Cancelled,2009.7,Kolhapur
+50807,1481,2025-02-07,Dr. N. Joshi,Cardiology,Follow-up,Completed,1354.26,Solapur
+50808,1305,2025-11-04,Dr. V. Rao,Ophthalmology,Follow-up,Completed,900.67,Mumbai
+50809,1125,2025-06-12,Dr. R. Shah,Cardiology,Consultation,Completed,1655.48,Thane
+50810,1282,2025-05-26,Dr. I. Gupta,General Medicine,Follow-up,Scheduled,627.97,Nagpur
+50811,1355,2026-07-04,Dr. S. Patil,General Medicine,Consultation,Completed,557.18,Kolhapur
+50812,1051,2026-06-22,Dr. V. Rao,Orthopedics,Consultation,Completed,1617.31,Navi Mumbai
+50813,1379,2025-12-12,Dr. A. Kulkarni,Ophthalmology,Consultation,Completed,710.8,Thane
+50814,1273,2026-05-03,Dr. A. Kulkarni,Orthopedics,Consultation,Completed,1557.26,Nagpur
+50815,1469,2025-03-27,Dr. R. Shah,Ophthalmology,Follow-up,Scheduled,1040.62,Navi Mumbai
+50816,1106,2025-05-27,Dr. I. Gupta,Gynecology,Consultation,Scheduled,1002.6,Satara
+50817,1454,2026-07-24,Dr. S. Patil,Pediatrics,Consultation,Cancelled,745.92,Pune
+50818,1225,2025-10-26,Dr. T. More,Orthopedics,Emergency,Scheduled,1174.35,Nagpur
+50819,1287,2025-12-28,Dr. P. Mehta,Pediatrics,Consultation,Cancelled,1074.88,Nashik
+50820,1331,2025-11-03,Dr. A. Kulkarni,Dermatology,Consultation,Completed,1009.15,Thane
+50821,1290,2025-05-14,Dr. N. Joshi,Pediatrics,Consultation,Completed,861.49,Solapur
+50822,1452,2026-07-02,Dr. N. Joshi,Dentistry,Consultation,Completed,771.55,Pune
+50823,1084,2026-05-17,Dr. S. Patil,Pediatrics,Follow-up,Completed,1006.96,Aurangabad
+50824,1365,2026-03-29,Dr. V. Rao,ENT,Consultation,Completed,560.2,Navi Mumbai
+50825,1488,2025-08-22,Dr. T. More,Orthopedics,Consultation,Completed,933.82,Navi Mumbai
+50826,1111,2026-03-02,Dr. T. More,Dentistry,Follow-up,Scheduled,914.91,Thane
+50827,1128,2026-09-24,Dr. P. Mehta,Pediatrics,Consultation,Scheduled,828.38,Nagpur
+50828,1238,2026-03-07,Dr. T. More,Dermatology,Emergency,Completed,1158.46,Mumbai
+50829,1363,2025-11-24,Dr. I. Gupta,General Medicine,Emergency,Cancelled,734.43,Navi Mumbai
+50830,1480,2025-06-29,Dr. A. Kulkarni,Orthopedics,Consultation,Completed,1042.3,Kolhapur
+50831,1398,2025-12-13,Dr. V. Rao,ENT,Consultation,Completed,681.27,Nagpur
+50832,1398,2025-09-04,Dr. K. Singh,Pediatrics,Consultation,Completed,974.52,Aurangabad
+50833,1221,2026-02-09,Dr. A. Kulkarni,General Medicine,Consultation,Completed,639.75,Aurangabad
+50834,1323,2025-01-31,Dr. V. Rao,General Medicine,Follow-up,Completed,512.82,Solapur
+50835,1106,2025-05-06,Dr. I. Gupta,General Medicine,Follow-up,Completed,592.58,Solapur
+50836,1232,2026-06-05,Dr. S. Patil,Cardiology,Consultation,Completed,2026.01,Solapur
+50837,1095,2025-09-10,Dr. T. More,Orthopedics,Consultation,Completed,1600.72,Mumbai
+50838,1014,2025-10-14,Dr. I. Gupta,Orthopedics,Consultation,Scheduled,1376.5,Mumbai
+50839,1429,2025-12-27,Dr. V. Rao,Pediatrics,Emergency,Completed,607.77,Nashik
+50840,1403,2025-10-18,Dr. V. Rao,Orthopedics,Diagnostic,Completed,1407.61,Thane
+50841,1256,2026-05-18,Dr. P. Mehta,Dentistry,Consultation,Completed,900.52,Satara
+50842,1008,2025-06-12,Dr. N. Joshi,General Medicine,Follow-up,Completed,760.38,Solapur
+50843,1046,2026-05-18,Dr. N. Joshi,General Medicine,Consultation,Completed,588.2,Solapur
+50844,1056,2025-05-19,Dr. P. Mehta,Dermatology,Follow-up,Completed,782.79,Solapur
+50845,1359,2025-09-03,Dr. N. Joshi,Pediatrics,Follow-up,Completed,824.61,Pune
+50846,1102,2026-01-25,Dr. T. More,Neurology,Diagnostic,Completed,1444.99,Thane
+50847,1126,2026-08-10,Dr. K. Singh,Pediatrics,Consultation,Completed,713.19,Solapur
+50848,1431,2025-06-03,Dr. M. Deshmukh,Dermatology,Consultation,Completed,984.56,Navi Mumbai
+50849,1439,2026-01-24,Dr. P. Mehta,Neurology,Emergency,Completed,1936.65,Nagpur
+50850,1382,2025-02-12,Dr. S. Patil,Neurology,Consultation,Completed,2001.56,Aurangabad
+50851,1155,2025-02-19,Dr. R. Shah,Dentistry,Consultation,Completed,988.6,Kolhapur
+50852,1290,2026-05-24,Dr. M. Deshmukh,Pediatrics,Follow-up,Completed,632.07,Mumbai
+50853,1101,2026-04-21,Dr. A. Kulkarni,Neurology,Diagnostic,Completed,1664.62,Nagpur
+50854,1429,2025-09-07,Dr. T. More,Orthopedics,Follow-up,Completed,1212.32,Nashik
+50855,1043,2026-02-17,Dr. R. Shah,Dermatology,Diagnostic,Completed,781.37,Navi Mumbai
+50856,1373,2025-09-09,Dr. M. Deshmukh,Gynecology,Follow-up,Completed,1287.69,Mumbai
+50857,1256,2025-07-03,Dr. S. Patil,Orthopedics,Consultation,Completed,1601.39,Mumbai
+50858,1379,2025-10-13,Dr. S. Patil,General Medicine,Follow-up,Completed,468.63,Satara
+50859,1226,2025-07-26,Dr. M. Deshmukh,Dermatology,Diagnostic,Completed,1104.7,Satara
+50860,1080,2026-06-24,Dr. K. Singh,Cardiology,Diagnostic,No-show,2047.37,Satara
+50861,1376,2025-09-30,Dr. T. More,Dentistry,Consultation,Scheduled,906.86,Mumbai
+50862,1316,2025-08-01,Dr. R. Shah,Dermatology,Consultation,Scheduled,1017.98,Kolhapur
+50863,1233,2025-12-21,Dr. S. Patil,ENT,Diagnostic,Completed,579.03,Navi Mumbai
+50864,1187,2026-05-17,Dr. N. Joshi,Dermatology,Consultation,Completed,712.48,Pune
+50865,1172,2025-07-01,Dr. M. Deshmukh,Dentistry,Consultation,Completed,1346.09,Aurangabad
+50866,1241,2026-09-14,Dr. K. Singh,Pediatrics,Diagnostic,Completed,905.46,Mumbai
+50867,1131,2025-11-03,Dr. S. Patil,Dermatology,Follow-up,Completed,811.74,Nashik
+50868,1142,2026-03-14,Dr. N. Joshi,Gynecology,Consultation,Completed,1020.02,Solapur
+50869,1140,2026-09-26,Dr. P. Mehta,Dermatology,Consultation,Completed,1188.05,Nashik
+50870,1007,2025-10-13,Dr. M. Deshmukh,Dermatology,Consultation,Completed,911.91,Satara
+50871,1464,2025-05-13,Dr. V. Rao,Dentistry,Diagnostic,Completed,1290.27,Nagpur
+50872,1119,2026-05-11,Dr. K. Singh,General Medicine,Follow-up,Completed,762.77,Thane
+50873,1083,2025-01-05,Dr. P. Mehta,General Medicine,Consultation,Scheduled,573.9,Kolhapur
+50874,1076,2025-10-31,Dr. N. Joshi,General Medicine,Consultation,Completed,700.56,Kolhapur
+50875,1495,2026-10-11,Dr. I. Gupta,ENT,Consultation,Completed,802.41,Solapur
+50876,1239,2025-10-02,Dr. I. Gupta,Ophthalmology,Consultation,Scheduled,970.18,Satara
+50877,1164,2026-03-29,Dr. I. Gupta,General Medicine,Consultation,Completed,581.73,Satara
+50878,1202,2025-12-14,Dr. A. Kulkarni,Pediatrics,Follow-up,Completed,625.07,Solapur
+50879,1045,2025-05-23,Dr. T. More,Cardiology,Consultation,Completed,1534.72,Kolhapur
+50880,1157,2025-07-30,Dr. T. More,General Medicine,Consultation,Completed,671.96,Solapur
+50881,1125,2025-12-13,Dr. T. More,ENT,Consultation,Completed,850.54,Aurangabad
+50882,1402,2025-03-11,Dr. K. Singh,Neurology,Consultation,No-show,1925.81,Solapur
+50883,1030,2025-10-02,Dr. M. Deshmukh,Orthopedics,Consultation,Cancelled,1320.25,Kolhapur
+50884,1213,2025-10-02,Dr. K. Singh,Pediatrics,Consultation,No-show,640.68,Satara
+50885,1396,2026-07-07,Dr. P. Mehta,Neurology,Consultation,Scheduled,1216.6,Mumbai
+50886,1417,2025-03-23,Dr. T. More,ENT,Consultation,Completed,853.5,Mumbai
+50887,1257,2026-07-12,Dr. M. Deshmukh,Orthopedics,Follow-up,Cancelled,1295.55,Mumbai
+50888,1112,2025-09-29,Dr. K. Singh,General Medicine,Consultation,Completed,731.78,Thane
+50889,1169,2026-03-08,Dr. K. Singh,Gynecology,Diagnostic,Completed,847.67,Nagpur
+50890,1112,2026-01-04,Dr. T. More,Dentistry,Follow-up,Cancelled,994.45,Nashik
+50891,1332,2025-07-18,Dr. R. Shah,Orthopedics,Consultation,Cancelled,1561.8,Thane
+50892,1147,2026-09-09,Dr. T. More,Dentistry,Consultation,Scheduled,852.96,Nagpur
+50893,1316,2025-05-29,Dr. S. Patil,General Medicine,Consultation,Completed,472.15,Mumbai
+50894,1328,2025-01-24,Dr. I. Gupta,Gynecology,Consultation,Completed,1142.08,Satara
+50895,1470,2026-05-12,Dr. A. Kulkarni,Cardiology,Follow-up,Completed,1992.1,Satara
+50896,1186,2026-02-16,Dr. S. Patil,Neurology,Consultation,Completed,2113.95,Mumbai
+50897,1481,2026-08-13,Dr. V. Rao,General Medicine,Diagnostic,Cancelled,776.33,Nashik
+50898,1201,2025-10-31,Dr. P. Mehta,Pediatrics,Follow-up,Cancelled,959.73,Nashik
+50899,1341,2025-01-12,Dr. V. Rao,Dermatology,Follow-up,Completed,685.34,Thane
+50900,1331,2025-01-14,Dr. N. Joshi,General Medicine,Follow-up,Completed,622.94,Nashik
+50901,1409,2025-10-14,Dr. A. Kulkarni,General Medicine,Follow-up,Completed,772.6,Pune
+50902,1235,2025-06-15,Dr. V. Rao,Cardiology,Diagnostic,Completed,1818.34,Nashik
+50903,1397,2026-09-03,Dr. P. Mehta,Dermatology,Emergency,Completed,1194.56,Kolhapur
+50904,1178,2025-03-20,Dr. P. Mehta,Orthopedics,Consultation,Scheduled,1369.79,Aurangabad
+50905,1246,2026-08-07,Dr. M. Deshmukh,Ophthalmology,Consultation,Completed,652.54,Pune
+50906,1250,2025-05-24,Dr. T. More,Dentistry,Consultation,Scheduled,1055.56,Solapur
+50907,1353,2025-03-21,Dr. K. Singh,Pediatrics,Consultation,Completed,933.9,Nagpur
+50908,1310,2025-07-01,Dr. R. Shah,Orthopedics,Follow-up,Cancelled,947.07,Nagpur
+50909,1040,2025-04-06,Dr. A. Kulkarni,Orthopedics,Consultation,Completed,1148.15,Pune
+50910,1405,2025-09-23,Dr. R. Shah,Neurology,Follow-up,Completed,1888.4,Nashik
+50911,1380,2025-08-07,Dr. A. Kulkarni,Ophthalmology,Diagnostic,Completed,675.39,Kolhapur
+50912,1053,2025-12-17,Dr. K. Singh,Neurology,Consultation,Cancelled,1534.41,Thane
+50913,1481,2025-12-22,Dr. V. Rao,Cardiology,Follow-up,Scheduled,2095.1,Aurangabad
+50914,1331,2025-01-01,Dr. N. Joshi,Cardiology,Consultation,Completed,2187.58,Satara
+50915,1043,2025-03-24,Dr. P. Mehta,Pediatrics,Diagnostic,Completed,848.89,Mumbai
+50916,1246,2025-04-18,Dr. T. More,ENT,Follow-up,Completed,926.88,Nagpur
+50917,1419,2025-05-09,Dr. T. More,General Medicine,Consultation,Cancelled,783.12,Aurangabad
+50918,1140,2025-03-03,Dr. N. Joshi,General Medicine,Follow-up,Completed,620.44,Thane
+50919,1467,2025-07-28,Dr. P. Mehta,Pediatrics,Consultation,Completed,676.93,Satara
+50920,1210,2025-12-30,Dr. P. Mehta,Dentistry,Follow-up,Completed,1213.76,Satara
+50921,1114,2025-07-24,Dr. I. Gupta,Pediatrics,Follow-up,Completed,716.71,Satara
+50922,1179,2025-08-06,Dr. K. Singh,ENT,Consultation,Cancelled,878.98,Navi Mumbai
+50923,1263,2025-11-07,Dr. M. Deshmukh,Ophthalmology,Follow-up,Cancelled,881.83,Satara
+50924,1345,2025-12-30,Dr. T. More,Neurology,Diagnostic,Cancelled,1578.33,Satara
+50925,1464,2025-08-08,Dr. M. Deshmukh,Ophthalmology,Diagnostic,Cancelled,867.06,Nagpur
+50926,1098,2025-05-27,Dr. K. Singh,Pediatrics,Follow-up,Scheduled,855.75,Kolhapur
+50927,1481,2025-09-29,Dr. I. Gupta,General Medicine,Follow-up,Completed,782.9,Aurangabad
+50928,1264,2025-01-17,Dr. T. More,Cardiology,Consultation,Scheduled,1581.51,Solapur
+50929,1064,2025-11-23,Dr. R. Shah,Neurology,Diagnostic,Completed,2091.03,Aurangabad
+50930,1464,2026-09-16,Dr. S. Patil,Orthopedics,Diagnostic,Completed,922.57,Thane
+50931,1175,2025-09-21,Dr. K. Singh,Cardiology,Consultation,Cancelled,2180.74,Aurangabad
+50932,1311,2025-03-13,Dr. R. Shah,Cardiology,Consultation,Completed,2343.24,Pune
+50933,1350,2026-04-14,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,789.15,Nashik
+50934,1007,2025-03-25,Dr. S. Patil,General Medicine,Consultation,Completed,476.3,Nashik
+50935,1111,2025-05-09,Dr. N. Joshi,Neurology,Consultation,Completed,1972.48,Thane
+50936,1344,2025-04-08,Dr. R. Shah,Pediatrics,Consultation,Scheduled,1004.58,Aurangabad
+50937,1163,2026-08-08,Dr. R. Shah,Dentistry,Follow-up,Completed,951.75,Mumbai
+50938,1005,2026-10-12,Dr. M. Deshmukh,Dentistry,Consultation,Completed,1061.16,Mumbai
+50939,1012,2026-01-13,Dr. P. Mehta,Orthopedics,Consultation,Completed,1482.82,Kolhapur
+50940,1414,2026-02-13,Dr. P. Mehta,Dermatology,Follow-up,Completed,778.7,Navi Mumbai
+50941,1077,2026-03-04,Dr. K. Singh,General Medicine,Consultation,Completed,676.43,Pune
+50942,1051,2026-02-09,Dr. I. Gupta,Gynecology,Consultation,Completed,1008.38,Solapur
+50943,1282,2025-12-27,Dr. A. Kulkarni,Dermatology,Diagnostic,Completed,769.18,Mumbai
+50944,1060,2026-10-16,Dr. V. Rao,Gynecology,Emergency,Completed,1248.86,Nashik
+50945,1327,2026-05-01,Dr. R. Shah,Orthopedics,Follow-up,Completed,1133.77,Thane
+50946,1273,2025-02-28,Dr. M. Deshmukh,Pediatrics,Consultation,Completed,1048.52,Aurangabad
+50947,1325,2025-09-17,Dr. M. Deshmukh,Gynecology,Consultation,Cancelled,1091.36,Solapur
+50948,1246,2026-10-08,Dr. K. Singh,General Medicine,Emergency,Completed,635.22,Pune
+50949,1390,2025-09-25,Dr. S. Patil,ENT,Follow-up,Completed,702.79,Pune
+50950,1323,2025-05-16,Dr. T. More,Cardiology,Follow-up,Scheduled,1782.72,Kolhapur
+50951,1208,2026-07-29,Dr. M. Deshmukh,Orthopedics,Follow-up,Completed,1488.94,Satara
+50952,1008,2026-02-17,Dr. T. More,Cardiology,Consultation,Completed,2081.7,Nashik
+50953,1137,2026-01-08,Dr. I. Gupta,Orthopedics,Consultation,No-show,1457.06,Thane
+50954,1066,2025-10-06,Dr. P. Mehta,Cardiology,Diagnostic,Completed,1804.77,Nashik
+50955,1008,2025-03-24,Dr. R. Shah,Neurology,Diagnostic,Cancelled,1450.98,Navi Mumbai
+50956,1137,2025-09-12,Dr. K. Singh,General Medicine,Consultation,Cancelled,481.27,Mumbai
+50957,1104,2025-10-17,Dr. N. Joshi,General Medicine,Follow-up,Scheduled,729.6,Thane
+50958,1039,2026-09-09,Dr. M. Deshmukh,Dermatology,Consultation,Scheduled,899.25,Satara
+50959,1157,2025-07-23,Dr. N. Joshi,Cardiology,Emergency,Completed,1899.96,Mumbai
+50960,1254,2025-04-09,Dr. S. Patil,General Medicine,Consultation,Cancelled,618.96,Thane
+50961,1090,2025-10-11,Dr. S. Patil,Cardiology,Follow-up,Completed,1815.63,Mumbai
+50962,1137,2026-10-23,Dr. I. Gupta,Ophthalmology,Consultation,Completed,928.27,Satara
+50963,1011,2025-11-16,Dr. S. Patil,Cardiology,Follow-up,Completed,2007.43,Thane
+50964,1026,2025-09-08,Dr. N. Joshi,General Medicine,Follow-up,Completed,799.94,Pune
+50965,1079,2026-03-18,Dr. K. Singh,Ophthalmology,Consultation,Completed,666.67,Nashik
+50966,1227,2026-03-06,Dr. S. Patil,General Medicine,Diagnostic,Completed,656.47,Nashik
+50967,1334,2025-07-18,Dr. V. Rao,General Medicine,Diagnostic,Completed,472.77,Navi Mumbai
+50968,1395,2026-10-03,Dr. T. More,General Medicine,Diagnostic,Completed,740.85,Nashik
+50969,1315,2026-01-28,Dr. T. More,Orthopedics,Consultation,Scheduled,1343.74,Navi Mumbai
+50970,1309,2025-02-08,Dr. A. Kulkarni,General Medicine,Follow-up,Completed,604.22,Satara
+50971,1468,2025-09-27,Dr. N. Joshi,Ophthalmology,Follow-up,Cancelled,985.07,Navi Mumbai
+50972,1128,2026-09-03,Dr. A. Kulkarni,Dentistry,Follow-up,No-show,1023.0,Solapur
+50973,1400,2025-09-18,Dr. V. Rao,Neurology,Consultation,Cancelled,1418.67,Nashik
+50974,1469,2026-01-11,Dr. M. Deshmukh,Dermatology,Follow-up,Completed,930.15,Satara
+50975,1284,2026-02-10,Dr. T. More,Gynecology,Consultation,No-show,792.5,Aurangabad
+50976,1421,2026-04-12,Dr. R. Shah,General Medicine,Consultation,Cancelled,773.23,Pune
+50977,1069,2026-08-01,Dr. T. More,Pediatrics,Consultation,Cancelled,950.86,Thane
+50978,1440,2025-04-09,Dr. M. Deshmukh,Orthopedics,Consultation,Scheduled,1447.43,Kolhapur
+50979,1283,2025-12-09,Dr. I. Gupta,Orthopedics,Consultation,Completed,1529.64,Pune
+50980,1111,2025-12-20,Dr. R. Shah,Neurology,Consultation,Completed,1959.91,Solapur
+50981,1031,2025-04-11,Dr. S. Patil,Orthopedics,Diagnostic,Scheduled,1210.93,Nashik
+50982,1360,2026-03-22,Dr. M. Deshmukh,Cardiology,Follow-up,Completed,1478.13,Solapur
+50983,1216,2025-03-20,Dr. I. Gupta,Cardiology,Consultation,No-show,1753.23,Nashik
+50984,1156,2025-10-30,Dr. K. Singh,Dentistry,Diagnostic,Completed,1310.45,Satara
+50985,1196,2025-08-07,Dr. T. More,Cardiology,Diagnostic,Completed,2375.02,Nagpur
+50986,1496,2025-04-13,Dr. P. Mehta,Cardiology,Diagnostic,Completed,2179.3,Solapur
+50987,1214,2026-06-29,Dr. K. Singh,Neurology,Diagnostic,Completed,1396.25,Navi Mumbai
+50988,1040,2025-06-11,Dr. V. Rao,Pediatrics,Emergency,Scheduled,693.34,Aurangabad
+50989,1140,2025-06-18,Dr. V. Rao,Dentistry,Follow-up,Completed,1277.86,Solapur
+50990,1073,2026-07-20,Dr. T. More,Ophthalmology,Emergency,Cancelled,668.12,Aurangabad
+50991,1343,2026-08-04,Dr. I. Gupta,Dermatology,Emergency,Completed,990.43,Nashik
+50992,1401,2025-01-23,Dr. P. Mehta,Neurology,Consultation,Scheduled,1563.12,Navi Mumbai
+50993,1421,2025-07-03,Dr. N. Joshi,Dermatology,Diagnostic,Completed,838.09,Satara
+50994,1317,2026-04-15,Dr. V. Rao,Cardiology,Diagnostic,Completed,2081.57,Nagpur
+50995,1385,2026-05-31,Dr. K. Singh,Pediatrics,Diagnostic,Completed,1060.59,Mumbai
+50996,1209,2026-10-24,Dr. I. Gupta,Orthopedics,Diagnostic,Completed,1459.9,Aurangabad
+50997,1314,2026-01-03,Dr. V. Rao,Orthopedics,Consultation,Scheduled,1250.04,Nashik
+50998,1054,2025-01-05,Dr. I. Gupta,General Medicine,Consultation,Scheduled,608.66,Thane
+50999,1270,2026-08-02,Dr. K. Singh,Cardiology,Follow-up,Completed,2330.28,Pune
+51000,1279,2025-04-17,Dr. I. Gupta,Orthopedics,Follow-up,Completed,1316.24,Thane
+51001,1016,2025-03-21,Dr. K. Singh,Neurology,Diagnostic,Completed,1676.77,Thane
+51002,1275,2026-03-23,Dr. T. More,Neurology,Diagnostic,Completed,1855.52,Satara
+51003,1362,2026-02-04,Dr. R. Shah,Orthopedics,Follow-up,Completed,1070.75,Thane
+51004,1184,2025-02-09,Dr. I. Gupta,Cardiology,Emergency,Completed,1418.83,Navi Mumbai
+51005,1273,2025-04-23,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1515.68,Solapur
+51006,1144,2026-01-26,Dr. K. Singh,Pediatrics,Emergency,Scheduled,891.49,Kolhapur
+51007,1136,2025-06-19,Dr. M. Deshmukh,ENT,Consultation,Completed,594.25,Solapur
+51008,1065,2026-03-29,Dr. N. Joshi,Ophthalmology,Follow-up,Completed,743.06,Navi Mumbai
+51009,1164,2025-09-30,Dr. K. Singh,Dermatology,Consultation,Completed,1209.56,Mumbai
+51010,1402,2026-01-25,Dr. P. Mehta,Dermatology,Follow-up,Completed,1017.59,Nagpur
+51011,1468,2025-11-11,Dr. K. Singh,Gynecology,Consultation,Completed,1131.67,Aurangabad
+51012,1318,2025-08-30,Dr. A. Kulkarni,General Medicine,Consultation,Completed,475.98,Satara
+51013,1313,2025-08-15,Dr. T. More,Orthopedics,Follow-up,Completed,1597.67,Mumbai
+51014,1307,2026-04-07,Dr. N. Joshi,Orthopedics,Follow-up,Cancelled,1542.8,Kolhapur
+51015,1238,2025-12-07,Dr. K. Singh,Dermatology,Consultation,Scheduled,970.8,Nagpur
+51016,1212,2026-01-29,Dr. S. Patil,General Medicine,Follow-up,Scheduled,561.38,Aurangabad
+51017,1311,2026-01-18,Dr. P. Mehta,Orthopedics,Consultation,Completed,1402.6,Satara
+51018,1393,2025-05-18,Dr. P. Mehta,Pediatrics,Consultation,Completed,1000.02,Mumbai
+51019,1207,2026-08-28,Dr. R. Shah,Pediatrics,Consultation,Completed,977.34,Pune
+51020,1283,2026-01-08,Dr. N. Joshi,Pediatrics,Follow-up,Completed,1068.98,Nashik
+51021,1236,2026-04-21,Dr. V. Rao,Neurology,Diagnostic,Scheduled,1811.38,Mumbai
+51022,1143,2026-08-07,Dr. T. More,General Medicine,Follow-up,Scheduled,565.64,Solapur
+51023,1146,2026-09-05,Dr. T. More,Neurology,Diagnostic,Completed,1678.01,Nashik
+51024,1040,2026-03-18,Dr. M. Deshmukh,Orthopedics,Follow-up,Completed,1487.75,Thane
+51025,1220,2026-06-06,Dr. V. Rao,Orthopedics,Diagnostic,Completed,1091.05,Mumbai
+51026,1357,2025-11-09,Dr. R. Shah,ENT,Emergency,Completed,622.19,Kolhapur
+51027,1343,2026-05-04,Dr. T. More,Neurology,Consultation,Scheduled,1895.84,Navi Mumbai
+51028,1493,2025-08-01,Dr. T. More,Cardiology,Consultation,Completed,1829.98,Thane
+51029,1020,2026-04-17,Dr. I. Gupta,Pediatrics,Consultation,Completed,991.95,Nashik
+51030,1381,2025-02-26,Dr. N. Joshi,ENT,Follow-up,Completed,585.35,Aurangabad
+51031,1398,2026-08-29,Dr. M. Deshmukh,Gynecology,Follow-up,Completed,951.42,Satara
+51032,1219,2025-06-11,Dr. K. Singh,Ophthalmology,Consultation,Completed,728.69,Nashik
+51033,1142,2026-03-11,Dr. K. Singh,General Medicine,Diagnostic,No-show,701.23,Navi Mumbai
+51034,1179,2025-01-08,Dr. S. Patil,Dermatology,Emergency,Completed,1085.04,Navi Mumbai
+51035,1342,2025-04-14,Dr. P. Mehta,Dermatology,Consultation,Completed,921.24,Satara
+51036,1432,2026-10-16,Dr. V. Rao,Orthopedics,Consultation,Completed,1244.18,Pune
+51037,1322,2026-07-06,Dr. N. Joshi,General Medicine,Consultation,Completed,497.53,Kolhapur
+51038,1258,2025-05-28,Dr. M. Deshmukh,General Medicine,Consultation,Completed,702.66,Satara
+51039,1327,2025-03-28,Dr. S. Patil,Orthopedics,Diagnostic,Completed,1614.47,Navi Mumbai
+51040,1036,2026-06-24,Dr. N. Joshi,Ophthalmology,Follow-up,Completed,973.4,Aurangabad
+51041,1305,2026-10-18,Dr. S. Patil,Dermatology,Consultation,Completed,795.48,Nashik
+51042,1022,2025-04-22,Dr. M. Deshmukh,Cardiology,Consultation,No-show,2022.97,Satara
+51043,1480,2026-03-16,Dr. R. Shah,Pediatrics,Consultation,Cancelled,741.58,Mumbai
+51044,1445,2025-07-07,Dr. M. Deshmukh,Ophthalmology,Consultation,Scheduled,614.48,Kolhapur
+51045,1255,2026-05-08,Dr. V. Rao,Ophthalmology,Consultation,Completed,686.31,Satara
+51046,1188,2025-10-04,Dr. M. Deshmukh,Neurology,Follow-up,Cancelled,1298.49,Satara
+51047,1367,2025-03-24,Dr. R. Shah,Dentistry,Follow-up,Completed,867.56,Kolhapur
+51048,1319,2025-08-03,Dr. T. More,Ophthalmology,Diagnostic,Completed,981.89,Kolhapur
+51049,1353,2025-12-23,Dr. N. Joshi,ENT,Consultation,Completed,647.99,Aurangabad
+51050,1258,2026-06-13,Dr. P. Mehta,Ophthalmology,Diagnostic,Completed,963.38,Satara
+51051,1119,2025-01-14,Dr. P. Mehta,Dermatology,Consultation,Cancelled,1187.39,Pune
+51052,1037,2026-09-26,Dr. P. Mehta,Gynecology,Consultation,Completed,1094.56,Aurangabad
+51053,1142,2026-03-07,Dr. N. Joshi,General Medicine,Diagnostic,Completed,624.75,Thane
+51054,1265,2026-08-03,Dr. K. Singh,Gynecology,Follow-up,Scheduled,1200.08,Thane
+51055,1213,2026-09-08,Dr. T. More,Orthopedics,Consultation,Completed,969.9,Aurangabad
+51056,1254,2025-04-12,Dr. I. Gupta,Gynecology,Follow-up,Scheduled,1006.93,Mumbai
+51057,1139,2025-03-04,Dr. N. Joshi,Dentistry,Follow-up,No-show,1049.29,Navi Mumbai
+51058,1469,2026-05-30,Dr. M. Deshmukh,Pediatrics,Diagnostic,No-show,998.9,Navi Mumbai
+51059,1184,2025-05-05,Dr. A. Kulkarni,Dentistry,Follow-up,Cancelled,1238.53,Mumbai
+51060,1424,2025-04-08,Dr. N. Joshi,Dermatology,Consultation,Completed,1133.06,Nashik
+51061,1196,2025-11-07,Dr. I. Gupta,Orthopedics,Follow-up,Completed,1402.47,Nashik
+51062,1222,2026-08-28,Dr. S. Patil,Orthopedics,Consultation,Cancelled,1282.0,Navi Mumbai
+51063,1302,2026-06-11,Dr. T. More,ENT,Consultation,Cancelled,872.71,Navi Mumbai
+51064,1132,2025-12-09,Dr. K. Singh,General Medicine,Follow-up,Completed,764.38,Nashik
+51065,1110,2025-05-11,Dr. V. Rao,Pediatrics,Diagnostic,Completed,830.63,Thane
+51066,1190,2025-08-11,Dr. P. Mehta,General Medicine,Consultation,Completed,804.84,Nashik
+51067,1403,2026-04-01,Dr. K. Singh,Pediatrics,Diagnostic,Completed,1019.91,Pune
+51068,1073,2025-04-14,Dr. A. Kulkarni,Neurology,Follow-up,Completed,1690.05,Nashik
+51069,1219,2025-12-14,Dr. R. Shah,Ophthalmology,Follow-up,No-show,633.26,Pune
+51070,1337,2025-01-08,Dr. R. Shah,General Medicine,Consultation,Cancelled,530.82,Solapur
+51071,1354,2025-08-04,Dr. K. Singh,Gynecology,Consultation,Completed,1215.84,Aurangabad
+51072,1218,2025-06-14,Dr. N. Joshi,General Medicine,Consultation,Completed,490.02,Mumbai
+51073,1041,2026-03-27,Dr. S. Patil,Dentistry,Consultation,Completed,1031.88,Satara
+51074,1008,2026-08-29,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,890.33,Nashik
+51075,1235,2025-04-07,Dr. N. Joshi,Pediatrics,Consultation,Completed,1021.61,Satara
+51076,1406,2026-06-12,Dr. M. Deshmukh,Cardiology,Consultation,Completed,2264.88,Solapur
+51077,1015,2026-03-11,Dr. R. Shah,General Medicine,Consultation,Completed,725.14,Solapur
+51078,1444,2026-10-05,Dr. A. Kulkarni,General Medicine,Diagnostic,Completed,596.77,Solapur
+51079,1338,2026-08-27,Dr. K. Singh,Gynecology,Diagnostic,Completed,835.35,Nashik
+51080,1005,2025-03-08,Dr. K. Singh,Pediatrics,Consultation,Completed,921.43,Mumbai
+51081,1172,2026-05-08,Dr. S. Patil,Cardiology,Emergency,Completed,1545.79,Mumbai
+51082,1111,2026-01-28,Dr. N. Joshi,General Medicine,Consultation,Completed,652.07,Mumbai
+51083,1475,2025-03-16,Dr. S. Patil,Dentistry,Consultation,Completed,1338.41,Thane
+51084,1278,2025-06-20,Dr. N. Joshi,Pediatrics,Diagnostic,Completed,864.15,Thane
+51085,1163,2026-09-06,Dr. R. Shah,Orthopedics,Consultation,Completed,1364.8,Solapur
+51086,1140,2025-12-26,Dr. I. Gupta,Pediatrics,Consultation,Completed,925.24,Pune
+51087,1282,2025-08-13,Dr. K. Singh,Dermatology,Consultation,Scheduled,1123.41,Nashik
+51088,1003,2025-08-01,Dr. I. Gupta,Pediatrics,Follow-up,Completed,808.79,Aurangabad
+51089,1129,2026-07-09,Dr. S. Patil,Dermatology,Follow-up,Completed,943.66,Thane
+51090,1083,2025-07-07,Dr. T. More,General Medicine,Consultation,Completed,513.35,Kolhapur
+51091,1311,2025-04-16,Dr. P. Mehta,Dermatology,Consultation,No-show,1006.93,Mumbai
+51092,1335,2026-01-15,Dr. R. Shah,Dermatology,Consultation,Scheduled,834.71,Kolhapur
+51093,1234,2026-10-20,Dr. M. Deshmukh,Cardiology,Follow-up,Completed,1898.23,Mumbai
+51094,1071,2025-05-02,Dr. T. More,Ophthalmology,Consultation,Completed,967.95,Satara
+51095,1186,2025-06-19,Dr. K. Singh,Dermatology,Diagnostic,Completed,684.49,Navi Mumbai
+51096,1422,2025-11-07,Dr. K. Singh,Pediatrics,Follow-up,Completed,870.68,Mumbai
+51097,1102,2025-05-13,Dr. S. Patil,Cardiology,Consultation,Completed,1537.32,Mumbai
+51098,1082,2026-03-07,Dr. V. Rao,General Medicine,Follow-up,Completed,550.58,Aurangabad
+51099,1056,2025-06-17,Dr. I. Gupta,Ophthalmology,Consultation,Scheduled,616.66,Pune
+51100,1409,2025-03-26,Dr. A. Kulkarni,Cardiology,Consultation,No-show,1533.02,Navi Mumbai
+51101,1060,2025-06-22,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1610.37,Aurangabad
+51102,1291,2026-09-09,Dr. A. Kulkarni,Orthopedics,Consultation,Scheduled,1618.94,Kolhapur
+51103,1500,2026-09-11,Dr. R. Shah,General Medicine,Follow-up,Completed,709.15,Nagpur
+51104,1321,2025-12-01,Dr. I. Gupta,Dentistry,Emergency,Completed,1117.11,Nagpur
+51105,1207,2025-09-23,Dr. S. Patil,Dermatology,Consultation,No-show,1094.58,Nagpur
+51106,1104,2026-06-27,Dr. R. Shah,Dermatology,Consultation,Completed,1159.14,Solapur
+51107,1001,2025-05-09,Dr. A. Kulkarni,Gynecology,Follow-up,Completed,1061.58,Aurangabad
+51108,1078,2026-03-09,Dr. I. Gupta,Gynecology,Consultation,Completed,771.17,Nashik
+51109,1477,2026-03-27,Dr. N. Joshi,Pediatrics,Consultation,Completed,940.51,Mumbai
+51110,1072,2026-04-16,Dr. K. Singh,Orthopedics,Emergency,Completed,1608.91,Satara
+51111,1010,2025-05-25,Dr. S. Patil,Dermatology,Diagnostic,Completed,814.35,Thane
+51112,1409,2026-04-20,Dr. V. Rao,Gynecology,Emergency,Completed,1028.08,Aurangabad
+51113,1210,2026-02-10,Dr. T. More,Gynecology,Consultation,Completed,966.76,Nagpur
+51114,1179,2026-08-03,Dr. V. Rao,General Medicine,Consultation,Completed,590.57,Kolhapur
+51115,1359,2025-04-26,Dr. P. Mehta,ENT,Consultation,Cancelled,827.99,Mumbai
+51116,1262,2026-02-11,Dr. S. Patil,Pediatrics,Diagnostic,Completed,781.63,Kolhapur
+51117,1458,2026-07-04,Dr. S. Patil,Pediatrics,Consultation,Completed,1051.72,Thane
+51118,1234,2025-07-04,Dr. P. Mehta,Cardiology,Consultation,Cancelled,2202.83,Nagpur
+51119,1357,2026-05-08,Dr. N. Joshi,Ophthalmology,Consultation,Cancelled,613.27,Nagpur
+51120,1440,2025-03-07,Dr. A. Kulkarni,General Medicine,Diagnostic,Completed,744.68,Kolhapur
+51121,1232,2026-04-21,Dr. R. Shah,Pediatrics,Diagnostic,No-show,970.97,Solapur
+51122,1143,2026-02-06,Dr. N. Joshi,Cardiology,Follow-up,Cancelled,1907.81,Thane
+51123,1488,2025-05-08,Dr. R. Shah,Gynecology,Consultation,Completed,1048.09,Navi Mumbai
+51124,1114,2025-02-13,Dr. P. Mehta,Gynecology,Follow-up,Cancelled,1251.32,Pune
+51125,1020,2026-05-09,Dr. M. Deshmukh,General Medicine,Consultation,Cancelled,602.92,Solapur
+51126,1290,2025-06-09,Dr. S. Patil,Orthopedics,Consultation,Completed,1014.81,Pune
+51127,1494,2025-11-26,Dr. R. Shah,Ophthalmology,Consultation,Completed,750.19,Nagpur
+51128,1044,2025-02-10,Dr. P. Mehta,Gynecology,Follow-up,Cancelled,909.12,Kolhapur
+51129,1425,2026-09-30,Dr. R. Shah,General Medicine,Consultation,Scheduled,695.18,Nashik
+51130,1416,2025-12-30,Dr. V. Rao,General Medicine,Emergency,Completed,514.39,Navi Mumbai
+51131,1465,2026-09-09,Dr. I. Gupta,Ophthalmology,Consultation,No-show,909.49,Solapur
+51132,1211,2025-04-17,Dr. I. Gupta,Dentistry,Consultation,Cancelled,1029.58,Satara
+51133,1128,2025-05-17,Dr. V. Rao,General Medicine,Follow-up,No-show,752.28,Kolhapur
+51134,1257,2026-02-09,Dr. T. More,Dermatology,Follow-up,Scheduled,936.9,Aurangabad
+51135,1072,2026-02-05,Dr. I. Gupta,Dermatology,Consultation,Completed,1177.09,Aurangabad
+51136,1422,2026-06-08,Dr. V. Rao,ENT,Follow-up,Completed,903.2,Kolhapur
+51137,1332,2026-09-07,Dr. S. Patil,General Medicine,Consultation,Completed,516.7,Solapur
+51138,1242,2026-06-29,Dr. P. Mehta,Cardiology,Consultation,Completed,2091.06,Mumbai
+51139,1258,2025-04-03,Dr. T. More,Orthopedics,Follow-up,Completed,1054.53,Nashik
+51140,1357,2025-07-24,Dr. V. Rao,Ophthalmology,Follow-up,Cancelled,995.19,Pune
+51141,1262,2026-08-28,Dr. M. Deshmukh,Ophthalmology,Consultation,Scheduled,905.15,Mumbai
+51142,1420,2025-12-30,Dr. R. Shah,Dentistry,Consultation,Completed,926.47,Mumbai
+51143,1463,2026-07-28,Dr. R. Shah,Dermatology,Follow-up,Cancelled,809.53,Thane
+51144,1475,2026-01-08,Dr. M. Deshmukh,ENT,Consultation,Completed,705.42,Solapur
+51145,1311,2025-02-02,Dr. T. More,ENT,Diagnostic,Completed,861.3,Satara
+51146,1372,2025-11-10,Dr. P. Mehta,Pediatrics,Follow-up,Completed,982.16,Kolhapur
+51147,1156,2026-06-30,Dr. A. Kulkarni,Orthopedics,Diagnostic,Completed,924.03,Nashik
+51148,1020,2026-03-10,Dr. I. Gupta,Dentistry,Consultation,Completed,931.37,Mumbai
+51149,1201,2025-03-29,Dr. N. Joshi,Cardiology,Diagnostic,Cancelled,1806.68,Satara
+51150,1436,2025-05-20,Dr. M. Deshmukh,General Medicine,Consultation,Completed,660.81,Mumbai
+51151,1067,2026-07-20,Dr. T. More,General Medicine,Consultation,Completed,503.83,Aurangabad
+51152,1273,2026-10-11,Dr. M. Deshmukh,General Medicine,Consultation,Completed,570.7,Kolhapur
+51153,1097,2026-05-14,Dr. V. Rao,Pediatrics,Consultation,Completed,1025.09,Nagpur
+51154,1215,2025-03-06,Dr. I. Gupta,Gynecology,Diagnostic,Scheduled,1035.93,Pune
+51155,1072,2026-02-14,Dr. P. Mehta,Orthopedics,Follow-up,Scheduled,1435.78,Nashik
+51156,1368,2026-07-03,Dr. V. Rao,ENT,Follow-up,Completed,728.61,Pune
+51157,1406,2026-02-28,Dr. M. Deshmukh,Orthopedics,Follow-up,Completed,1234.79,Aurangabad
+51158,1380,2026-01-29,Dr. T. More,Gynecology,Follow-up,Completed,1123.16,Kolhapur
+51159,1353,2025-11-06,Dr. A. Kulkarni,ENT,Follow-up,Completed,633.93,Aurangabad
+51160,1118,2025-06-12,Dr. S. Patil,Orthopedics,Diagnostic,Completed,1079.86,Satara
+51161,1266,2025-07-05,Dr. I. Gupta,Pediatrics,Follow-up,Completed,1074.89,Navi Mumbai
+51162,1053,2026-05-09,Dr. N. Joshi,Gynecology,Follow-up,Completed,1271.4,Aurangabad
+51163,1188,2025-02-16,Dr. R. Shah,Cardiology,Consultation,Completed,2146.78,Mumbai
+51164,1253,2025-02-25,Dr. N. Joshi,Orthopedics,Emergency,Completed,998.74,Mumbai
+51165,1335,2025-09-20,Dr. S. Patil,Neurology,Consultation,Completed,1229.02,Solapur
+51166,1049,2026-05-28,Dr. P. Mehta,Dentistry,Consultation,Completed,855.25,Nashik
+51167,1407,2026-03-11,Dr. S. Patil,General Medicine,Diagnostic,Completed,787.58,Aurangabad
+51168,1230,2026-01-26,Dr. M. Deshmukh,Dermatology,Consultation,Completed,1115.8,Thane
+51169,1441,2025-12-20,Dr. I. Gupta,Dentistry,Consultation,Completed,1063.85,Aurangabad
+51170,1264,2025-03-15,Dr. A. Kulkarni,Neurology,Consultation,Completed,2130.03,Nashik
+51171,1274,2025-08-08,Dr. K. Singh,Dermatology,Consultation,Cancelled,754.15,Nagpur
+51172,1347,2025-02-22,Dr. A. Kulkarni,Dermatology,Diagnostic,Scheduled,976.94,Satara
+51173,1410,2026-05-17,Dr. N. Joshi,Pediatrics,Diagnostic,Completed,687.95,Pune
+51174,1079,2026-05-13,Dr. V. Rao,Pediatrics,Consultation,Scheduled,747.09,Nagpur
+51175,1256,2025-06-20,Dr. I. Gupta,General Medicine,Emergency,Cancelled,788.45,Satara
+51176,1015,2025-07-13,Dr. S. Patil,Cardiology,Follow-up,Completed,2287.74,Nashik
+51177,1238,2025-07-30,Dr. A. Kulkarni,General Medicine,Diagnostic,Completed,486.65,Nashik
+51178,1407,2026-08-12,Dr. K. Singh,Orthopedics,Consultation,Completed,1079.67,Navi Mumbai
+51179,1433,2025-11-20,Dr. T. More,Dermatology,Follow-up,Completed,996.03,Nashik
+51180,1142,2026-05-20,Dr. P. Mehta,Orthopedics,Consultation,Scheduled,944.17,Navi Mumbai
+51181,1194,2025-10-25,Dr. A. Kulkarni,General Medicine,Consultation,Completed,648.03,Navi Mumbai
+51182,1276,2026-04-08,Dr. P. Mehta,Gynecology,Follow-up,Completed,1100.69,Thane
+51183,1198,2025-12-16,Dr. M. Deshmukh,Dermatology,Consultation,Completed,832.12,Mumbai
+51184,1090,2025-07-04,Dr. N. Joshi,Orthopedics,Follow-up,Completed,1111.05,Nashik
+51185,1153,2026-08-04,Dr. A. Kulkarni,Pediatrics,Follow-up,Completed,709.96,Navi Mumbai
+51186,1203,2026-04-15,Dr. M. Deshmukh,ENT,Consultation,Completed,917.98,Pune
+51187,1260,2026-05-25,Dr. I. Gupta,Pediatrics,Consultation,Completed,786.66,Satara
+51188,1461,2026-09-20,Dr. A. Kulkarni,Gynecology,Follow-up,Cancelled,1101.16,Satara
+51189,1273,2025-06-14,Dr. I. Gupta,Pediatrics,Diagnostic,Completed,744.76,Solapur
+51190,1194,2025-03-02,Dr. P. Mehta,Orthopedics,Consultation,Completed,1405.92,Solapur
+51191,1331,2026-01-21,Dr. P. Mehta,Gynecology,Emergency,No-show,810.86,Nashik
+51192,1387,2025-08-04,Dr. I. Gupta,Neurology,Diagnostic,Completed,1268.78,Satara
+51193,1216,2025-10-16,Dr. S. Patil,Cardiology,Follow-up,Completed,2153.83,Thane
+51194,1245,2025-06-05,Dr. I. Gupta,Dentistry,Consultation,Cancelled,1186.0,Navi Mumbai
+51195,1109,2025-09-21,Dr. S. Patil,Orthopedics,Follow-up,Completed,1090.8,Satara
+51196,1433,2025-09-18,Dr. M. Deshmukh,Dermatology,Diagnostic,Completed,866.73,Mumbai
+51197,1434,2025-08-21,Dr. N. Joshi,Dermatology,Consultation,Completed,1191.92,Navi Mumbai
+51198,1088,2026-05-07,Dr. V. Rao,Neurology,Emergency,Completed,1300.16,Satara
+51199,1174,2026-01-28,Dr. M. Deshmukh,ENT,Diagnostic,Completed,601.92,Mumbai
+51200,1136,2025-11-10,Dr. K. Singh,Cardiology,Follow-up,Completed,1814.44,Mumbai
+51201,1462,2025-03-16,Dr. A. Kulkarni,Dentistry,Follow-up,Completed,919.26,Nashik
+51202,1033,2026-01-13,Dr. V. Rao,General Medicine,Follow-up,Completed,683.64,Aurangabad
+51203,1104,2025-04-26,Dr. V. Rao,Dentistry,Diagnostic,Completed,1164.36,Navi Mumbai
+51204,1158,2025-07-27,Dr. P. Mehta,ENT,Diagnostic,Completed,746.08,Kolhapur
+51205,1281,2025-10-02,Dr. V. Rao,Dentistry,Consultation,Completed,1116.72,Pune
+51206,1125,2025-04-04,Dr. K. Singh,General Medicine,Consultation,Scheduled,606.03,Solapur
+51207,1269,2025-09-15,Dr. I. Gupta,Dermatology,Consultation,Completed,1085.61,Thane
+51208,1374,2025-06-26,Dr. S. Patil,Neurology,Diagnostic,Completed,1240.41,Satara
+51209,1415,2026-07-17,Dr. N. Joshi,General Medicine,Consultation,Completed,562.64,Pune
+51210,1050,2026-07-24,Dr. P. Mehta,Dermatology,Diagnostic,Completed,1044.59,Navi Mumbai
+51211,1070,2025-01-04,Dr. M. Deshmukh,Gynecology,Consultation,Completed,947.79,Pune
+51212,1048,2026-02-03,Dr. I. Gupta,Cardiology,Consultation,Cancelled,1434.82,Thane
+51213,1455,2026-03-01,Dr. P. Mehta,ENT,Diagnostic,Completed,669.91,Satara
+51214,1327,2025-09-08,Dr. P. Mehta,Orthopedics,Follow-up,Completed,1412.28,Satara
+51215,1266,2025-11-07,Dr. R. Shah,Dentistry,Consultation,Completed,823.19,Satara
+51216,1396,2026-06-07,Dr. N. Joshi,Orthopedics,Consultation,No-show,1421.73,Nagpur
+51217,1294,2025-09-08,Dr. V. Rao,Orthopedics,Consultation,Completed,1458.33,Satara
+51218,1118,2025-02-12,Dr. N. Joshi,ENT,Consultation,Completed,791.83,Nagpur
+51219,1256,2025-09-04,Dr. K. Singh,ENT,Consultation,Cancelled,627.58,Kolhapur
+51220,1352,2025-06-18,Dr. R. Shah,Gynecology,Follow-up,No-show,1233.18,Thane
+51221,1019,2025-09-11,Dr. R. Shah,Dentistry,Consultation,Completed,878.67,Aurangabad
+51222,1304,2025-06-02,Dr. M. Deshmukh,Pediatrics,Consultation,Scheduled,1034.79,Mumbai
+51223,1249,2025-04-10,Dr. M. Deshmukh,ENT,Consultation,No-show,821.79,Navi Mumbai
+51224,1035,2026-10-15,Dr. T. More,Dermatology,Consultation,Completed,704.55,Pune
+51225,1132,2025-03-27,Dr. T. More,General Medicine,Emergency,Cancelled,737.74,Nashik
+51226,1225,2026-04-13,Dr. N. Joshi,Neurology,Consultation,Completed,1686.18,Nagpur
+51227,1172,2026-04-21,Dr. P. Mehta,Cardiology,Consultation,Completed,1838.86,Nagpur
+51228,1146,2026-02-13,Dr. S. Patil,General Medicine,Follow-up,Completed,601.38,Nagpur
+51229,1325,2026-08-27,Dr. P. Mehta,Gynecology,Diagnostic,No-show,1113.98,Nagpur
+51230,1203,2025-01-04,Dr. K. Singh,Orthopedics,Diagnostic,Completed,1421.7,Kolhapur
+51231,1249,2025-07-19,Dr. K. Singh,Dentistry,Diagnostic,Completed,1287.59,Aurangabad
+51232,1400,2025-05-03,Dr. I. Gupta,General Medicine,Diagnostic,Completed,548.26,Solapur
+51233,1047,2026-01-17,Dr. P. Mehta,Orthopedics,Follow-up,Completed,1354.16,Nagpur
+51234,1180,2026-02-25,Dr. M. Deshmukh,General Medicine,Emergency,Scheduled,697.08,Nashik
+51235,1037,2026-08-18,Dr. A. Kulkarni,Orthopedics,Consultation,Cancelled,1385.85,Thane
+51236,1464,2025-09-09,Dr. V. Rao,Cardiology,Diagnostic,Completed,1882.44,Pune
+51237,1093,2025-06-06,Dr. T. More,General Medicine,Diagnostic,Scheduled,590.77,Kolhapur
+51238,1410,2026-09-04,Dr. P. Mehta,Orthopedics,Diagnostic,No-show,1448.91,Nashik
+51239,1096,2026-03-22,Dr. I. Gupta,Orthopedics,Consultation,Completed,1116.01,Thane
+51240,1163,2026-05-22,Dr. M. Deshmukh,Gynecology,Diagnostic,Completed,874.83,Pune
+51241,1305,2025-10-22,Dr. A. Kulkarni,Cardiology,Consultation,Completed,1939.5,Solapur
+51242,1416,2025-10-24,Dr. V. Rao,ENT,Follow-up,Completed,637.4,Nashik
+51243,1089,2025-09-15,Dr. R. Shah,ENT,Consultation,Completed,538.96,Satara
+51244,1107,2026-05-12,Dr. A. Kulkarni,Orthopedics,Follow-up,Completed,937.13,Satara
+51245,1441,2025-05-20,Dr. K. Singh,General Medicine,Follow-up,Scheduled,700.2,Kolhapur
+51246,1161,2026-10-08,Dr. N. Joshi,Cardiology,Consultation,Completed,2401.0,Kolhapur
+51247,1105,2025-04-27,Dr. V. Rao,General Medicine,Consultation,No-show,613.69,Nashik
+51248,1372,2025-11-02,Dr. K. Singh,Cardiology,Consultation,Scheduled,1508.83,Aurangabad
+51249,1046,2025-07-28,Dr. M. Deshmukh,Dentistry,Follow-up,Completed,1240.85,Satara
+51250,1434,2026-03-02,Dr. V. Rao,Orthopedics,Follow-up,Completed,1088.23,Nashik
+51251,1438,2026-03-27,Dr. P. Mehta,General Medicine,Follow-up,Cancelled,808.43,Nashik
+51252,1429,2026-09-01,Dr. P. Mehta,Orthopedics,Consultation,Cancelled,1305.55,Kolhapur
+51253,1148,2026-06-07,Dr. K. Singh,Orthopedics,Diagnostic,Completed,1067.5,Solapur
+51254,1058,2025-06-14,Dr. M. Deshmukh,Neurology,Follow-up,Completed,1676.16,Navi Mumbai
+51255,1213,2025-05-17,Dr. P. Mehta,General Medicine,Consultation,Completed,570.74,Nagpur
+51256,1168,2026-08-10,Dr. P. Mehta,Dentistry,Consultation,Cancelled,1217.68,Nagpur
+51257,1480,2025-11-19,Dr. R. Shah,Cardiology,Consultation,Cancelled,1464.28,Mumbai
+51258,1316,2025-03-06,Dr. S. Patil,Cardiology,Consultation,Completed,2275.56,Satara
+51259,1473,2026-07-01,Dr. A. Kulkarni,Dermatology,Consultation,Completed,1089.36,Nashik
+51260,1376,2026-03-06,Dr. R. Shah,Dermatology,Consultation,Completed,1140.14,Solapur
+51261,1358,2025-01-17,Dr. N. Joshi,Ophthalmology,Consultation,Scheduled,1029.6,Satara
+51262,1056,2026-06-03,Dr. I. Gupta,Ophthalmology,Consultation,Scheduled,710.29,Nashik
+51263,1035,2026-02-07,Dr. I. Gupta,Ophthalmology,Consultation,Cancelled,850.08,Navi Mumbai
+51264,1024,2026-02-11,Dr. K. Singh,Orthopedics,Diagnostic,Completed,1511.94,Solapur
+51265,1297,2026-07-27,Dr. P. Mehta,Dermatology,Follow-up,Completed,878.79,Nagpur
+51266,1101,2025-11-25,Dr. S. Patil,Gynecology,Consultation,Completed,786.24,Mumbai
+51267,1495,2025-11-02,Dr. M. Deshmukh,Pediatrics,Follow-up,Completed,739.98,Nashik
+51268,1067,2026-02-13,Dr. K. Singh,General Medicine,Follow-up,Completed,537.09,Nagpur
+51269,1474,2025-05-11,Dr. I. Gupta,Pediatrics,Consultation,No-show,1017.63,Kolhapur
+51270,1334,2025-04-11,Dr. I. Gupta,Pediatrics,Consultation,Completed,822.65,Solapur
+51271,1054,2026-07-13,Dr. M. Deshmukh,Ophthalmology,Consultation,Completed,928.1,Navi Mumbai
+51272,1030,2025-05-23,Dr. N. Joshi,Pediatrics,Follow-up,Scheduled,1061.82,Aurangabad
+51273,1198,2025-11-30,Dr. P. Mehta,Dentistry,Consultation,Completed,929.51,Solapur
+51274,1170,2025-06-28,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,965.38,Mumbai
+51275,1158,2025-06-02,Dr. R. Shah,Cardiology,Follow-up,Scheduled,1374.59,Mumbai
+51276,1265,2026-01-31,Dr. A. Kulkarni,Pediatrics,Emergency,Completed,649.98,Navi Mumbai
+51277,1065,2026-06-16,Dr. K. Singh,Orthopedics,Consultation,Completed,1016.54,Thane
+51278,1065,2025-10-20,Dr. S. Patil,Neurology,Follow-up,Completed,1499.92,Nashik
+51279,1348,2025-04-02,Dr. K. Singh,Orthopedics,Follow-up,No-show,1190.15,Aurangabad
+51280,1496,2025-06-11,Dr. M. Deshmukh,General Medicine,Follow-up,Completed,621.73,Mumbai
+51281,1137,2025-04-19,Dr. K. Singh,Ophthalmology,Follow-up,Completed,717.76,Aurangabad
+51282,1466,2026-08-08,Dr. R. Shah,Dermatology,Follow-up,Completed,710.76,Solapur
+51283,1173,2025-07-31,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1387.82,Kolhapur
+51284,1168,2025-09-05,Dr. S. Patil,Dermatology,Consultation,Cancelled,687.78,Thane
+51285,1046,2025-02-17,Dr. N. Joshi,ENT,Diagnostic,Completed,864.98,Aurangabad
+51286,1212,2025-10-23,Dr. P. Mehta,General Medicine,Consultation,Completed,784.5,Solapur
+51287,1249,2026-08-29,Dr. R. Shah,Orthopedics,Emergency,Completed,1411.47,Satara
+51288,1332,2025-09-29,Dr. V. Rao,General Medicine,Consultation,Completed,664.55,Nashik
+51289,1080,2026-03-08,Dr. I. Gupta,Neurology,Follow-up,Completed,1830.74,Nashik
+51290,1095,2025-05-01,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,913.07,Nagpur
+51291,1217,2025-04-05,Dr. A. Kulkarni,Orthopedics,Consultation,Completed,1570.83,Pune
+51292,1035,2026-04-30,Dr. I. Gupta,Dentistry,Diagnostic,Completed,1328.58,Thane
+51293,1072,2025-02-13,Dr. V. Rao,Orthopedics,Consultation,No-show,1207.23,Nagpur
+51294,1315,2025-10-24,Dr. I. Gupta,Orthopedics,Follow-up,Scheduled,1344.3,Aurangabad
+51295,1477,2025-07-29,Dr. K. Singh,Orthopedics,Follow-up,Completed,1478.02,Pune
+51296,1287,2025-01-11,Dr. K. Singh,General Medicine,Diagnostic,Completed,450.37,Nagpur
+51297,1073,2025-12-18,Dr. R. Shah,Neurology,Follow-up,Completed,1705.94,Nagpur
+51298,1496,2026-10-01,Dr. P. Mehta,Pediatrics,Emergency,Completed,913.38,Pune
+51299,1261,2025-02-15,Dr. M. Deshmukh,Dermatology,Diagnostic,Completed,1062.29,Solapur
+51300,1359,2026-06-25,Dr. T. More,General Medicine,Consultation,Scheduled,582.76,Satara
+51301,1099,2025-12-23,Dr. A. Kulkarni,Pediatrics,Diagnostic,Cancelled,741.91,Solapur
+51302,1290,2026-04-24,Dr. A. Kulkarni,Ophthalmology,Emergency,Completed,687.43,Solapur
+51303,1039,2025-03-05,Dr. P. Mehta,Pediatrics,Consultation,Scheduled,867.75,Pune
+51304,1313,2026-07-30,Dr. I. Gupta,Orthopedics,Follow-up,Completed,1561.9,Solapur
+51305,1102,2025-01-08,Dr. I. Gupta,Dentistry,Consultation,Completed,1287.59,Pune
+51306,1455,2026-08-24,Dr. P. Mehta,ENT,Follow-up,Completed,676.19,Solapur
+51307,1028,2026-03-12,Dr. N. Joshi,Dermatology,Consultation,Completed,814.24,Thane
+51308,1327,2025-08-12,Dr. S. Patil,ENT,Follow-up,Scheduled,856.29,Solapur
+51309,1070,2025-01-05,Dr. I. Gupta,General Medicine,Consultation,Completed,710.99,Kolhapur
+51310,1344,2026-02-09,Dr. R. Shah,Dermatology,Follow-up,Completed,947.88,Mumbai
+51311,1247,2025-02-27,Dr. R. Shah,ENT,Consultation,Completed,688.39,Mumbai
+51312,1484,2026-02-08,Dr. P. Mehta,Gynecology,Follow-up,Scheduled,824.28,Mumbai
+51313,1326,2026-05-27,Dr. M. Deshmukh,Pediatrics,Follow-up,Completed,976.87,Solapur
+51314,1186,2025-06-26,Dr. N. Joshi,General Medicine,Follow-up,Completed,672.29,Satara
+51315,1044,2025-06-08,Dr. I. Gupta,Dermatology,Consultation,Completed,878.52,Nashik
+51316,1298,2025-05-27,Dr. S. Patil,Cardiology,Consultation,Scheduled,2342.29,Mumbai
+51317,1221,2025-05-29,Dr. T. More,Dentistry,Consultation,Completed,1145.8,Pune
+51318,1027,2025-03-17,Dr. S. Patil,General Medicine,Emergency,Completed,784.53,Nashik
+51319,1291,2025-06-15,Dr. M. Deshmukh,General Medicine,Consultation,No-show,620.79,Aurangabad
+51320,1105,2026-03-13,Dr. A. Kulkarni,General Medicine,Follow-up,Completed,613.66,Solapur
+51321,1118,2025-07-20,Dr. V. Rao,General Medicine,Consultation,Completed,787.41,Thane
+51322,1005,2026-06-01,Dr. T. More,Pediatrics,Follow-up,Completed,1060.7,Navi Mumbai
+51323,1187,2026-06-27,Dr. T. More,Dentistry,Consultation,Completed,1326.46,Nagpur
+51324,1110,2026-05-19,Dr. R. Shah,General Medicine,Consultation,Completed,744.8,Nagpur
+51325,1036,2025-12-24,Dr. K. Singh,General Medicine,Consultation,Completed,616.47,Thane
+51326,1218,2025-07-29,Dr. R. Shah,Neurology,Consultation,Completed,1401.89,Mumbai
+51327,1111,2026-09-08,Dr. V. Rao,Pediatrics,Consultation,Completed,784.05,Navi Mumbai
+51328,1068,2025-05-16,Dr. K. Singh,Cardiology,Consultation,Completed,2363.36,Aurangabad
+51329,1234,2025-11-04,Dr. R. Shah,Dermatology,Follow-up,Scheduled,871.32,Pune
+51330,1032,2025-10-28,Dr. R. Shah,Orthopedics,Emergency,Completed,1444.84,Mumbai
+51331,1496,2026-05-09,Dr. A. Kulkarni,General Medicine,Consultation,Completed,782.28,Thane
+51332,1236,2025-12-28,Dr. K. Singh,Ophthalmology,Diagnostic,Completed,1065.79,Aurangabad
+51333,1499,2026-06-14,Dr. V. Rao,Pediatrics,Consultation,Cancelled,1054.88,Nashik
+51334,1441,2026-09-01,Dr. R. Shah,Pediatrics,Consultation,Completed,866.43,Aurangabad
+51335,1490,2025-09-16,Dr. P. Mehta,General Medicine,Consultation,Completed,627.08,Kolhapur
+51336,1272,2026-08-03,Dr. K. Singh,Orthopedics,Consultation,Completed,1611.1,Thane
+51337,1212,2025-04-23,Dr. S. Patil,Dentistry,Consultation,Completed,880.91,Kolhapur
+51338,1360,2026-08-30,Dr. V. Rao,Dermatology,Diagnostic,Cancelled,776.27,Kolhapur
+51339,1041,2025-04-28,Dr. S. Patil,Orthopedics,Follow-up,Scheduled,1593.49,Nagpur
+51340,1421,2026-07-17,Dr. S. Patil,Orthopedics,Follow-up,No-show,1396.22,Mumbai
+51341,1162,2025-09-16,Dr. M. Deshmukh,Dentistry,Follow-up,Completed,1071.78,Mumbai
+51342,1004,2026-10-01,Dr. M. Deshmukh,Pediatrics,Consultation,Completed,663.38,Mumbai
+51343,1119,2025-03-27,Dr. N. Joshi,General Medicine,Follow-up,Completed,634.77,Solapur
+51344,1122,2025-11-05,Dr. S. Patil,Orthopedics,Consultation,Cancelled,1579.84,Kolhapur
+51345,1008,2026-08-21,Dr. M. Deshmukh,Orthopedics,Consultation,Scheduled,1334.08,Nagpur
+51346,1335,2025-02-01,Dr. V. Rao,Ophthalmology,Consultation,Scheduled,794.22,Solapur
+51347,1048,2025-06-25,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1296.79,Solapur
+51348,1424,2025-02-25,Dr. V. Rao,Cardiology,Follow-up,No-show,2307.04,Nashik
+51349,1227,2025-08-01,Dr. R. Shah,Neurology,Consultation,Completed,2076.33,Nagpur
+51350,1360,2025-09-16,Dr. R. Shah,Ophthalmology,Consultation,No-show,792.04,Kolhapur
+51351,1170,2026-02-14,Dr. T. More,Pediatrics,Diagnostic,Completed,891.87,Solapur
+51352,1066,2025-06-20,Dr. N. Joshi,Orthopedics,Emergency,Completed,1101.03,Thane
+51353,1091,2025-04-16,Dr. V. Rao,Dentistry,Follow-up,Completed,1020.65,Satara
+51354,1323,2025-04-23,Dr. K. Singh,General Medicine,Follow-up,Scheduled,529.16,Nashik
+51355,1359,2026-09-14,Dr. R. Shah,Ophthalmology,Diagnostic,Completed,855.11,Nagpur
+51356,1134,2026-09-24,Dr. I. Gupta,Gynecology,Consultation,Completed,1096.94,Pune
+51357,1179,2025-05-27,Dr. N. Joshi,Gynecology,Consultation,Completed,952.7,Aurangabad
+51358,1473,2025-05-10,Dr. T. More,Dermatology,Consultation,Completed,821.94,Navi Mumbai
+51359,1426,2025-02-05,Dr. N. Joshi,Pediatrics,Consultation,Scheduled,672.49,Aurangabad
+51360,1207,2026-09-28,Dr. N. Joshi,Gynecology,Emergency,Completed,833.73,Nagpur
+51361,1121,2026-04-13,Dr. V. Rao,Gynecology,Follow-up,Completed,1176.88,Kolhapur
+51362,1151,2026-05-19,Dr. R. Shah,Dentistry,Emergency,Cancelled,882.98,Navi Mumbai
+51363,1270,2025-07-12,Dr. V. Rao,General Medicine,Follow-up,Completed,492.47,Kolhapur
+51364,1284,2026-03-01,Dr. I. Gupta,Pediatrics,Follow-up,Completed,1079.46,Solapur
+51365,1093,2025-02-09,Dr. V. Rao,Neurology,Follow-up,Completed,1449.52,Satara
+51366,1033,2026-03-24,Dr. A. Kulkarni,General Medicine,Follow-up,Completed,772.58,Kolhapur
+51367,1248,2026-01-19,Dr. V. Rao,Dermatology,Consultation,Completed,1003.96,Satara
+51368,1399,2025-08-08,Dr. A. Kulkarni,ENT,Consultation,Completed,825.33,Nashik
+51369,1077,2026-04-16,Dr. R. Shah,General Medicine,Follow-up,Completed,651.93,Kolhapur
+51370,1205,2025-10-18,Dr. S. Patil,Cardiology,Consultation,Cancelled,1545.28,Nagpur
+51371,1081,2025-05-04,Dr. M. Deshmukh,General Medicine,Follow-up,No-show,754.94,Aurangabad
+51372,1122,2025-01-16,Dr. A. Kulkarni,General Medicine,Consultation,Scheduled,748.07,Thane
+51373,1307,2026-09-13,Dr. A. Kulkarni,Ophthalmology,Follow-up,Completed,767.85,Nagpur
+51374,1144,2025-07-06,Dr. K. Singh,Dermatology,Consultation,Completed,1087.48,Solapur
+51375,1132,2025-07-19,Dr. N. Joshi,General Medicine,Consultation,Scheduled,645.49,Kolhapur
+51376,1498,2026-03-27,Dr. R. Shah,Neurology,Follow-up,Cancelled,2072.69,Navi Mumbai
+51377,1087,2025-06-18,Dr. N. Joshi,General Medicine,Consultation,Completed,739.02,Thane
+51378,1095,2025-09-06,Dr. V. Rao,Cardiology,Emergency,Completed,1394.28,Solapur
+51379,1465,2026-04-16,Dr. K. Singh,Ophthalmology,Consultation,Completed,1022.05,Navi Mumbai
+51380,1276,2026-01-30,Dr. S. Patil,Ophthalmology,Consultation,Completed,1064.91,Nagpur
+51381,1022,2026-03-11,Dr. R. Shah,General Medicine,Consultation,Completed,717.18,Nashik
+51382,1213,2025-01-04,Dr. I. Gupta,General Medicine,Diagnostic,Completed,493.17,Solapur
+51383,1283,2025-10-26,Dr. V. Rao,Cardiology,Follow-up,Scheduled,2221.97,Nashik
+51384,1127,2025-11-11,Dr. I. Gupta,General Medicine,Consultation,Completed,683.1,Aurangabad
+51385,1275,2026-02-23,Dr. M. Deshmukh,Dermatology,Consultation,Completed,857.97,Mumbai
+51386,1325,2025-04-11,Dr. R. Shah,Gynecology,Follow-up,Completed,1280.42,Solapur
+51387,1126,2025-04-16,Dr. M. Deshmukh,Cardiology,Emergency,Cancelled,1960.81,Thane
+51388,1407,2026-05-20,Dr. M. Deshmukh,Gynecology,Consultation,Cancelled,1261.76,Satara
+51389,1227,2026-03-22,Dr. K. Singh,Pediatrics,Consultation,Completed,921.65,Kolhapur
+51390,1482,2026-06-22,Dr. K. Singh,General Medicine,Consultation,Completed,553.87,Thane
+51391,1044,2025-06-29,Dr. A. Kulkarni,General Medicine,Consultation,Completed,801.01,Nagpur
+51392,1163,2026-10-23,Dr. P. Mehta,Pediatrics,Follow-up,No-show,874.08,Nagpur
+51393,1361,2025-06-30,Dr. M. Deshmukh,Neurology,Emergency,Completed,1696.09,Nashik
+51394,1448,2026-03-07,Dr. V. Rao,ENT,Emergency,No-show,694.47,Mumbai
+51395,1111,2025-04-18,Dr. M. Deshmukh,General Medicine,Diagnostic,Completed,499.08,Solapur
+51396,1491,2026-09-01,Dr. P. Mehta,Cardiology,Consultation,Completed,2091.11,Aurangabad
+51397,1097,2025-08-09,Dr. K. Singh,Neurology,Emergency,Completed,1613.57,Kolhapur
+51398,1209,2026-06-16,Dr. S. Patil,Pediatrics,Consultation,Completed,1048.61,Solapur
+51399,1158,2025-08-08,Dr. R. Shah,General Medicine,Consultation,Completed,797.43,Thane
+51400,1213,2026-06-08,Dr. K. Singh,General Medicine,Follow-up,Completed,726.35,Satara
+51401,1452,2025-10-28,Dr. I. Gupta,Cardiology,Consultation,Cancelled,1611.89,Mumbai
+51402,1367,2025-02-11,Dr. N. Joshi,General Medicine,Diagnostic,Completed,707.75,Satara
+51403,1399,2025-05-07,Dr. I. Gupta,Gynecology,Emergency,Scheduled,762.25,Mumbai
+51404,1127,2026-03-29,Dr. R. Shah,Gynecology,Diagnostic,Completed,1245.84,Thane
+51405,1474,2025-05-08,Dr. T. More,Cardiology,Diagnostic,Completed,1883.11,Pune
+51406,1218,2025-07-02,Dr. I. Gupta,Pediatrics,Consultation,Scheduled,1049.64,Satara
+51407,1326,2025-12-25,Dr. S. Patil,Dermatology,Consultation,No-show,878.99,Nagpur
+51408,1349,2025-06-17,Dr. R. Shah,Orthopedics,Diagnostic,Completed,1089.48,Mumbai
+51409,1332,2025-03-27,Dr. V. Rao,Dermatology,Follow-up,Cancelled,1212.33,Kolhapur
+51410,1301,2026-02-18,Dr. T. More,Cardiology,Diagnostic,Completed,1923.13,Nashik
+51411,1241,2026-04-02,Dr. A. Kulkarni,Orthopedics,Consultation,Completed,1521.49,Nashik
+51412,1324,2026-05-01,Dr. V. Rao,General Medicine,Consultation,Completed,777.98,Solapur
+51413,1453,2026-09-17,Dr. T. More,Pediatrics,Consultation,Completed,848.86,Nagpur
+51414,1195,2025-03-24,Dr. A. Kulkarni,Gynecology,Follow-up,Completed,1023.43,Kolhapur
+51415,1256,2025-10-10,Dr. P. Mehta,Cardiology,Diagnostic,Completed,1947.12,Pune
+51416,1091,2025-06-04,Dr. A. Kulkarni,General Medicine,Emergency,Scheduled,755.19,Nagpur
+51417,1178,2026-08-20,Dr. R. Shah,Dermatology,Consultation,Scheduled,1195.92,Nagpur
+51418,1387,2025-12-24,Dr. N. Joshi,ENT,Follow-up,No-show,662.9,Aurangabad
+51419,1321,2025-03-07,Dr. M. Deshmukh,ENT,Consultation,Cancelled,835.22,Mumbai
+51420,1106,2026-04-04,Dr. A. Kulkarni,Dermatology,Consultation,Completed,829.1,Navi Mumbai
+51421,1274,2025-01-29,Dr. T. More,General Medicine,Consultation,Completed,669.94,Mumbai
+51422,1406,2025-07-01,Dr. S. Patil,Pediatrics,Follow-up,Completed,986.3,Thane
+51423,1063,2026-04-23,Dr. T. More,General Medicine,Consultation,Completed,769.14,Pune
+51424,1031,2025-12-01,Dr. R. Shah,Cardiology,Consultation,Completed,1834.61,Solapur
+51425,1197,2026-05-19,Dr. P. Mehta,Dermatology,Follow-up,Completed,874.67,Thane
+51426,1329,2026-01-14,Dr. K. Singh,Orthopedics,Diagnostic,Completed,1082.49,Solapur
+51427,1157,2026-07-13,Dr. N. Joshi,Ophthalmology,Consultation,Completed,664.04,Navi Mumbai
+51428,1411,2026-01-08,Dr. N. Joshi,Neurology,Consultation,Completed,1550.32,Solapur
+51429,1424,2025-02-07,Dr. K. Singh,General Medicine,Follow-up,Completed,763.91,Thane
+51430,1267,2025-02-17,Dr. A. Kulkarni,Dermatology,Diagnostic,Completed,901.16,Solapur
+51431,1190,2026-05-30,Dr. T. More,Pediatrics,Diagnostic,Scheduled,752.3,Pune
+51432,1021,2025-01-26,Dr. V. Rao,Orthopedics,Consultation,Completed,1432.18,Thane
+51433,1411,2025-09-07,Dr. K. Singh,Ophthalmology,Follow-up,Cancelled,703.48,Navi Mumbai
+51434,1448,2025-01-11,Dr. N. Joshi,ENT,Diagnostic,No-show,632.64,Nagpur
+51435,1222,2025-07-20,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1573.85,Navi Mumbai
+51436,1259,2026-01-29,Dr. P. Mehta,Gynecology,Consultation,Completed,798.95,Satara
+51437,1377,2025-04-25,Dr. V. Rao,Dermatology,Emergency,Completed,898.9,Kolhapur
+51438,1348,2025-11-05,Dr. I. Gupta,Cardiology,Consultation,Completed,1972.89,Nagpur
+51439,1068,2026-10-22,Dr. T. More,General Medicine,Follow-up,Completed,532.89,Mumbai
+51440,1337,2025-02-16,Dr. A. Kulkarni,Orthopedics,Diagnostic,Scheduled,1102.33,Solapur
+51441,1463,2025-02-12,Dr. R. Shah,Orthopedics,Consultation,Scheduled,1059.73,Aurangabad
+51442,1376,2025-06-29,Dr. I. Gupta,Gynecology,Follow-up,Completed,957.11,Kolhapur
+51443,1241,2026-07-02,Dr. M. Deshmukh,Pediatrics,Consultation,Completed,1031.28,Navi Mumbai
+51444,1262,2025-09-26,Dr. P. Mehta,Ophthalmology,Diagnostic,Completed,807.16,Mumbai
+51445,1130,2026-02-28,Dr. A. Kulkarni,General Medicine,Diagnostic,Cancelled,600.42,Aurangabad
+51446,1331,2025-01-23,Dr. R. Shah,ENT,Diagnostic,Completed,687.36,Kolhapur
+51447,1121,2026-05-02,Dr. N. Joshi,General Medicine,Consultation,Completed,797.08,Thane
+51448,1171,2025-02-14,Dr. K. Singh,Ophthalmology,Follow-up,No-show,656.3,Pune
+51449,1133,2026-04-17,Dr. K. Singh,Dermatology,Diagnostic,Completed,1145.81,Thane
+51450,1168,2025-04-08,Dr. T. More,General Medicine,Follow-up,Completed,567.78,Thane
+51451,1184,2026-07-23,Dr. R. Shah,General Medicine,Follow-up,Completed,794.34,Navi Mumbai
+51452,1042,2025-07-16,Dr. S. Patil,Ophthalmology,Consultation,Completed,751.31,Nagpur
+51453,1359,2025-05-02,Dr. P. Mehta,Orthopedics,Diagnostic,Completed,959.67,Pune
+51454,1221,2025-08-11,Dr. P. Mehta,General Medicine,Consultation,Completed,637.22,Pune
+51455,1475,2025-01-01,Dr. A. Kulkarni,Gynecology,Consultation,Completed,886.72,Mumbai
+51456,1091,2025-04-20,Dr. N. Joshi,Dermatology,Diagnostic,Scheduled,1081.61,Nashik
+51457,1335,2026-02-01,Dr. T. More,Ophthalmology,Emergency,Completed,915.51,Solapur
+51458,1090,2025-07-19,Dr. R. Shah,Dermatology,Emergency,Scheduled,1045.69,Mumbai
+51459,1274,2025-08-23,Dr. T. More,Orthopedics,Consultation,Completed,1039.31,Mumbai
+51460,1246,2026-06-19,Dr. N. Joshi,General Medicine,Consultation,Cancelled,705.11,Pune
+51461,1225,2025-03-23,Dr. P. Mehta,Dermatology,Follow-up,Completed,843.12,Nagpur
+51462,1328,2025-09-20,Dr. V. Rao,Cardiology,Consultation,Cancelled,2428.57,Thane
+51463,1415,2025-05-04,Dr. K. Singh,Cardiology,Diagnostic,Completed,2140.31,Nashik
+51464,1159,2025-11-16,Dr. V. Rao,Orthopedics,Follow-up,Completed,1325.1,Kolhapur
+51465,1425,2025-08-08,Dr. R. Shah,Gynecology,Consultation,Completed,1270.27,Nashik
+51466,1093,2025-01-31,Dr. S. Patil,Ophthalmology,Consultation,Completed,882.87,Solapur
+51467,1147,2025-02-16,Dr. T. More,General Medicine,Consultation,Scheduled,648.99,Pune
+51468,1156,2026-07-19,Dr. A. Kulkarni,Orthopedics,Diagnostic,Scheduled,1070.87,Nashik
+51469,1477,2025-02-07,Dr. K. Singh,General Medicine,Follow-up,Cancelled,694.12,Satara
+51470,1060,2026-06-03,Dr. P. Mehta,Ophthalmology,Consultation,Completed,779.83,Solapur
+51471,1198,2026-08-30,Dr. R. Shah,Gynecology,Consultation,Scheduled,775.85,Kolhapur
+51472,1213,2025-11-05,Dr. R. Shah,Pediatrics,Consultation,Cancelled,991.71,Pune
+51473,1401,2025-07-26,Dr. I. Gupta,Orthopedics,Consultation,Completed,937.35,Satara
+51474,1243,2026-05-29,Dr. A. Kulkarni,Ophthalmology,Diagnostic,Completed,922.7,Nashik
+51475,1484,2026-10-13,Dr. A. Kulkarni,Ophthalmology,Follow-up,Completed,675.23,Nagpur
+51476,1371,2025-03-21,Dr. A. Kulkarni,Cardiology,Consultation,Completed,1817.18,Navi Mumbai
+51477,1352,2026-10-01,Dr. V. Rao,ENT,Diagnostic,Completed,885.82,Navi Mumbai
+51478,1377,2026-09-17,Dr. I. Gupta,Cardiology,Consultation,Cancelled,1451.97,Nashik
+51479,1081,2025-04-05,Dr. R. Shah,Cardiology,Consultation,Completed,2070.52,Satara
+51480,1225,2025-02-06,Dr. K. Singh,Gynecology,Follow-up,Completed,1117.57,Satara
+51481,1294,2026-04-19,Dr. K. Singh,General Medicine,Consultation,Completed,762.31,Navi Mumbai
+51482,1105,2025-02-21,Dr. S. Patil,Dermatology,Consultation,Cancelled,768.28,Navi Mumbai
+51483,1060,2026-02-02,Dr. A. Kulkarni,Ophthalmology,Diagnostic,Scheduled,983.9,Nagpur
+51484,1068,2025-02-12,Dr. N. Joshi,ENT,Diagnostic,No-show,714.05,Pune
+51485,1395,2026-04-03,Dr. A. Kulkarni,Cardiology,Consultation,Completed,1812.94,Pune
+51486,1329,2025-06-03,Dr. R. Shah,General Medicine,Follow-up,Completed,580.24,Pune
+51487,1141,2025-03-05,Dr. N. Joshi,Gynecology,Consultation,Completed,981.34,Aurangabad
+51488,1369,2025-02-14,Dr. T. More,General Medicine,Follow-up,Completed,637.19,Aurangabad
+51489,1348,2025-05-05,Dr. I. Gupta,Dentistry,Consultation,Completed,814.08,Solapur
+51490,1409,2025-12-24,Dr. V. Rao,General Medicine,Follow-up,Completed,603.02,Mumbai
+51491,1456,2025-02-20,Dr. S. Patil,Orthopedics,Consultation,Cancelled,1369.43,Pune
+51492,1442,2026-06-16,Dr. M. Deshmukh,Orthopedics,Emergency,Completed,1258.7,Mumbai
+51493,1091,2026-02-04,Dr. V. Rao,ENT,Diagnostic,No-show,594.65,Thane
+51494,1385,2025-07-16,Dr. R. Shah,Dentistry,Consultation,Completed,967.83,Pune
+51495,1197,2026-10-16,Dr. P. Mehta,Cardiology,Diagnostic,Completed,1828.4,Thane
+51496,1202,2026-03-12,Dr. K. Singh,Orthopedics,Consultation,Completed,1381.59,Solapur
+51497,1324,2026-03-21,Dr. T. More,Gynecology,Follow-up,Completed,1290.46,Mumbai
+51498,1302,2025-04-26,Dr. A. Kulkarni,Cardiology,Consultation,Completed,1944.41,Aurangabad
+51499,1210,2026-04-16,Dr. S. Patil,Cardiology,Consultation,Completed,2080.48,Satara
+51500,1500,2026-01-06,Dr. S. Patil,Ophthalmology,Follow-up,Completed,637.05,Navi Mumbai
+51501,1088,2026-10-14,Dr. P. Mehta,ENT,Consultation,Completed,925.88,Nashik
+51502,1049,2025-11-13,Dr. R. Shah,Ophthalmology,Follow-up,Completed,751.3,Nashik
+51503,1015,2026-03-25,Dr. I. Gupta,General Medicine,Follow-up,Cancelled,577.55,Pune
+51504,1408,2025-08-14,Dr. I. Gupta,Pediatrics,Consultation,Cancelled,706.96,Aurangabad
+51505,1204,2025-01-27,Dr. M. Deshmukh,Ophthalmology,Consultation,Completed,640.64,Solapur
+51506,1219,2025-03-26,Dr. N. Joshi,Pediatrics,Follow-up,Completed,979.22,Pune
+51507,1325,2026-07-28,Dr. N. Joshi,Pediatrics,Follow-up,Completed,715.44,Kolhapur
+51508,1218,2026-05-04,Dr. A. Kulkarni,Ophthalmology,Consultation,Completed,735.69,Aurangabad
+51509,1287,2025-08-30,Dr. T. More,General Medicine,Consultation,Completed,515.45,Aurangabad
+51510,1030,2026-04-07,Dr. K. Singh,Ophthalmology,Follow-up,Completed,1067.94,Navi Mumbai
+51511,1079,2025-01-03,Dr. M. Deshmukh,Orthopedics,Follow-up,Completed,1462.35,Aurangabad
+51512,1467,2025-01-25,Dr. P. Mehta,Dentistry,Diagnostic,Scheduled,1307.94,Navi Mumbai
+51513,1226,2025-12-02,Dr. M. Deshmukh,General Medicine,Consultation,Completed,760.22,Navi Mumbai
+51514,1084,2026-02-18,Dr. S. Patil,General Medicine,Follow-up,No-show,776.27,Navi Mumbai
+51515,1185,2026-09-13,Dr. M. Deshmukh,Ophthalmology,Follow-up,Completed,829.94,Kolhapur
+51516,1168,2026-05-18,Dr. R. Shah,Dermatology,Consultation,Completed,767.09,Kolhapur
+51517,1138,2025-06-20,Dr. T. More,Gynecology,Consultation,Scheduled,946.13,Kolhapur
+51518,1147,2026-06-24,Dr. V. Rao,General Medicine,Consultation,Completed,555.28,Navi Mumbai
+51519,1365,2025-11-22,Dr. I. Gupta,ENT,Diagnostic,Completed,826.2,Nashik
+51520,1054,2026-07-01,Dr. A. Kulkarni,Ophthalmology,Consultation,Scheduled,612.32,Aurangabad
+51521,1155,2025-04-26,Dr. V. Rao,General Medicine,Follow-up,Completed,501.14,Thane
+51522,1234,2025-01-18,Dr. P. Mehta,Cardiology,Follow-up,Completed,2087.52,Pune
+51523,1271,2025-02-08,Dr. V. Rao,Orthopedics,Consultation,Completed,988.88,Kolhapur
+51524,1441,2026-10-18,Dr. I. Gupta,Dentistry,Diagnostic,Completed,778.98,Mumbai
+51525,1462,2025-02-23,Dr. M. Deshmukh,Dentistry,Follow-up,Completed,815.53,Aurangabad
+51526,1149,2026-09-14,Dr. R. Shah,Dentistry,Consultation,Completed,1164.4,Kolhapur
+51527,1270,2026-04-27,Dr. A. Kulkarni,Cardiology,Diagnostic,Scheduled,1500.47,Nagpur
+51528,1012,2025-04-07,Dr. N. Joshi,Dermatology,Follow-up,Completed,754.0,Pune
+51529,1309,2026-07-27,Dr. R. Shah,Gynecology,Consultation,Completed,888.18,Mumbai
+51530,1077,2025-04-06,Dr. R. Shah,Gynecology,Follow-up,Completed,1200.55,Aurangabad
+51531,1037,2025-04-05,Dr. R. Shah,Cardiology,Follow-up,Completed,1566.38,Solapur
+51532,1336,2026-01-16,Dr. S. Patil,General Medicine,Consultation,Scheduled,462.74,Nashik
+51533,1090,2025-07-10,Dr. R. Shah,Orthopedics,Emergency,Completed,1552.22,Solapur
+51534,1239,2025-07-12,Dr. N. Joshi,Neurology,Follow-up,Completed,2041.27,Satara
+51535,1051,2025-05-10,Dr. V. Rao,Pediatrics,Follow-up,No-show,688.71,Nagpur
+51536,1373,2026-02-07,Dr. S. Patil,Cardiology,Consultation,Scheduled,1636.57,Kolhapur
+51537,1383,2025-01-18,Dr. R. Shah,Cardiology,Consultation,Scheduled,1553.64,Thane
+51538,1288,2025-06-12,Dr. P. Mehta,Ophthalmology,Consultation,Completed,945.38,Navi Mumbai
+51539,1418,2026-01-02,Dr. A. Kulkarni,Gynecology,Follow-up,Completed,900.01,Kolhapur
+51540,1219,2025-11-19,Dr. K. Singh,Dentistry,Follow-up,Completed,1308.87,Nagpur
+51541,1094,2026-04-09,Dr. M. Deshmukh,Neurology,Diagnostic,Completed,1994.54,Aurangabad
+51542,1076,2025-05-24,Dr. N. Joshi,Dermatology,Consultation,Scheduled,992.74,Satara
+51543,1110,2026-03-05,Dr. S. Patil,Dermatology,Follow-up,Completed,679.83,Nagpur
+51544,1101,2026-05-19,Dr. S. Patil,General Medicine,Diagnostic,Completed,768.12,Kolhapur
+51545,1162,2025-09-14,Dr. R. Shah,Dermatology,Diagnostic,Scheduled,1067.99,Satara
+51546,1108,2025-06-20,Dr. P. Mehta,Gynecology,Diagnostic,Scheduled,1222.74,Mumbai
+51547,1296,2026-01-03,Dr. R. Shah,ENT,Diagnostic,Completed,555.17,Pune
+51548,1075,2026-01-19,Dr. V. Rao,Ophthalmology,Consultation,Scheduled,940.11,Thane
+51549,1311,2025-03-04,Dr. S. Patil,Pediatrics,Follow-up,Completed,986.2,Mumbai
+51550,1168,2026-01-10,Dr. P. Mehta,General Medicine,Emergency,Completed,794.39,Satara
+51551,1344,2025-04-13,Dr. P. Mehta,Pediatrics,Follow-up,Completed,878.63,Aurangabad
+51552,1257,2026-01-12,Dr. V. Rao,Cardiology,Consultation,Scheduled,1898.69,Nashik
+51553,1453,2026-09-09,Dr. K. Singh,Gynecology,Emergency,Scheduled,1005.24,Nagpur
+51554,1220,2025-12-22,Dr. P. Mehta,General Medicine,Consultation,Completed,702.46,Navi Mumbai
+51555,1148,2026-05-20,Dr. T. More,Gynecology,Consultation,Completed,1302.49,Pune
+51556,1295,2025-07-25,Dr. S. Patil,Cardiology,Consultation,Completed,1997.74,Aurangabad
+51557,1330,2026-09-03,Dr. K. Singh,Dentistry,Consultation,Completed,886.37,Mumbai
+51558,1220,2026-06-23,Dr. M. Deshmukh,Dentistry,Consultation,No-show,760.54,Navi Mumbai
+51559,1280,2026-08-30,Dr. V. Rao,Neurology,Follow-up,Completed,1794.35,Kolhapur
+51560,1236,2026-05-06,Dr. N. Joshi,Ophthalmology,Diagnostic,Cancelled,1015.01,Pune
+51561,1153,2026-03-06,Dr. I. Gupta,Pediatrics,Consultation,Completed,631.67,Aurangabad
+51562,1157,2025-12-14,Dr. S. Patil,Gynecology,Follow-up,Completed,988.54,Mumbai
+51563,1454,2026-09-07,Dr. P. Mehta,Ophthalmology,Diagnostic,Completed,1051.22,Nagpur
+51564,1338,2026-07-16,Dr. R. Shah,ENT,Diagnostic,Scheduled,735.7,Satara
+51565,1048,2025-10-03,Dr. V. Rao,ENT,Consultation,Completed,617.68,Aurangabad
+51566,1482,2025-02-26,Dr. A. Kulkarni,Neurology,Consultation,Completed,1539.51,Kolhapur
+51567,1357,2025-01-03,Dr. N. Joshi,ENT,Follow-up,Completed,696.42,Solapur
+51568,1026,2025-06-04,Dr. A. Kulkarni,Gynecology,Diagnostic,Scheduled,820.37,Kolhapur
+51569,1364,2025-02-11,Dr. M. Deshmukh,Orthopedics,Follow-up,No-show,1375.77,Nagpur
+51570,1295,2025-05-21,Dr. N. Joshi,Orthopedics,Consultation,No-show,1326.36,Nagpur
+51571,1458,2025-03-14,Dr. M. Deshmukh,Gynecology,Follow-up,Completed,1138.63,Solapur
+51572,1245,2026-10-12,Dr. M. Deshmukh,General Medicine,Follow-up,Scheduled,669.88,Thane
+51573,1260,2025-03-05,Dr. R. Shah,General Medicine,Follow-up,Completed,456.0,Mumbai
+51574,1158,2026-02-20,Dr. K. Singh,Ophthalmology,Diagnostic,Cancelled,683.74,Aurangabad
+51575,1161,2025-08-21,Dr. K. Singh,General Medicine,Diagnostic,Completed,509.61,Kolhapur
+51576,1309,2025-04-26,Dr. N. Joshi,Dermatology,Follow-up,Completed,727.89,Nagpur
+51577,1414,2026-04-10,Dr. A. Kulkarni,Dermatology,Follow-up,Scheduled,1072.16,Pune
+51578,1446,2026-10-05,Dr. A. Kulkarni,General Medicine,Follow-up,Scheduled,493.25,Navi Mumbai
+51579,1386,2026-06-08,Dr. V. Rao,Gynecology,Follow-up,Completed,1150.92,Pune
+51580,1305,2026-10-08,Dr. I. Gupta,General Medicine,Consultation,Completed,514.22,Navi Mumbai
+51581,1251,2026-01-26,Dr. T. More,Neurology,Follow-up,Scheduled,1313.58,Pune
+51582,1170,2026-03-22,Dr. N. Joshi,Gynecology,Follow-up,Scheduled,847.52,Satara
+51583,1384,2025-04-07,Dr. N. Joshi,Gynecology,Follow-up,Cancelled,1055.04,Mumbai
+51584,1160,2026-07-19,Dr. R. Shah,ENT,Consultation,Completed,796.1,Kolhapur
+51585,1134,2026-05-11,Dr. A. Kulkarni,Cardiology,Follow-up,Completed,2226.88,Solapur
+51586,1434,2025-06-18,Dr. K. Singh,Gynecology,Follow-up,Scheduled,827.14,Satara
+51587,1295,2025-08-23,Dr. N. Joshi,General Medicine,Consultation,Cancelled,671.83,Satara
+51588,1178,2026-02-09,Dr. N. Joshi,Cardiology,Consultation,Cancelled,2185.75,Mumbai
+51589,1433,2025-01-09,Dr. M. Deshmukh,General Medicine,Consultation,Completed,562.47,Navi Mumbai
+51590,1482,2026-06-26,Dr. M. Deshmukh,Gynecology,Emergency,Completed,797.83,Nagpur
+51591,1159,2025-07-05,Dr. I. Gupta,General Medicine,Diagnostic,Completed,506.14,Satara
+51592,1261,2025-02-19,Dr. T. More,ENT,Follow-up,No-show,563.45,Solapur
+51593,1242,2025-08-07,Dr. V. Rao,Pediatrics,Consultation,Completed,1025.86,Thane
+51594,1351,2026-07-08,Dr. M. Deshmukh,Orthopedics,Follow-up,Completed,1171.23,Aurangabad
+51595,1476,2025-07-01,Dr. K. Singh,Dermatology,Follow-up,Cancelled,957.61,Mumbai
+51596,1275,2025-12-23,Dr. M. Deshmukh,Dermatology,Emergency,No-show,1090.09,Kolhapur
+51597,1400,2026-06-22,Dr. P. Mehta,Gynecology,Consultation,Completed,972.9,Satara
+51598,1298,2025-01-23,Dr. R. Shah,ENT,Consultation,Cancelled,797.62,Mumbai
+51599,1444,2026-05-19,Dr. K. Singh,Gynecology,Follow-up,Completed,796.01,Nagpur
+51600,1203,2025-07-11,Dr. A. Kulkarni,Orthopedics,Consultation,Completed,1246.25,Solapur
+51601,1193,2026-04-06,Dr. K. Singh,Dermatology,Follow-up,Completed,727.12,Navi Mumbai
+51602,1212,2025-05-05,Dr. V. Rao,Orthopedics,Diagnostic,Completed,1078.76,Solapur
+51603,1499,2025-04-03,Dr. A. Kulkarni,General Medicine,Consultation,Scheduled,555.6,Navi Mumbai
+51604,1306,2026-06-06,Dr. P. Mehta,Pediatrics,Consultation,Scheduled,944.44,Navi Mumbai
+51605,1077,2026-06-19,Dr. S. Patil,General Medicine,Follow-up,Completed,692.68,Mumbai
+51606,1021,2026-10-12,Dr. N. Joshi,ENT,Diagnostic,No-show,838.77,Solapur
+51607,1260,2026-03-25,Dr. A. Kulkarni,General Medicine,Follow-up,Completed,472.23,Thane
+51608,1403,2025-11-05,Dr. K. Singh,Pediatrics,Consultation,Cancelled,1077.08,Solapur
+51609,1240,2025-05-09,Dr. P. Mehta,Pediatrics,Follow-up,Scheduled,626.12,Thane
+51610,1281,2025-07-15,Dr. M. Deshmukh,General Medicine,Consultation,Completed,747.27,Mumbai
+51611,1400,2026-03-06,Dr. T. More,General Medicine,Diagnostic,Completed,716.5,Satara
+51612,1259,2025-08-18,Dr. V. Rao,Cardiology,Follow-up,Completed,1989.1,Aurangabad
+51613,1455,2025-11-17,Dr. V. Rao,Ophthalmology,Consultation,Completed,810.65,Mumbai
+51614,1319,2025-04-22,Dr. R. Shah,General Medicine,Follow-up,Scheduled,722.57,Satara
+51615,1366,2025-10-18,Dr. P. Mehta,Neurology,Follow-up,Completed,1910.26,Thane
+51616,1391,2025-06-07,Dr. K. Singh,Orthopedics,Consultation,Completed,998.77,Kolhapur
+51617,1314,2025-03-16,Dr. I. Gupta,Dermatology,Follow-up,Completed,1103.02,Aurangabad
+51618,1026,2025-03-29,Dr. V. Rao,Pediatrics,Emergency,Scheduled,637.71,Mumbai
+51619,1214,2025-12-10,Dr. R. Shah,Pediatrics,Follow-up,Completed,840.26,Nagpur
+51620,1071,2025-08-31,Dr. V. Rao,General Medicine,Consultation,Cancelled,682.23,Navi Mumbai
+51621,1256,2025-03-08,Dr. A. Kulkarni,Neurology,Follow-up,Completed,1988.82,Satara
+51622,1072,2025-12-07,Dr. M. Deshmukh,Ophthalmology,Consultation,Completed,822.29,Mumbai
+51623,1255,2025-04-19,Dr. I. Gupta,Dentistry,Follow-up,Completed,892.11,Mumbai
+51624,1172,2025-01-11,Dr. T. More,Orthopedics,Follow-up,Completed,1253.27,Satara
+51625,1011,2025-03-29,Dr. I. Gupta,Orthopedics,Consultation,Completed,1080.15,Navi Mumbai
+51626,1063,2025-10-24,Dr. M. Deshmukh,ENT,Consultation,Cancelled,747.06,Pune
+51627,1252,2026-09-24,Dr. V. Rao,Dentistry,Emergency,No-show,1027.5,Mumbai
+51628,1040,2025-06-09,Dr. K. Singh,Ophthalmology,Consultation,Completed,974.64,Nagpur
+51629,1428,2025-07-08,Dr. S. Patil,Cardiology,Diagnostic,Completed,1609.3,Nashik
+51630,1380,2025-06-10,Dr. I. Gupta,Pediatrics,Follow-up,Completed,695.99,Mumbai
+51631,1355,2025-08-24,Dr. I. Gupta,Cardiology,Follow-up,Completed,1862.12,Nashik
+51632,1087,2026-04-20,Dr. R. Shah,ENT,Consultation,Cancelled,546.21,Thane
+51633,1398,2025-08-02,Dr. K. Singh,General Medicine,Consultation,Cancelled,532.56,Solapur
+51634,1318,2026-03-12,Dr. N. Joshi,General Medicine,Consultation,Cancelled,577.33,Nagpur
+51635,1196,2026-08-18,Dr. V. Rao,General Medicine,Follow-up,Completed,625.55,Aurangabad
+51636,1001,2026-09-19,Dr. P. Mehta,Pediatrics,Emergency,Completed,729.33,Solapur
+51637,1265,2026-01-08,Dr. S. Patil,General Medicine,Diagnostic,Completed,651.83,Pune
+51638,1398,2026-04-18,Dr. A. Kulkarni,Cardiology,Consultation,Scheduled,2298.69,Solapur
+51639,1017,2026-09-01,Dr. P. Mehta,General Medicine,Consultation,Completed,645.74,Mumbai
+51640,1027,2026-06-05,Dr. T. More,Gynecology,Consultation,Scheduled,922.1,Thane
+51641,1192,2025-07-18,Dr. T. More,General Medicine,Emergency,Completed,472.31,Aurangabad
+51642,1256,2025-03-29,Dr. S. Patil,Pediatrics,Consultation,Completed,665.6,Solapur
+51643,1238,2025-03-18,Dr. T. More,ENT,Consultation,Cancelled,760.71,Kolhapur
+51644,1214,2026-08-07,Dr. M. Deshmukh,Gynecology,Follow-up,Completed,1160.23,Thane
+51645,1128,2026-01-04,Dr. P. Mehta,Orthopedics,Follow-up,Completed,935.76,Pune
+51646,1030,2025-07-16,Dr. M. Deshmukh,Orthopedics,Consultation,Completed,1033.6,Kolhapur
+51647,1016,2025-08-17,Dr. P. Mehta,General Medicine,Follow-up,Scheduled,564.87,Navi Mumbai
+51648,1050,2025-07-06,Dr. P. Mehta,Pediatrics,Consultation,Completed,753.49,Mumbai
+51649,1346,2026-06-15,Dr. V. Rao,Orthopedics,Consultation,Scheduled,1590.05,Mumbai
+51650,1393,2026-02-10,Dr. N. Joshi,Orthopedics,Consultation,Completed,1046.71,Aurangabad
+51651,1218,2026-08-06,Dr. P. Mehta,Orthopedics,Consultation,Completed,945.01,Satara
+51652,1039,2025-07-19,Dr. V. Rao,Neurology,Emergency,Completed,1538.89,Kolhapur
+51653,1208,2025-11-09,Dr. N. Joshi,General Medicine,Follow-up,Completed,498.4,Nashik
+51654,1493,2025-03-22,Dr. P. Mehta,Orthopedics,Follow-up,Scheduled,991.14,Mumbai
+51655,1125,2026-10-06,Dr. A. Kulkarni,Gynecology,Consultation,Scheduled,994.47,Aurangabad
+51656,1246,2025-12-05,Dr. T. More,Pediatrics,Follow-up,Scheduled,747.07,Nagpur
+51657,1269,2026-01-02,Dr. R. Shah,Pediatrics,Emergency,Scheduled,644.03,Aurangabad
+51658,1165,2025-10-01,Dr. T. More,Pediatrics,Consultation,Completed,890.07,Kolhapur
+51659,1220,2025-06-29,Dr. K. Singh,ENT,Emergency,Completed,735.71,Nagpur
+51660,1236,2026-09-20,Dr. I. Gupta,Dentistry,Follow-up,No-show,796.26,Nashik
+51661,1237,2025-11-20,Dr. A. Kulkarni,Neurology,Follow-up,Completed,2028.23,Thane
+51662,1359,2026-03-23,Dr. S. Patil,Cardiology,Consultation,No-show,1657.49,Nashik
+51663,1291,2025-01-25,Dr. A. Kulkarni,Pediatrics,Follow-up,Completed,1061.46,Navi Mumbai
+51664,1027,2025-07-02,Dr. N. Joshi,Orthopedics,Follow-up,Completed,1570.71,Kolhapur
+51665,1004,2026-06-17,Dr. I. Gupta,ENT,Emergency,Completed,707.32,Solapur
+51666,1206,2025-02-28,Dr. K. Singh,Cardiology,Diagnostic,Completed,1596.85,Kolhapur
+51667,1454,2025-03-09,Dr. K. Singh,Dentistry,Consultation,Completed,1250.91,Kolhapur
+51668,1019,2026-06-21,Dr. T. More,General Medicine,Emergency,Completed,580.06,Kolhapur
+51669,1036,2025-07-24,Dr. A. Kulkarni,General Medicine,Diagnostic,Completed,508.88,Kolhapur
+51670,1340,2025-07-01,Dr. K. Singh,ENT,Follow-up,Completed,756.68,Kolhapur
+51671,1226,2026-01-10,Dr. M. Deshmukh,Cardiology,Consultation,Completed,1878.55,Solapur
+51672,1116,2025-05-10,Dr. V. Rao,Gynecology,Consultation,Completed,1260.01,Aurangabad
+51673,1104,2025-01-29,Dr. K. Singh,Orthopedics,Consultation,Completed,1425.08,Pune
+51674,1333,2025-01-03,Dr. V. Rao,ENT,Consultation,No-show,892.98,Pune
+51675,1262,2025-02-22,Dr. N. Joshi,General Medicine,Emergency,Completed,714.49,Pune
+51676,1320,2025-04-15,Dr. V. Rao,Cardiology,Consultation,Completed,2043.55,Thane
+51677,1141,2026-04-06,Dr. N. Joshi,ENT,Follow-up,Completed,735.07,Nashik
+51678,1264,2025-07-17,Dr. V. Rao,Cardiology,Follow-up,Completed,2416.56,Nagpur
+51679,1431,2025-02-17,Dr. N. Joshi,Orthopedics,Follow-up,Completed,1590.6,Solapur
+51680,1159,2025-01-10,Dr. M. Deshmukh,ENT,Consultation,Completed,881.52,Mumbai
+51681,1199,2025-11-12,Dr. S. Patil,Neurology,Follow-up,Completed,1944.31,Mumbai
+51682,1082,2026-07-11,Dr. M. Deshmukh,Ophthalmology,Follow-up,Completed,877.23,Pune
+51683,1320,2025-08-13,Dr. K. Singh,General Medicine,Follow-up,Completed,543.51,Nashik
+51684,1017,2025-02-12,Dr. T. More,General Medicine,Consultation,Completed,765.16,Pune
+51685,1125,2025-05-31,Dr. R. Shah,Pediatrics,Follow-up,Completed,605.19,Thane
+51686,1357,2025-11-27,Dr. R. Shah,Orthopedics,Consultation,Completed,1063.76,Aurangabad
+51687,1010,2025-05-05,Dr. P. Mehta,Dentistry,Follow-up,Completed,992.24,Mumbai
+51688,1495,2026-10-10,Dr. K. Singh,Orthopedics,Consultation,Cancelled,1322.03,Satara
+51689,1203,2026-05-21,Dr. R. Shah,General Medicine,Consultation,Completed,651.92,Nagpur
+51690,1200,2025-08-17,Dr. M. Deshmukh,Pediatrics,Diagnostic,Completed,684.39,Pune
+51691,1269,2026-09-22,Dr. A. Kulkarni,Pediatrics,Consultation,Completed,650.3,Kolhapur
+51692,1320,2025-08-04,Dr. A. Kulkarni,General Medicine,Diagnostic,Completed,530.04,Thane
+51693,1230,2025-04-03,Dr. R. Shah,ENT,Diagnostic,Completed,671.46,Nashik
+51694,1443,2026-09-14,Dr. K. Singh,Gynecology,Consultation,No-show,758.43,Aurangabad
+51695,1482,2026-09-28,Dr. T. More,Ophthalmology,Consultation,Cancelled,932.38,Navi Mumbai
+51696,1101,2025-07-26,Dr. N. Joshi,Pediatrics,Consultation,Completed,718.91,Pune
+51697,1354,2026-01-29,Dr. R. Shah,Neurology,Diagnostic,Completed,1537.35,Mumbai
+51698,1151,2025-04-25,Dr. I. Gupta,Cardiology,Follow-up,No-show,1711.69,Nashik
+51699,1498,2026-03-01,Dr. S. Patil,Gynecology,Consultation,Completed,1057.1,Solapur
+51700,1127,2026-04-02,Dr. R. Shah,Pediatrics,Follow-up,Completed,1012.7,Mumbai
+51701,1148,2026-04-15,Dr. R. Shah,General Medicine,Consultation,No-show,503.78,Kolhapur
+51702,1358,2026-01-12,Dr. M. Deshmukh,Orthopedics,Follow-up,Completed,1145.32,Satara
+51703,1395,2026-04-12,Dr. K. Singh,ENT,Follow-up,Completed,815.65,Mumbai
+51704,1065,2026-01-03,Dr. M. Deshmukh,ENT,Consultation,Completed,543.58,Pune
+51705,1278,2026-06-27,Dr. N. Joshi,Ophthalmology,Diagnostic,Completed,998.39,Mumbai
+51706,1173,2025-04-29,Dr. M. Deshmukh,Cardiology,Consultation,Completed,2388.77,Pune
+51707,1306,2025-11-17,Dr. I. Gupta,Dentistry,Follow-up,Completed,1114.58,Satara
+51708,1279,2025-10-03,Dr. V. Rao,Pediatrics,Follow-up,Completed,1059.12,Navi Mumbai
+51709,1493,2025-12-20,Dr. V. Rao,Pediatrics,Emergency,Completed,798.27,Nagpur
+51710,1467,2025-04-05,Dr. N. Joshi,Pediatrics,Follow-up,Completed,799.22,Nashik
+51711,1327,2025-08-03,Dr. P. Mehta,Pediatrics,Diagnostic,No-show,651.0,Nashik
+51712,1340,2026-09-24,Dr. T. More,General Medicine,Consultation,Completed,462.76,Navi Mumbai
+51713,1450,2025-03-11,Dr. V. Rao,Pediatrics,Diagnostic,Cancelled,717.36,Navi Mumbai
+51714,1092,2026-02-25,Dr. T. More,Dermatology,Consultation,Completed,933.19,Thane
+51715,1363,2026-03-16,Dr. A. Kulkarni,General Medicine,Follow-up,Completed,632.77,Kolhapur
+51716,1387,2025-11-11,Dr. T. More,ENT,Consultation,Completed,616.38,Mumbai
+51717,1064,2025-01-23,Dr. I. Gupta,Gynecology,Emergency,Completed,1117.68,Navi Mumbai
+51718,1441,2025-01-23,Dr. V. Rao,General Medicine,Emergency,Completed,515.23,Pune
+51719,1350,2025-07-02,Dr. I. Gupta,Orthopedics,Consultation,No-show,1134.87,Mumbai
+51720,1174,2025-03-09,Dr. P. Mehta,ENT,Follow-up,Scheduled,607.2,Thane
+51721,1243,2025-03-04,Dr. S. Patil,Cardiology,Follow-up,Cancelled,2102.4,Mumbai
+51722,1245,2025-04-17,Dr. V. Rao,Pediatrics,Consultation,Completed,847.95,Mumbai
+51723,1460,2025-05-07,Dr. V. Rao,Cardiology,Follow-up,Completed,2144.99,Satara
+51724,1485,2026-07-10,Dr. R. Shah,General Medicine,Follow-up,Completed,470.61,Pune
+51725,1404,2026-02-27,Dr. S. Patil,Dermatology,Follow-up,Completed,904.7,Nashik
+51726,1327,2025-01-21,Dr. S. Patil,General Medicine,Consultation,No-show,798.11,Thane
+51727,1053,2026-02-21,Dr. P. Mehta,Dermatology,Diagnostic,No-show,703.95,Mumbai
+51728,1458,2025-04-01,Dr. R. Shah,Neurology,Consultation,Completed,1601.64,Aurangabad
+51729,1067,2025-10-06,Dr. K. Singh,Neurology,Follow-up,Scheduled,1238.78,Pune
+51730,1084,2025-01-26,Dr. R. Shah,Cardiology,Consultation,No-show,1508.39,Thane
+51731,1035,2025-03-01,Dr. I. Gupta,Dermatology,Consultation,Completed,924.76,Pune
+51732,1474,2025-03-29,Dr. V. Rao,General Medicine,Consultation,Scheduled,506.7,Aurangabad
+51733,1247,2025-10-14,Dr. M. Deshmukh,General Medicine,Consultation,Completed,636.75,Aurangabad
+51734,1118,2025-11-03,Dr. M. Deshmukh,Cardiology,Follow-up,Completed,2346.55,Aurangabad
+51735,1041,2025-08-22,Dr. V. Rao,General Medicine,Follow-up,Completed,522.15,Nashik
+51736,1206,2026-02-15,Dr. A. Kulkarni,Pediatrics,Follow-up,Completed,651.45,Nashik
+51737,1362,2026-04-22,Dr. K. Singh,Cardiology,Follow-up,Completed,2241.3,Navi Mumbai
+51738,1498,2026-04-28,Dr. P. Mehta,Orthopedics,Consultation,Scheduled,1231.39,Aurangabad
+51739,1277,2026-01-19,Dr. S. Patil,Neurology,Consultation,Completed,2047.31,Mumbai
+51740,1304,2025-12-28,Dr. T. More,Pediatrics,Follow-up,Completed,746.94,Pune
+51741,1418,2025-11-22,Dr. V. Rao,Gynecology,Follow-up,Completed,1126.52,Nagpur
+51742,1451,2025-06-07,Dr. R. Shah,Pediatrics,Follow-up,Completed,1043.19,Thane
+51743,1140,2025-11-19,Dr. V. Rao,Gynecology,Consultation,Cancelled,853.02,Nagpur
+51744,1496,2025-01-07,Dr. N. Joshi,Pediatrics,Diagnostic,Completed,984.35,Solapur
+51745,1260,2026-10-02,Dr. K. Singh,General Medicine,Consultation,Scheduled,677.35,Satara
+51746,1466,2025-09-03,Dr. N. Joshi,ENT,Follow-up,Completed,866.44,Navi Mumbai
+51747,1059,2026-05-16,Dr. I. Gupta,Dermatology,Consultation,Completed,767.17,Solapur
+51748,1049,2026-09-26,Dr. I. Gupta,Cardiology,Follow-up,Completed,1818.81,Kolhapur
+51749,1443,2025-11-26,Dr. A. Kulkarni,General Medicine,Consultation,Completed,496.38,Solapur
+51750,1337,2026-07-25,Dr. N. Joshi,Dentistry,Follow-up,Scheduled,1326.05,Kolhapur
+51751,1088,2025-11-14,Dr. S. Patil,Dentistry,Consultation,Completed,787.62,Pune
+51752,1448,2025-03-29,Dr. N. Joshi,Pediatrics,Follow-up,Completed,631.43,Nagpur
+51753,1052,2025-01-18,Dr. R. Shah,Gynecology,Consultation,Completed,1288.89,Kolhapur
+51754,1342,2025-03-31,Dr. P. Mehta,Dermatology,Follow-up,No-show,837.41,Navi Mumbai
+51755,1103,2026-09-16,Dr. R. Shah,Orthopedics,Consultation,Completed,1329.85,Solapur
+51756,1036,2025-11-11,Dr. V. Rao,General Medicine,Consultation,Cancelled,553.49,Mumbai
+51757,1404,2025-07-31,Dr. N. Joshi,Neurology,Follow-up,Cancelled,1822.81,Pune
+51758,1424,2025-10-23,Dr. I. Gupta,General Medicine,Consultation,Completed,519.29,Satara
+51759,1053,2025-06-19,Dr. T. More,ENT,Consultation,Completed,717.73,Satara
+51760,1047,2026-07-31,Dr. V. Rao,Pediatrics,Diagnostic,Completed,856.08,Aurangabad
+51761,1308,2026-10-24,Dr. N. Joshi,General Medicine,Diagnostic,Completed,570.11,Nashik
+51762,1015,2025-02-26,Dr. K. Singh,Dermatology,Diagnostic,Scheduled,810.92,Solapur
+51763,1374,2026-04-21,Dr. V. Rao,Cardiology,Consultation,Completed,1501.42,Kolhapur
+51764,1458,2025-08-11,Dr. R. Shah,Dermatology,Follow-up,No-show,1056.32,Nagpur
+51765,1376,2025-02-01,Dr. M. Deshmukh,Dentistry,Diagnostic,Completed,850.97,Kolhapur
+51766,1116,2026-09-03,Dr. I. Gupta,Neurology,Consultation,Completed,1480.44,Navi Mumbai
+51767,1096,2025-02-10,Dr. M. Deshmukh,Orthopedics,Follow-up,Cancelled,1142.57,Nagpur
+51768,1341,2025-05-17,Dr. A. Kulkarni,General Medicine,Consultation,Completed,613.57,Satara
+51769,1031,2025-01-17,Dr. T. More,Dentistry,Diagnostic,Completed,1171.54,Solapur
+51770,1269,2025-11-08,Dr. I. Gupta,Ophthalmology,Follow-up,Completed,805.41,Pune
+51771,1225,2026-02-01,Dr. V. Rao,General Medicine,Follow-up,Completed,763.59,Satara
+51772,1373,2025-08-01,Dr. V. Rao,Dermatology,Follow-up,Cancelled,1042.08,Aurangabad
+51773,1102,2025-02-17,Dr. M. Deshmukh,General Medicine,Consultation,Completed,751.86,Navi Mumbai
+51774,1382,2025-03-18,Dr. M. Deshmukh,ENT,Consultation,No-show,825.87,Pune
+51775,1350,2026-09-10,Dr. I. Gupta,Ophthalmology,Follow-up,Completed,671.34,Aurangabad
+51776,1120,2026-06-18,Dr. T. More,ENT,Follow-up,Completed,935.73,Solapur
+51777,1179,2026-09-13,Dr. N. Joshi,Neurology,Follow-up,Completed,1955.12,Nagpur
+51778,1034,2025-12-18,Dr. M. Deshmukh,Orthopedics,Consultation,No-show,1312.36,Aurangabad
+51779,1225,2025-12-28,Dr. R. Shah,General Medicine,Follow-up,Completed,509.48,Kolhapur
+51780,1131,2026-06-05,Dr. A. Kulkarni,Orthopedics,Consultation,Completed,1024.33,Thane
+51781,1057,2026-02-13,Dr. N. Joshi,Cardiology,Consultation,Completed,2013.48,Nagpur
+51782,1280,2025-10-16,Dr. P. Mehta,Neurology,Emergency,Completed,1599.55,Mumbai
+51783,1284,2025-07-13,Dr. V. Rao,General Medicine,Follow-up,Cancelled,693.31,Solapur
+51784,1043,2025-11-18,Dr. T. More,Ophthalmology,Follow-up,Completed,778.77,Nashik
+51785,1093,2025-02-12,Dr. M. Deshmukh,ENT,Emergency,Scheduled,740.39,Mumbai
+51786,1042,2025-05-08,Dr. R. Shah,Ophthalmology,Consultation,Completed,690.22,Solapur
+51787,1340,2026-05-04,Dr. T. More,Gynecology,Emergency,Completed,843.12,Navi Mumbai
+51788,1170,2026-07-29,Dr. K. Singh,Gynecology,Follow-up,Completed,795.39,Thane
+51789,1036,2025-03-09,Dr. P. Mehta,Cardiology,Follow-up,Cancelled,2235.21,Satara
+51790,1096,2025-03-06,Dr. A. Kulkarni,General Medicine,Consultation,Completed,649.94,Nagpur
+51791,1488,2025-02-26,Dr. N. Joshi,Orthopedics,Consultation,Completed,1581.94,Thane
+51792,1128,2026-06-09,Dr. V. Rao,Cardiology,Consultation,Completed,2159.45,Thane
+51793,1343,2025-07-26,Dr. T. More,Orthopedics,Consultation,Completed,1453.51,Satara
+51794,1235,2025-08-05,Dr. P. Mehta,ENT,Consultation,Completed,738.8,Thane
+51795,1091,2025-01-09,Dr. N. Joshi,Gynecology,Follow-up,Scheduled,1239.27,Satara
+51796,1154,2026-10-06,Dr. M. Deshmukh,Dentistry,Follow-up,Completed,1315.24,Solapur
+51797,1008,2025-10-15,Dr. N. Joshi,Dentistry,Consultation,Completed,1183.04,Thane
+51798,1374,2026-06-12,Dr. A. Kulkarni,Ophthalmology,Follow-up,Completed,650.68,Nagpur
+51799,1168,2026-04-14,Dr. R. Shah,Orthopedics,Emergency,Completed,1368.73,Thane
+51800,1250,2025-04-04,Dr. K. Singh,Ophthalmology,Follow-up,Completed,657.81,Nashik
